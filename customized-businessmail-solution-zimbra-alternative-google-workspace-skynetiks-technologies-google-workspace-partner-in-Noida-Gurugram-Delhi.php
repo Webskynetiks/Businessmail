@@ -1,4 +1,12 @@
-<?php include_once "common/header.php" ?>
+<?php
+$meta_title = "Zimbra Mail Hosting India | Secure Business Email Solutions by Skynetiks Technologies";
+$meta_description = "Get Zimbra Mail – a robust and secure business email hosting solution from Skynetiks Technologies. Ideal for enterprises needing affordable, private, and scalable communication in India.";
+$meta_keywords = "Zimbra Mail India, Business Email Hosting, Zimbra Email Solution, Zimbra Hosting India, Secure Email for Business, Email Server Hosting, Skynetiks Technologies Zimbra, Google Workspace Alternative India";
+$meta_canonical = "https://businessmail.co.in/customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
 <style type="text/css">
 	.main-header {
 		position: inherit;

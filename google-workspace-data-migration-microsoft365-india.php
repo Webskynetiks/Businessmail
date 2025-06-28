@@ -1,4 +1,12 @@
-<?php include_once "common/header.php" ?>
+<?php
+$meta_title = "Microsoft 365 Business Email Hosting India | Office 365 Email Solutions by Skynetiks";
+$meta_description = "Get secure, professional Microsoft 365 (Office 365) business email hosting with expert setup, migration, and support by Skynetiks Technologies. Ideal for SMEs, enterprises & remote teams in India.";
+$meta_keywords = "Microsoft 365 Email India, Office 365 Business Mail, Microsoft Email Hosting, Microsoft 365 Partner India, Business Email Solutions, Cloud Email India, Skynetiks Technologies Office 365";
+$meta_canonical = "https://businessmail.co.in/google-workspace-data-migration-microsoft365-india.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
 <style type="text/css">
     .main-header {
         position: inherit;

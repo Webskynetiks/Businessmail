@@ -1,4 +1,13 @@
-<?php include_once "common/header.php" ?>
+<?php
+$meta_title = "Sign Up for Google Workspace, Microsoft 365 & Zoho Mail | Skynetiks Email Services India";
+$meta_description = "Get started with business email solutions from Skynetiks Technologies. Sign up for Google Workspace, Microsoft 365, Zoho Mail & more with expert onboarding, free setup, and technical support in India.";
+$meta_keywords = "Google Workspace Signup, Microsoft 365 Sign Up India, Zoho Mail Trial, Business Email Signup India, Email Solutions Noida, Email Product Registration, Skynetiks Technologies Signup";
+$meta_canonical = "https://businessmail.co.in/signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
+
 <style type="text/css">
     .link-contact {
         color: #015790 !important;
@@ -95,48 +104,7 @@
     </p>
  </div>
 
-    <!-- <div class="service-grid container">
-      <div class="service-card">
-        <img src="images/partners/google-workspace-icon.webp" alt="Google Workspace Email India" class="service-img">
-        <h3 class="service-title">Google Workspace</h3>
-        <p>Professional Gmail for business, with Drive, Meet, and Admin tools. Certified partner support.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/zoho-mail-secure-adfree-business-email-provider-india.webp" alt="Zoho Mail Partner India" class="service-img">
-        <h3 class="service-title">Zoho Mail</h3>
-        <p>Ad-free, secure, and privacy-focused business email hosting for growing Indian companies.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/microsoft-365-outlook-email-hosting-cloud-solution-india.webp" alt="Microsoft 365 Email Hosting India" class="service-img">
-        <h3 class="service-title">Microsoft 365</h3>
-        <p>Hosted Outlook, Teams, and Office apps for enterprises. Cloud-powered and reliable.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/rediffmail-pro-business-email-hosting-india.webp" alt="Rediffmail Pro India" class="service-img">
-        <h3 class="service-title">Rediffmail Pro</h3>
-        <p>Budget-friendly business email with spam protection, Indian data centers, and easy access.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/zimbra-open-source-mail-server-business-hosting-india.jpg" alt="Zimbra Mail India" class="service-img">
-        <h3 class="service-title">Zimbra Mail</h3>
-        <p>Open-source and scalable mail suite for enterprises. Great for collaboration and flexibility.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/resellerclub-rc-mail-email-solution-for-startups-resellers.webp" alt="ResellerClub Email Hosting" class="service-img">
-        <h3 class="service-title">ResellerClub Mail</h3>
-        <p>Simple and powerful mail solutions for small businesses and agencies.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/hosted-microsoft-exchange-enterprise-email-hosting-india.webp" alt="Hosted Exchange Mail India" class="service-img">
-        <h3 class="service-title">Hosted Exchange</h3>
-        <p>Enterprise-level hosted Microsoft Exchange with Outlook sync and superior reliability.</p>
-      </div>
-      <div class="service-card">
-        <img src="images/partners/custom-domain-business-email-brand-identity-hosting-india.webp" alt="Custom Email Hosting India" class="service-img">
-        <h3 class="service-title">Custom Mail</h3>
-        <p>Get a tailored email solution with private-label features, custom domains, and branding.</p>
-      </div>
-    </div> -->
+   
 
 
     <?php include_once "common/products.php" ?>

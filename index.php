@@ -322,14 +322,14 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 			<div class="content-column col-lg-5 col-md-12 col-sm-12">
 				<div class="inner-column">
 					<div class="sec-title centered">
-						<h2>About <span>Us</span></h2>
+						<h2>About Us</h2>
 					</div>
-					<p style="text-align:left;"> Welcome to <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies</a> As an esteemed <a href="https://cloud.google.com/find-a-partner/partner/shrishti-softech-solutions-pvt-ltd?redirect=">Google Workspace</a> reseller, we take pride in our extensive experience of over <strong>22 years</strong>, during which we have successfully served more than <strong>5000 satisfied clients</strong>. Our name is synonymous with reliability and dependability, making us a trusted choice for businesses seeking <strong>secure cloud email services</strong> and collaboration tools.
-
-					</p>
-
-
-					<p style="text-align:left;">Our dedicated team of <strong>Google Workspace experts</strong> standby round the clock to support you. After all, we understand that <strong>email communication</strong> is the lifeline of your business.</p>
+					<p>
+  <strong>Skynetiks Technologies</strong> is a trusted <strong>Google Workspace reseller in India</strong>, delivering secure <strong>business email</strong> and <strong>cloud collaboration solutions</strong> for over 22 years. 
+  With <strong>5,000+ satisfied clients</strong>, we are known for reliability, performance, and expert technical support. 
+  Our services include <strong>Google Workspace</strong>, <strong>Microsoft 365</strong>, <strong>Zoho Mail</strong>, and <strong>custom domain-based email hosting</strong>. 
+  We provide seamless setup, expert-led email migration, and <strong>24x7 technical assistance</strong> to ensure your business communication runs smoothly and securely.
+</p>
 
 
 					<!-- Fact Counter -->

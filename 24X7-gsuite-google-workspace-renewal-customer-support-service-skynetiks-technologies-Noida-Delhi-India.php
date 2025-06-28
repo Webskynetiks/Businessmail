@@ -1,4 +1,12 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "Ask for Support | Google Workspace, Zoho Mail, Microsoft 365 Help – Skynetiks Technologies";
+$meta_description = "Need help with your email setup or facing issues with Google Workspace, Zoho Mail, or Microsoft 365? Skynetiks Technologies offers expert support, troubleshooting & guidance for all business email platforms.";
+$meta_keywords = "Ask for Email Support, Google Workspace Help, Zoho Mail Assistance, Microsoft 365 Support, Business Email Issues India, Email Setup Support, Skynetiks Technologies, G Suite Troubleshooting";
+$meta_canonical = "https://businessmail.co.in/24X7-gsuite-google-workspace-renewal-customer-support-service-skynetiks-technologies-Noida-Delhi-India.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
 <style type="text/css">
     .link-contact {
     color: #015790!important;

@@ -1,4 +1,12 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "ResellerClub Business Email Hosting India | Fast, Secure & Budget-Friendly by Skynetiks";
+$meta_description = "Looking for affordable business email hosting in India? Skynetiks Technologies offers ResellerClub-powered business mail with fast setup, strong security, and 24x7 expert support for startups, agencies & resellers.";
+$meta_keywords = "ResellerClub Email Hosting India, Business Email Solutions, Budget Business Mail, ResellerClub Partner India, Email Hosting for Small Business, Reseller Email Services, Skynetiks Technologies Email Hosting";
+$meta_canonical = "https://businessmail.co.in/economical-business-email-solution-hosting-india.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
 <style type="text/css">
 	.main-header {
     position: inherit;

@@ -1,4 +1,13 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "Email FAQ – Google Workspace, Zoho Mail, Microsoft 365 | Setup, Trial & Support Questions";
+$meta_description = "Find answers to frequently asked questions about Google Workspace, Zoho Mail, Microsoft 365, legacy G Suite accounts, free trials, setup, migration, and email support. Skynetiks Technologies – Trusted Email Partner in India.";
+$meta_keywords = "Email FAQ, Google Workspace FAQ, Zoho Mail FAQ, Microsoft 365 Questions, Email Trial Help, G Suite Legacy Issues, Business Mail Support India, Skynetiks Technologies";
+$meta_canonical = "https://businessmail.co.in/faq-for-google-workspace-gsuite-registration-signup-renewal-trial-skynetiks-technologies-partner-with-Google-Workspace-Noida-Delhi-India.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
+
 <style type="text/css">
 	.main-header {
     position: inherit;

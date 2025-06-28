@@ -1,71 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Google Workspace Legacy Account is Not Working | Manage Free Legacy Account G Suite Google Workspace | Can't recover my Google workspace Legacy Account | G-Suite Legacy Errors, Updates | Fix G Suite Legacy Account Errors | Google Workspace Partner in India for Email Cloud Solution Services - Businessmail</title>
-    <meta name="description" content="Google Workspace Legacy Account is Not Working, Why is your account G Suite Legacy disabled, Google Workspace(G suite) Reseller & Partner in India, Google Workspce(G suite) Pricing in India, G-suite Plan, free Google Workspace legacy accounts, Google workspace plans, What are the alternatives to Google Workspace free Legacy Account">
-    <meta name="keywords" content="Google Workspace Legacy Account is Not Working, Resolve issue Google Legacy Workspace, Google Legacy Account New Updates, Legacy Account Fix Errors, Google Legacy Workspace issue, G-suite Partner India, Top Google Workspace Reseller in India, Best Reseller for Google Workspace in India, G-suite in India,  payment issue with credit crad, facing payment issue with credit card, google workspace unable to pay with credit crad, Sign Up for Google for Workspace Free Trial, Get A Free Trial for google workspace">
-    <meta name="author" content="Skynetiks Technologies Business Mail Solution">
-    <meta name="google-site-verification" content="VJUz3lsM8Q4h82JQyGW-0KiC5pfLa_6V_hRvSxd7yRI"/>
-    <meta name="robots" content="index,follow">
-    <link rel="canonical" href="https://businessmail.co.in/index.php">
-    <!-- Stylesheets -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
-    <link rel="shortcut icon" href="images/logo.png" type="image/png" sizes="252x252">
-    <link href="../css2.css?family=Cabin:wght@400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
- <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110332259-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<?php
+$meta_title = "Google Workspace Legacy Account Support | Fix G Suite Errors & Upgrade Issues – Skynetiks India";
+$meta_description = "Facing issues with your free legacy G Suite account or Google Workspace upgrade? Skynetiks Technologies offers expert support, data migration, and solutions to resolve legacy email errors in India.";
+$meta_keywords = "Google Workspace Legacy Account, G Suite Free Support, Legacy Account Error Fix, Workspace Upgrade Issue, Email Data Migration, Legacy G Suite Help India, Skynetiks Technologies Support";
+$meta_canonical = "https://businessmail.co.in/technical-support-help-for-gsuite-legacy-to-google-workspace.php";
+$meta_robots = "index, follow";
 
-
-  gtag('config', 'UA-110332259-1');
-</script>
-
-
-
-
-
-
-
-
-
-
- 
-
-
-    <!-- <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"> -->
-    <!-- <link rel="icon" href="images/favicon.png" type="image/x-icon"> -->
-
-
-
-
-    <!-- Responsive -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-   
-
-
-  
-        </head>
-       
-        <body class="hidden-bar-wrapper">
-<style type="text/css">
-    .link-contact{
-    color: #015790!important;
-    font-weight: 600!important;
-}
-</style>
-            <div class="page-wrapper">
-
-
-              <?php include_once "common/header.php"?>
+include_once "common/header.php";
+?>
 <style type="text/css">
 	.main-header {
     position: inherit;

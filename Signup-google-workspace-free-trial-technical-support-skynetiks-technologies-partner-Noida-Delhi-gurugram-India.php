@@ -1,4 +1,12 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "Free Trial – Google Workspace, Zoho Mail, Microsoft 365 | Business Email by Skynetiks India";
+$meta_description = "Try Google Workspace, Zoho Mail, or Microsoft 365 free for 15–30 days. Skynetiks Technologies offers expert setup, technical support, and seamless onboarding for your business email needs in India.";
+$meta_keywords = "Free Google Workspace Trial, Zoho Mail Free Trial, Microsoft 365 Trial India, Business Email Free Trial, Email Hosting Trial, Skynetiks Technologies, Try Business Mail India";
+$meta_canonical = "https://businessmail.co.in/Signup-google-workspace-free-trial-technical-support-skynetiks-technologies-partner-Noida-Delhi-gurugram-India.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
 
 
 <style type="text/css">

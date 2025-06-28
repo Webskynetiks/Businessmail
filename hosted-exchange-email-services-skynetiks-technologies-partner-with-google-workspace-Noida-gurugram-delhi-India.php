@@ -1,4 +1,14 @@
-<?php include_once "common/header.php" ?>
+<?php
+$meta_title = "Hosted Exchange Email Hosting India | Enterprise Mail Solutions by Skynetiks Technologies";
+$meta_description = "Skynetiks Technologies offers Hosted Exchange email services with enterprise-grade security, calendar sharing, mobile sync & 24x7 expert support. A reliable Microsoft Exchange alternative in India.";
+$meta_keywords = "Hosted Exchange Email India, Enterprise Email Hosting, Microsoft Exchange Alternative, Secure Business Email, Skynetiks Technologies Hosted Exchange, Exchange Mail Hosting India, Business Mail India";
+$meta_canonical = "https://businessmail.co.in/hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
+
+
 <style type="text/css">
 	.main-header {
 		position: inherit;

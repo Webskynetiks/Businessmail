@@ -1,4 +1,13 @@
-<?php include_once "common/header.php" ?>
+<?php
+$meta_title = "Rediffmail Pro Business Email Hosting India | Affordable Email Solutions by Skynetiks";
+$meta_description = "Skynetiks Technologies offers Rediffmail Pro – a reliable and cost-effective business email solution with advanced spam protection, fast delivery, and 24x7 support. Perfect for startups and enterprises across India.";
+$meta_keywords = "Rediffmail Pro India, Business Email Hosting, Affordable Email Solution, Rediffmail for Business, Rediffmail Email Service, Email Hosting India, Rediffmail Partner, Skynetiks Technologies";
+$meta_canonical = "https://businessmail.co.in/Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
+
 <style type="text/css">
     .main-header {
         position: inherit;

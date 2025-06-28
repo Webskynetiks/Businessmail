@@ -1,5 +1,12 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "Email Migration Services India | Google Workspace & Zoho Mail Transfer by Experts";
+$meta_description = "Migrate your business email seamlessly from legacy systems to Google Workspace, Zoho Mail, or Microsoft 365. Skynetiks Technologies offers expert email migration with zero data loss and 24x7 support.";
+$meta_keywords = "Email Migration India, Google Workspace Migration, Zoho Mail Transfer, Office 365 Migration, G Suite Email Move, Business Email Migration Service, Mail Server Transfer, Skynetiks Technologies";
+$meta_canonical = "https://businessmail.co.in/Google-workspace-price-hike-right-time-to-migrate-to-alternative-email-solutions-skynetiks-technologies-in-Noida-Delhi-gurugram-India.php";
+$meta_robots = "index, follow";
 
+include_once "common/header.php";
+?>
 <style type="text/css">
     .link-service {
     color: #015790!important;

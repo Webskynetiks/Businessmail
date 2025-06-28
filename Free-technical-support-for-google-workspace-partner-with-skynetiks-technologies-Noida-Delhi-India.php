@@ -1,4 +1,11 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "Free Technical Support for Google Workspace & Email Services | Skynetiks India";
+$meta_description = "Facing issues with Google Workspace, Zoho, Microsoft 365, or business email? Get free expert technical support, troubleshooting, and migration help from Skynetiks Technologies.";
+$meta_keywords = "Google Workspace Support India, Free Technical Support Email, G Suite Help, Zoho Mail Support, Microsoft 365 Email Help, Business Email Issues, Skynetiks Technologies Support, Email Troubleshooting India";
+$meta_canonical = "https://businessmail.co.in/Free-technical-support-for-google-workspace-partner-with-skynetiks-technologies-Noida-Delhi-India.php";
+$meta_robots = "index, follow";
+include_once "common/header.php";
+?>
 
 <style type="text/css">
     .link-service{

@@ -1,4 +1,15 @@
-<?php include_once "common/header.php" ?>
+<?php
+$meta_title = "Zoho Mail for Business | Best Google Workspace Alternative India";
+$meta_description = "Get Zoho Mail for business – a secure, ad-free alternative to Google Workspace. Expert setup, migration & support by Skynetiks Technologies India.";
+$meta_keywords = "Zoho Mail India, Zoho Business Email, Google Workspace Alternative, Email Hosting India, Zoho Mail Migration, Skynetiks Technologies";
+$meta_canonical = "https://businessmail.co.in/zoho-workplace-best-google-workspace-alternative-india.php";
+$meta_robots = "index, follow";
+include_once "common/header.php";
+?>
+
+
+
+
 <style type="text/css">
 	.main-header {
 		position: inherit;

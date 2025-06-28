@@ -1,4 +1,13 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "Custom Domain-Based Business Email Hosting | Branded Email Solutions India";
+$meta_description = "Get professional custom email addresses with your domain name. Skynetiks Technologies offers domain-based business email hosting with expert setup, support & secure cloud access.";
+$meta_keywords = "Custom Domain Email India, Business Email Hosting, Branded Email Solutions, Domain-Based Email, Company Email Address, Email with Own Domain, Skynetiks Technologies Custom Mail";
+$meta_canonical = "https://businessmail.co.in/custom-domain-based-email-for-organiztion-brand-identity.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
+
 <style type="text/css">
 	.main-header {
     position: inherit;

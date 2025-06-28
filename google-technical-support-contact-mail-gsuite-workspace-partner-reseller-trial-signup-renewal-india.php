@@ -1,4 +1,13 @@
-<?php include_once "common/header.php"?>
+<?php
+$meta_title = "24x7 Business Email Support | Request a Call Back for Google Workspace & Zoho Mail Help";
+$meta_description = "Need urgent help with Google Workspace, Zoho Mail, or Microsoft 365? Request a free call back from Skynetiks Technologies. Get expert support, migration assistance, and account help 24x7 across India.";
+$meta_keywords = "24x7 Email Support India, Google Workspace Help, Request Call Back Email, Business Mail Support, Zoho Mail Support India, Microsoft 365 Email Issues, Skynetiks Technologies Support, Email Migration Assistance";
+$meta_canonical = "https://businessmail.co.in/google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php";
+$meta_robots = "index, follow";
+
+include_once "common/header.php";
+?>
+
 <style type="text/css">
     .link-contact{
     color: #015790!important;

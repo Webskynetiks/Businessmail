@@ -3,24 +3,17 @@
 
 <head>
 	<meta charset="utf-8">
-	<!-- <title>Google Workspace Partner in India | Trusted for 22 Years | Google Workspace Support India| Google Workspace Data Migration | Google Workspace Renewal in India , UAE, UK and USA</title>
-	<meta name="description" content="Skynetiks Tecnologies - Most preferred and best Reseller for Google Workspace in India, Cheapest google workspace renewal price and costing, Microsoft O365 Email solutions, ZOHO Workplace Business Mail Solution, Google Workspace(G suite) Reseller & Partner in India, Google Workspce(G suite) Pricing in India, Buy Google Workspace Plans Affordable Prices, Manage Free Legacy Account G Suite Google Workspace, free Google Workspace legacy accounts, Email Data Migration, Email managing, G-suite Email Solution, G-suite Google Workspace Plan, Google workspace plans, Google For workspace in India, Google Workspace plan in Noida, Alternatives to Google Workspace free Legacy Account">
-    <meta name="keywords" content="Google Workspace Partner, Google Workspace Reseller in India, Best reseller in India for Google Workspace,Google Workspace in India, Google legacy account data migration, business mail services, Google Workspace business mail in Noida, Google Workspace Partner Delhi Noida Gurgaon Faridabad Ghaziabad, Business mail solutions in Delhi ncr, Free trial of Google workspace, Google workspace plans, Email Data migration, zoho mail, rc mail, zimbra mail, microsoft 365, hosted exchange, rediff mail, custom mail, payment issue with credit card,facing payment issue with credit card, unable to pay with credit card, sign up for google workspace free trial, get a free trial for google workspace, free google workspace trial, business email setup, business mail cost, google mail price, email solution for business, corporate email, Google Support, mail not working, get google workspace free for business, organization, start with google workspace, business. ">
-    <meta name="author" content="Skynetiks Technologies Private Limited - Trusted Google Workspace Partner in India"> -->
-	
-	
-	
-	<!-- // Dynamic Meta Tags -->
 	<title><?php echo $meta_title ?? 'Google Workspace Partner in India | Trusted for 22 Years | Google Workspace Support India| Google Workspace Data Migration | Google Workspace Renewal in India , UAE, UK and USA'; ?></title>
 	<meta name="description" content="<?php echo $meta_description ?? 'Skynetiks Tecnologies - Most preferred and best Reseller for Google Workspace in India, Cheapest google workspace renewal price and costing, Microsoft O365 Email solutions, ZOHO Workplace Business Mail Solution, Google Workspace(G suite) Reseller & Partner in India, Google Workspce(G suite) Pricing in India, Buy Google Workspace Plans Affordable Prices, Manage Free Legacy Account G Suite Google Workspace, free Google Workspace legacy accounts, Email Data Migration, Email managing, G-suite Email Solution, G-suite Google Workspace Plan, Google workspace plans, Google For workspace in India, Google Workspace plan in Noida, Alternatives to Google Workspace free Legacy Account'; ?>">
 	<meta name="keywords" content="<?php echo $meta_keywords ?? 'Skynetiks Technologies Private Limited - Trusted Google Workspace Partner in India'; ?>">
 	<meta property="og:url" content="<?php echo $meta_url ?? 'https://businessmail.co.in/' . $_SERVER['REQUEST_URI']; ?>">
 	<meta property="og:image" content="<?php echo $meta_og_image ?? 'https://businessmail.co.in/images/business-email-solution-provider-google-workspace-partner-india.webp'; ?>">
 	<meta property="og:site_name" content="Skynetiks Technologies">
+	<meta name="robots" content="<?php echo $meta_robots ?? 'index, follow'; ?>">
+   <link rel="canonical" href="<?php echo $meta_canonical ?? 'https://businessmail.co.in' . $_SERVER['REQUEST_URI']; ?>">
 
 	<meta name="google-site-verification" content="VJUz3lsM8Q4h82JQyGW-0KiC5pfLa_6V_hRvSxd7yRI" />
-	<meta name="robots" content="index,follow">
-	<link rel="canonical" href="https://businessmail.co.in/index.php">
+
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
