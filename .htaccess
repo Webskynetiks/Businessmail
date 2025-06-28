@@ -1,0 +1,7 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^businessmail\.co\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.businessmail\.co\.in$
+RewriteRule ^/?$ "https\:\/\/businessmail\.co\.in\/" [R=301,L]

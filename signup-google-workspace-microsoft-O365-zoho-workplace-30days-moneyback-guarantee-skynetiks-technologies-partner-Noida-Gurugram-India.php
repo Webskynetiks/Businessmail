@@ -1,0 +1,291 @@
+<?php include_once "common/header.php" ?>
+<style type="text/css">
+    .link-contact {
+        color: #015790 !important;
+        font-weight: 600 !important;
+    }
+</style>
+
+
+  <style>
+    .page-bg {
+      background-color: #f6f9fc;
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+   
+    .main-title {
+      font-size: 2rem;
+      color: black;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .desc {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+    .service-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+    }
+    .service-card {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease;
+    }
+    .service-card:hover {
+      transform: translateY(-5px);
+    }
+    .service-img {
+      width: 80px;
+      height: 80px;
+      margin-bottom: 15px;
+      object-fit: contain;
+    }
+    .service-title {
+      color: black;
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+    }
+    .btn-primary {
+      display: inline-block;
+      margin-top: 40px;
+      background-color: #1a73e8;
+      color: white;
+      text-decoration: none;
+      padding: 14px 30px;
+      border-radius: 4px;
+      font-size: 1rem;
+      text-align: center;
+    }
+    .btn-primary:hover {
+      background-color: #1558b0;
+    }
+    .contact-note {
+      margin-top: 15px;
+      color: #555;
+      text-align: center;
+    }
+  </style>
+
+   
+
+<!-- Hero Image Section -->
+<section>
+    <img src="images/where-can-I-get-affordable-business-email-hosting-solution-in-Noida-India.jpg"
+         title="The most economical & affordable email solution by Skynetiks Technologies in Noida India"
+         alt="what could my team achieve with the Google workspace set up partner at skynetiks technologies in Noida India"
+         style="width:100%; height:auto;">
+</section>
+
+<!-- About Section -->
+ <div class="container">
+    <h1 class="main-title">Business Email Hosting Services in India</h1>
+    <p class="desc">
+    Skynetiks Technologies Pvt. Ltd. is a leading provider of certified business email hosting solutions in India, trusted by startups, SMEs, and enterprises across Noida, Gurugram, Delhi NCR, and beyond. We specialize in deploying, managing, and supporting cloud-based email platforms including Google Workspace (formerly G Suite), Zoho Mail, Microsoft Office 365, Rediffmail Pro, Zimbra Mail, Hosted Exchange, and custom domain mail solutions.
+    </p>
+ </div>
+
+    <!-- <div class="service-grid container">
+      <div class="service-card">
+        <img src="images/partners/google-workspace-icon.webp" alt="Google Workspace Email India" class="service-img">
+        <h3 class="service-title">Google Workspace</h3>
+        <p>Professional Gmail for business, with Drive, Meet, and Admin tools. Certified partner support.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/zoho-mail-secure-adfree-business-email-provider-india.webp" alt="Zoho Mail Partner India" class="service-img">
+        <h3 class="service-title">Zoho Mail</h3>
+        <p>Ad-free, secure, and privacy-focused business email hosting for growing Indian companies.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/microsoft-365-outlook-email-hosting-cloud-solution-india.webp" alt="Microsoft 365 Email Hosting India" class="service-img">
+        <h3 class="service-title">Microsoft 365</h3>
+        <p>Hosted Outlook, Teams, and Office apps for enterprises. Cloud-powered and reliable.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/rediffmail-pro-business-email-hosting-india.webp" alt="Rediffmail Pro India" class="service-img">
+        <h3 class="service-title">Rediffmail Pro</h3>
+        <p>Budget-friendly business email with spam protection, Indian data centers, and easy access.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/zimbra-open-source-mail-server-business-hosting-india.jpg" alt="Zimbra Mail India" class="service-img">
+        <h3 class="service-title">Zimbra Mail</h3>
+        <p>Open-source and scalable mail suite for enterprises. Great for collaboration and flexibility.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/resellerclub-rc-mail-email-solution-for-startups-resellers.webp" alt="ResellerClub Email Hosting" class="service-img">
+        <h3 class="service-title">ResellerClub Mail</h3>
+        <p>Simple and powerful mail solutions for small businesses and agencies.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/hosted-microsoft-exchange-enterprise-email-hosting-india.webp" alt="Hosted Exchange Mail India" class="service-img">
+        <h3 class="service-title">Hosted Exchange</h3>
+        <p>Enterprise-level hosted Microsoft Exchange with Outlook sync and superior reliability.</p>
+      </div>
+      <div class="service-card">
+        <img src="images/partners/custom-domain-business-email-brand-identity-hosting-india.webp" alt="Custom Email Hosting India" class="service-img">
+        <h3 class="service-title">Custom Mail</h3>
+        <p>Get a tailored email solution with private-label features, custom domains, and branding.</p>
+      </div>
+    </div> -->
+
+
+    <?php include_once "common/products.php" ?>
+
+    
+
+
+
+      
+
+
+<!-- Contact Form Section -->
+<section class="contact-form">
+    <div class="sec-title centered">
+        <h2>Product <span>Sign Up</span></h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <!-- Form Column -->
+            <div class="col-md-9">
+                <form id="enquiryForm">
+                    <div class="form">
+                        <!-- Domain Name -->
+                        <div class="form-group row">
+                            <div class="col-md-3"><label for="website">Domain Name:</label></div>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" id="website" placeholder="e.g. www.tatamotors.com" required>
+                            </div>
+                        </div>
+
+                        <!-- Email -->
+                        <div class="form-group row">
+                            <div class="col-md-3"><label for="email">Email:</label></div>
+                            <div class="col-md-9">
+                                <input type="email" class="form-control" id="email" placeholder="Your direct email" required>
+                            </div>
+                        </div>
+
+                        <!-- Phone -->
+                        <div class="form-group row">
+                            <div class="col-md-3"><label for="phone">Phone No:</label></div>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" id="phone" placeholder="Your direct phone number" pattern="[1-9]{1}[0-9]{9}" required>
+                            </div>
+                        </div>
+
+                        <!-- Name -->
+                        <div class="form-group row">
+                            <div class="col-md-3"><label for="name">Name:</label></div>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" id="name" placeholder="What should we call you?" required>
+                            </div>
+                        </div>
+
+                        <!-- Message -->
+                        <div class="form-group row">
+                            <div class="col-md-3"><label for="message">Message:</label></div>
+                            <div class="col-md-9">
+                                <textarea class="form-control" id="message" rows="4" placeholder="Your message" required></textarea>
+                            </div>
+                        </div>
+
+                        <!-- Submit -->
+                        <div class="form-group row">
+                            <div class="col-md-3"></div>
+                            <div class="col-md-9">
+                                <button type="submit" class="btn btn-primary" style="width: 100%;">Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Right Column / Image / Partner Info -->
+            <div class="col-md-3">
+                <div class="text-center logo-image-slider">
+                    <img src="images/skynetiks-logo-resized.webp" style="width: 100%; margin-bottom: 10px; background: #d2ecfa; padding: 22px;">
+                    <h5 style="color: red; font-weight: 700;"><img src="images/Gsuite-logo.png" alt=""></h5>
+                    <h5><marquee>Authorize Reseller Partner</marquee></h5>
+
+                    <div class="outer-container text-center">
+                        <div class="carousel-outer">
+                            <ul class="sponsor-carousel owl-carousel owl-theme">
+                                <li><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php"><img src="images/googleworkspace.png" alt="Google Workspace"></a></li>
+                                <li><a href="cost-effective-best-affordable-alternative-to-google-workspace-Zoho-workplace-reseller-skynetiks-technologies-India.php"><img src="images/How-do-I-configure-zoho-mail-on-outlook-or-thunderbird-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Delhi-Noida-Gurgaon.png" alt="Zoho Mail"></a></li>
+                                <li><a href="how-to-setup-alternative-to-google-workspace-reseller-club-email-accounts-by-skynetiks-technologies-Noida.php"><img src="images/how-much-email-storage-does-reseller-club-business-email-provide-skynetiks-technologies-partner-company-with-google-workspace-in-India-serving-Delhi-Noida.png" alt="ResellerClub"></a></li>
+                                <li><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><img src="images/zimbramail.png" alt="Zimbra Mail"></a></li>
+                                <li><a href="Google-workspace-data-migration-to-microsoft-O365-in-Noida-Gurugram-India-with-skynetiks-technologies.php"><img src="images/how-do-I-migrate-emails-to-microsoft-365-from-gmail-or-cpanel-skynetiks-technologies-an-official-google-workspace-partner-in-India-serving-Noida-Delhi.png" alt="Microsoft 365"></a></li>
+                                <li><a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><img src="images/hosted-exchange-login-errors-something-went-wrong-how-to-resolve-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi-Gurgaon.png" alt="Hosted Exchange"></a></li>
+                                <li><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><img src="images/rd1.png" alt="Rediffmail Pro"></a></li>
+                                <li><a href="create-company-brand-identity-reputation-use-domain-based-custom-email-solution-with-skynetiks-technologies-in-Noida-gurugramDelhi.php"><img src="images/google-workspace-alternative-india.png" alt="Custom Email Domain"></a></li>
+                            </ul>
+                        </div>
+                        <div class="phone">
+                            <a href="tel:+91-9212378780"><i class="fa fa-phone"></i><span> +91-9212378780</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- End Right Column -->
+        </div> <!-- End Row -->
+    </div> <!-- End Container -->
+</section>
+
+<!-- SMTP.js Script -->
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+
+<!-- Form Submission Script -->
+<script>
+    document.getElementById("enquiryForm").addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        const formData = {
+            name: document.getElementById("name").value,
+            email: document.getElementById("email").value,
+            phone: document.getElementById("phone").value,
+            website: document.getElementById("website").value,
+            message: document.getElementById("message").value,
+            pageUrl: window.location.href
+        };
+
+        Email.send({
+            Host: "smtp.elasticemail.com",
+            Port: 2525,
+            Username: "sales@skynetiks.com",
+            Password: "A67B232604CAF3ECE4584F9DE30A17054104", // ⚠️ Public, not secure
+            To: "sales@skynetiks.com",
+            From: "sales@skynetiks.com",
+            Subject: `New Enquiry from ${formData.name}`,
+            Body: `
+                <b>Name:</b> ${formData.name}<br/>
+                <b>Email:</b> ${formData.email}<br/>
+                <b>Phone:</b> ${formData.phone}<br/>
+                <b>Website:</b> ${formData.website}<br/>
+                <b>Message:</b><br/>${formData.message}<br/><br/>
+                <h4>Page URL:</h4><a href="${formData.pageUrl}" target="_blank">${formData.pageUrl}</a>
+            `
+        }).then(message => {
+            if (message === "OK") {
+                alert("Your enquiry has been sent successfully!");
+                document.getElementById("enquiryForm").reset();
+            } else {
+                alert("Failed to send your enquiry. Please try again.");
+            }
+        }).catch(error => {
+            console.error("Email sending error:", error);
+            alert("Something went wrong while sending the email.");
+        });
+    });
+</script>
+
+<?php include_once "common/footer.php" ?>

@@ -1,0 +1,6 @@
+[20-Jun-2022 06:45:43 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home2/business/public_html/wp_old/sapp-wp-signon.php on line 18
+[20-Jun-2022 06:45:43 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home2/business/public_html/wp_old/sapp-wp-signon.php on line 18
+[20-Jun-2022 06:45:43 UTC] PHP Fatal error:  require(): Failed opening required 'wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/business/public_html/wp_old/sapp-wp-signon.php on line 18
+[20-Jun-2022 06:45:51 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home2/business/public_html/wp_old/sapp-wp-signon.php on line 18
+[20-Jun-2022 06:45:51 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home2/business/public_html/wp_old/sapp-wp-signon.php on line 18
+[20-Jun-2022 06:45:51 UTC] PHP Fatal error:  require(): Failed opening required 'wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/business/public_html/wp_old/sapp-wp-signon.php on line 18

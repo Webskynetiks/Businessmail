@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Google Workspace Legacy Account is Not Working | Manage Free Legacy Account G Suite Google Workspace | Can't recover my Google workspace Legacy Account | G-Suite Legacy Errors, Updates | Fix G Suite Legacy Account Errors | Google Workspace Partner in India for Email Cloud Solution Services - Businessmail</title>
+    <meta name="description" content="Google Workspace Legacy Account is Not Working, Why is your account G Suite Legacy disabled, Google Workspace(G suite) Reseller & Partner in India, Google Workspce(G suite) Pricing in India, G-suite Plan, free Google Workspace legacy accounts, Google workspace plans, What are the alternatives to Google Workspace free Legacy Account">
+    <meta name="keywords" content="Google Workspace Legacy Account is Not Working, Resolve issue Google Legacy Workspace, Google Legacy Account New Updates, Legacy Account Fix Errors, Google Legacy Workspace issue, G-suite Partner India, Top Google Workspace Reseller in India, Best Reseller for Google Workspace in India, G-suite in India,  payment issue with credit crad, facing payment issue with credit card, google workspace unable to pay with credit crad, Sign Up for Google for Workspace Free Trial, Get A Free Trial for google workspace">
+    <meta name="author" content="Skynetiks Technologies Business Mail Solution">
+    <meta name="google-site-verification" content="VJUz3lsM8Q4h82JQyGW-0KiC5pfLa_6V_hRvSxd7yRI"/>
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://businessmail.co.in/index.php">
+    <!-- Stylesheets -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link rel="shortcut icon" href="images/logo.png" type="image/png" sizes="252x252">
+    <link href="../css2.css?family=Cabin:wght@400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110332259-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+
+  gtag('config', 'UA-110332259-1');
+</script>
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+    <!-- <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"> -->
+    <!-- <link rel="icon" href="images/favicon.png" type="image/x-icon"> -->
+
+
+
+
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+   
+
+
+  
+        </head>
+       
+        <body class="hidden-bar-wrapper">
+<style type="text/css">
+    .link-contact{
+    color: #015790!important;
+    font-weight: 600!important;
+}
+</style>
+            <div class="page-wrapper">
+
+
+              <?php include_once "common/header.php"?>
+<style type="text/css">
+	.main-header {
+    position: inherit;
+    z-index: 99;
+    width: 100%;
+}
+.link-contact{
+    color: #015790!important;
+    font-weight: 600!important;
+}
+</style>
+
+
+
+<section>
+    <img src="images/google-legacy-account-updates-error-not-working-gsuite-in-Noida-partner-with-skynetiks-technologies.png" title="Google Workspace legacy account migration to Google Business and Google Enterprise customers with skynetiks technologies." alt="What tools are available for migrating data to Google Workspace partner with Skynetiks technologies in Noida India." style="width:100%;height: auto;" alt="sign up for a free google workspace trial">
+</section>
+
+
+<section class="contact-form">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-8 sec-title left">
+        <h2>Get A <span >Legacy Account Errors</span></h2>
+        <h6>Stop Using Google Legacy G-Suite Account</h6>
+        <p><a  style="color:#000;" href="">Your legacy G Suite account is no longer functional.</a></p>
+        <p style="font-size:16px; color:#000;">Welcome to the Web Page of <a href="https://skynetiks.com/" target="_blank" >Skynetiks Technologies</a> - Google <a href="#">Workspace Partner</a> in India. <br><a href="https://support.google.com/a/thread/40766549/couldn-t-reactivate-my-g-suite-legacy-edition?hl=en" >If you are facing errors with your G Suite Legacy Account</a>  follow these steps to fix the issues. Please click this link (provide the link).
+</p>
+        <h5><span ><b><a href="#">Legacy Acconts Updates:</a></span></b></h5>
+        <p style="color:#000;"> Please provide your details below, and our Google Support Agent will assist you in activating your services.<br>
+        <a href="" >If you need assistance with unlocking a Legacy Account</a><br>
+        <b>you can reach our support team at the following contacts:
+</b> <a  href="mailto:enquiry@ssi.bz">enquiry@ssi.bz</a> <b>Ph:</b> <a href="tel:+91 92 123 78780" >+91 92 123 78780</a></p>
+        <h5><a href="google-legacy-account-updates-errors-not-working-shrishti-softech-business-mail-google-gsuite.php"><b>Stay updated with the latest Google news and updates related to Legacy Accounts.</b></a></h5>
+    </div>
+   
+    <div class="col-md-4 pas">
+        <img src="images/Google-Workspace-Data-Migration-to-Zoho-Mail-Microsoft-365-and-Zimbra-Mail-Solution.jpg" title="Why is email migration important when switching platforms in India preserve business continuity with Skynetiks technologies" alt="Why we need to migrate data from Microsoft 365 to Google Workspace" style="width:100%;height: auto;" alt="Stop using Google Workspace
+       Legacy Account">
+    </div>
+    </div>
+    </div>
+
+
+    <div class="container">
+    <div class="row" style="padding-top:25px;">
+      <div class="col-md-9">
+      <form id="enquiryForm">
+      <div class="form">
+        <!-- Domain Name -->
+        <div class="form-group row">
+          <div class="col-md-3">
+            <label for="website">Domain Name:</label>
+          </div>
+          <div class="col-md-9">
+            <input type="text" class="form-control" id="website" placeholder="e.g. www.tatamotors.com" required>
+          </div>
+        </div>
+
+
+        <!-- Email -->
+        <div class="form-group row">
+          <div class="col-md-3">
+            <label for="email">Email:</label>
+          </div>
+          <div class="col-md-9">
+            <input type="email" class="form-control" id="email" placeholder="Your direct email" required>
+          </div>
+        </div>
+
+
+        <!-- Phone -->
+        <div class="form-group row">
+          <div class="col-md-3">
+            <label for="phone">Phone No:</label>
+          </div>
+          <div class="col-md-9">
+            <input type="text" class="form-control" id="phone" placeholder="Your direct phone number" pattern="[1-9]{1}[0-9]{9}" required>
+          </div>
+        </div>
+
+
+        <!-- Name -->
+        <div class="form-group row">
+          <div class="col-md-3">
+            <label for="name">Name:</label>
+          </div>
+          <div class="col-md-9">
+            <input type="text" class="form-control" id="name" placeholder="What should we call you?" required>
+          </div>
+        </div>
+
+
+        <!-- Message -->
+        <div class="form-group row">
+          <div class="col-md-3">
+            <label for="message">Message:</label>
+          </div>
+          <div class="col-md-9">
+            <textarea class="form-control" id="message" rows="4" placeholder="Your message" required></textarea>
+          </div>
+        </div>
+
+
+        <!-- Submit Button -->
+        <div class="form-group row">
+          <div class="col-md-3"></div>
+          <div class="col-md-9">
+            <button type="submit" class="btn btn-primary" style="width: 100%;">Submit</button>
+          </div>
+        </div>
+      </div>
+    </form>
+       </div>
+        <div class="col-md-3">
+        <div class="text-center logo-image-slider">
+        <img src="images/skynetiks-logo-resized.webp" alt="sign up for google for workspace free trial" style="    width: 100%;
+    margin-bottom: 10px;
+    background: #d2ecfa;
+    padding: 22px;">
+    <h5 style="color: red;font-weight: 700;"><img src="images/Gsuite-logo.png" alt="Manage Free Account GSuite Google Workspace"></h5>  
+        <h5><marquee>Authorize Reseller partner</marquee></h5>
+        <div class="outer-container text-center">
+
+
+                        <div class="carousel-outer">
+                            <!--Sponsors Slider-->
+                            <ul class="sponsor-carousel owl-carousel owl-theme">
+                                <li><div class="text-center"><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php "><img src="images/googleworkspace.png" alt="Google Workspace, formerly known as G Suite"></a></div></li>
+                                <li><div class="text-center"><a href="cost-effective-best-affordable-alternative-to-google-workspace-Zoho-workplace-reseller-skynetiks-technologies-India.php"><img src="images/How-do-I-configure-zoho-mail-on-outlook-or-thunderbird-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Delhi-Noida-Gurgaon.png" alt="Zoho Mail is a secure and reliable business email solution"></a></div></li>
+                                <li><div class="text-center"><a href="how-to-setup-alternative-to-google-workspace-reseller-club-email-accounts-by-skynetiks-technologies-Noida.php"><img src="images/how-much-email-storage-does-reseller-club-business-email-provide-skynetiks-technologies-partner-company-with-google-workspace-in-India-serving-Delhi-Noida.png" alt="ResellerClub's Business Email Services"></a></div></li>
+                                <li><div class="text-center"><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><img src="images/zimbramail.png" alt="Zimbra Collaboration Suite (ZCS) is an enterprise-grade mailing solution"></a></div></li>
+                                <li><div class="text-center"><a href="Google-workspace-data-migration-to-microsoft-O365-in-Noida-Gurugram-India-with-skynetiks-technologies.php"><img src="images/how-do-I-migrate-emails-to-microsoft-365-from-gmail-or-cpanel-skynetiks-technologies-an-official-google-workspace-partner-in-India-serving-Noida-Delhi.png" alt="Microsoft 365 is our cloud-powered productivity platform"></a></div></li>
+                                <li><div class="text-center"><a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><img src="images/hosted-exchange-login-errors-something-went-wrong-how-to-resolve-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi-Gurgaon.png" alt="Hosted Exchange is a version of Microsoft Exchange Server "></a></div></li>
+                                <li><div class="text-center"><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><img src="images/rd1.png" alt="Rediffmail Pro is a comprehensive business email solution"></a></div></li>
+                                <li><div class="text-center"><a href="create-company-brand-identity-reputation-use-domain-based-custom-email-solution-with-skynetiks-technologies-in-Noida-gurugramDelhi.php"><img src="images/google-workspace-alternative-india.png" alt="Custom email domain is the name of your brand "></a></div></li>
+                            </ul>
+                        </div>
+               <div class="phone"><a href="tel:+91-9212378780"> <i class="fa fa-phone"></i><span> +91 92 123 78780</span></a></div>
+                    </div>          
+                </div>
+      </div>
+   
+   
+    </div>
+</section>
+</div>
+<script>
+    document.getElementById("enquiryForm").addEventListener("submit", function (e) {
+      e.preventDefault();
+
+
+      const formData = {
+        name: document.getElementById("name").value,
+        email: document.getElementById("email").value,
+        phone: document.getElementById("phone").value,
+        website: document.getElementById("website").value,
+        message: document.getElementById("message").value,
+        pageUrl: window.location.href
+      };
+
+
+      Email.send({
+        Host: "smtp.elasticemail.com",
+        Port: 2525,
+        Username: "sales@skynetiks.com",
+        Password: "A67B232604CAF3ECE4584F9DE30A17054104", // ⚠️ Public, not secure for production
+        To: "sales@skynetiks.com",
+        From: "sales@skynetiks.com",
+        Subject: `New Enquiry from ${formData.name}`,
+        Body: `
+          <b>Name:</b> ${formData.name}<br/>
+          <b>Email:</b> ${formData.email}<br/>
+          <b>Phone:</b> ${formData.phone}<br/>
+          <b>Website:</b> ${formData.website}<br/>
+          <b>Message:</b><br/>${formData.message}<br/><br/>
+          <h4>Page URL:</h4>
+          <a href="${formData.pageUrl}" target="_blank">${formData.pageUrl}</a>
+        `
+      }).then(message => {
+        if (message === "OK") {
+          alert("Your enquiry has been sent successfully!");
+          document.getElementById("enquiryForm").reset();
+        } else {
+          alert("Failed to send your enquiry. Please try again.");
+        }
+      }).catch(error => {
+        console.error("Email sending error:", error);
+        alert("Something went wrong while sending the email.");
+      });
+    });
+  </script>
+
+
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+</body>
+
+<?php include_once "common/footer.php"?>
