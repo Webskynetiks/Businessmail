@@ -65,7 +65,7 @@
 
 		<!-- TOP HEADER -->
 		<section class="top-header">
-			<div class="auto-container">
+			<div class="auto-container" id="top-header-container">
 
 				<ul id="menu-top-menu-link" class="menu menu-top">
 

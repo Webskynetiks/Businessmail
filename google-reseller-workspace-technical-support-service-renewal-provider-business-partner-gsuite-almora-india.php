@@ -1,5 +1,9 @@
-<?php include_once "common/header.php" ?>
-
+<?php
+$meta_title = "Google Workspace Partner in Almora | Buy Gmail for Business India";
+$meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Almora, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
+$meta_keywords = "Google Workspace Almora, Gmail for Business Almora, Buy Google Workspace India, Google Workspace Reseller Almora, Business Email Hosting Almora, Certified Google Partner Almora";
+include_once "common/header.php";
+?>
 
 <style type="text/css">
 	.main-header {

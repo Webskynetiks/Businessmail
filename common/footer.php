@@ -19,191 +19,196 @@
 
 
 
-</div>
+											</div>
 											<!-- Social Box -->
 											<ul class="social-box">
 												<li class="share">Find Us Now</li>
 												<li class="facebook"><a target="_blank" href="https://www.facebook.com/skynetikstech">
-													<img src="images/skynetiks-facebook.png">
-												</a></li>
+														<img src="images/skynetiks-facebook.png">
+													</a></li>
 
 												<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/company/skynetikstech/?trk=public_profile_topcard-current-company&originalSubdomain=in">
-													<img src="images/linkedin.png"></a></li>
+														<img src="images/linkedin.png"></a></li>
 
-													<li class="youtube"><a target="_blank" href="https://www.youtube.com/@skynetikstech">
-														<img src="images/youtube.jpg">	</a>
-													</li>
+												<li class="youtube"><a target="_blank" href="https://www.youtube.com/@skynetikstech">
+														<img src="images/youtube.jpg"> </a>
+												</li>
 
-													<li class="instagram"><a target="_blank" href="https://www.instagram.com/skynetikstech/#">
+												<li class="instagram"><a target="_blank" href="https://www.instagram.com/skynetikstech/#">
 														<img src="images/Instagram.png"></a></li>
 
-														<li class="pinterest"><a target="_blank" href="http://in.pinterest.com/skynetikstech" >
-															<img src="images/pinterest.png"></a></li>
-														</ul>
-													</div>
-												</div>
+												<li class="pinterest"><a target="_blank" href="http://in.pinterest.com/skynetikstech">
+														<img src="images/pinterest.png"></a></li>
+											</ul>
+										</div>
+									</div>
 
-												<!-- Footer Column -->
-												<div class="footer-column col-lg-3 col-md-6 col-sm-12">
-													<div class="footer-widget links-widget">
-														<h4>Quick Links</h4>
-														<div class="row clearfix">
-															<div class="column col-lg-12 col-md-12 col-sm-12">
-																<ul class="list-link">
-																	<li><a href="index.php">Home</a></li>
-																	<li><a href="Free-technical-support-for-google-workspace-partner-with-skynetiks-technologies-Noida-Delhi-India.php">Tech Support </a></li>
-																	<li><a href="Google-workspace-price-hike-right-time-to-migrate-to-alternative-email-solutions-skynetiks-technologies-in-Noida-Delhi-gurugram-India.php">Mail Migration</a></li>
-																	<li><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php">Product Sign Up </a></li>
-																	<li><a href="Signup-google-workspace-free-trial-technical-support-skynetiks-technologies-partner-Noida-Delhi-gurugram-India.php">For Free Trial
-																	</a></li>
-																	<li><a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php">Get a Call Back
-																	</a></li>
-																	<li><a href="24X7-gsuite-google-workspace-renewal-customer-support-service-skynetiks-technologies-Noida-Delhi-India.php">Ask for Support
-																	</a></li>
-																	<li><a href="technical-support-help-for-gsuite-legacy-to-google-workspace.php">Google legacy Account Information
-																	</a></li>
-																	<li><a href="https://shrishtisoftech.com/blog/">Blog
-																	</a></li>
-																	<li><a href="faq-for-google-workspace-gsuite-registration-signup-renewal-trial-skynetiks-technologies-partner-with-Google-Workspace-Noida-Delhi-India.php">FAQ
-																	</a></li>
-																</ul>
-															</div>
-														</div>
-													</div>
+									<!-- Footer Column -->
+									<div class="footer-column col-lg-3 col-md-6 col-sm-12">
+										<div class="footer-widget links-widget">
+											<h4>Quick Links</h4>
+											<div class="row clearfix">
+												<div class="column col-lg-12 col-md-12 col-sm-12">
+													<ul class="list-link">
+														<li><a href="index.php">Home</a></li>
+														<li><a href="Free-technical-support-for-google-workspace-partner-with-skynetiks-technologies-Noida-Delhi-India.php">Tech Support </a></li>
+														<li><a href="Google-workspace-price-hike-right-time-to-migrate-to-alternative-email-solutions-skynetiks-technologies-in-Noida-Delhi-gurugram-India.php">Mail Migration</a></li>
+														<li><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php">Product Sign Up </a></li>
+														<li><a href="Signup-google-workspace-free-trial-technical-support-skynetiks-technologies-partner-Noida-Delhi-gurugram-India.php">For Free Trial
+															</a></li>
+														<li><a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php">Get a Call Back
+															</a></li>
+														<li><a href="24X7-gsuite-google-workspace-renewal-customer-support-service-skynetiks-technologies-Noida-Delhi-India.php">Ask for Support
+															</a></li>
+														<li><a href="technical-support-help-for-gsuite-legacy-to-google-workspace.php">Google legacy Account Information
+															</a></li>
+														<li><a href="https://shrishtisoftech.com/blog/">Blog
+															</a></li>
+														<li><a href="faq-for-google-workspace-gsuite-registration-signup-renewal-trial-skynetiks-technologies-partner-with-Google-Workspace-Noida-Delhi-India.php">FAQ
+															</a></li>
+													</ul>
 												</div>
+											</div>
+										</div>
+									</div>
 
-												<!-- Footer Column -->
-												<div class="footer-column col-lg-4 col-md-6 col-sm-12">
-													<div class="footer-widget contact-widget">
-														<h4>Contact Information</h4>
-														<h6>Get In Touch</h6>
-														<ul class="list-style-two">
-															<li><span class="icon flaticon-map"></span> Tower B - 609 & 610, Logix Technova, Sec-132, Noida, (UP) 201305, India</li>
-															<li><span class="icon flaticon-phone-call"></span><a href="tel:+919212378780">+91-92 123 78780</a></li>
-															<li><span class="icon flaticon-big-envelope"></span><a href="mailto: enquiry@businessmail.co.in"> enquiry@businessmail.co.in</a></li>
-														</ul>
-							<!-- <h6>Opening Hours</h6>
+									<!-- Footer Column -->
+									<div class="footer-column col-lg-4 col-md-6 col-sm-12">
+										<div class="footer-widget contact-widget">
+											<h4>Contact Information</h4>
+											<h6>Get In Touch</h6>
+											<ul class="list-style-two">
+												<li><span class="icon flaticon-map"></span> Tower B - 609 & 610, Logix Technova, Sec-132, Noida, (UP) 201305, India</li>
+												<li><span class="icon flaticon-phone-call"></span><a href="tel:+919212378780">+91-92 123 78780</a></li>
+												<li><span class="icon flaticon-big-envelope"></span><a href="mailto: enquiry@businessmail.co.in"> enquiry@businessmail.co.in</a></li>
+											</ul>
+											<!-- <h6>Opening Hours</h6>
 								<div class="timing">Mon - Sat 09:00am To 05:00pm Sunday: Off</div> -->
+										</div>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<!-- Footer Bottom -->
+						<div class="footer-bottom">
+							<div class="auto-container">
+								<div class="row clearfix">
+									<!-- Column -->
+									<div class="column col-lg-6 col-md-12 col-sm-12">
+										<div class="copyright">Copyright © 2003-2025 <a href="https://skynetiks.com/" class="text-white" target="_blank">Skynetiks Technologies Pvt. Ltd.</a> All Rights Reserved.</div>
+									</div>
+									<!-- Column -->
+									<div class="column col-lg-6 col-md-12 col-sm-12">
+										<ul class="footer-nav">
+											<li><a href="privacy-policy-skynetiks-technologies-google-workspace-partner-in-India-serving-Noida-Delhi-Mumbai-Gurugram.php">Privacy Policy</a></li>
+											<li><a href="how-much-does-professional-email-actually-cost-per-user-per-month-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi.php">Terms and Conditions</a></li>
+											<li><a href="refund-policy-skynetiks-technologies-an-official-google-workspace-partner-in-Noida-Delhi.php">Refund Policy</a></li>
+										</ul>
+									</div>
+								</div>
 							</div>
 						</div>
 
+					</footer>
+
 					</div>
-				</div>
 
-			</div>
+					<!-- chaat box -->
 
-			<!-- Footer Bottom -->
-			<div class="footer-bottom">
-				<div class="auto-container">
-					<div class="row clearfix">
-						<!-- Column -->
-						<div class="column col-lg-6 col-md-12 col-sm-12">
-							<div class="copyright">Copyright © 2003-2025 <a href="https://skynetiks.com/" class="text-white" target="_blank">Skynetiks Technologies Pvt. Ltd.</a> All Rights Reserved.</div>
-						</div>
-						<!-- Column -->
-						<div class="column col-lg-6 col-md-12 col-sm-12">
-							<ul class="footer-nav">
-								<li><a href="privacy-policy-skynetiks-technologies-google-workspace-partner-in-India-serving-Noida-Delhi-Mumbai-Gurugram.php">Privacy Policy</a></li>
-								<li><a href="how-much-does-professional-email-actually-cost-per-user-per-month-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi.php">Terms and Conditions</a></li>
-								<li><a href="refund-policy-skynetiks-technologies-an-official-google-workspace-partner-in-Noida-Delhi.php">Refund Policy</a></li>
-							</ul>
-						</div>
+					<div isroundwidget="true">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M400 26.2c-193.3 0-350 156.7-350 350 0 136.2 77.9 254.3 191.5 312.1 15.4 8.1 31.4 15.1 48.1 20.8l-16.5 63.5c-2 7.8 5.4 14.7 13 12.1l229.8-77.6c14.6-5.3 28.8-11.6 42.4-18.7C672 630.6 750 512.5 750 376.2c0-193.3-156.7-350-350-350zm211.1 510.7c-10.8 26.5-41.9 77.2-121.5 77.2-79.9 0-110.9-51-121.6-77.4-2.8-6.8 5-13.4 13.8-11.8 76.2 13.7 147.7 13 215.3.3 8.9-1.8 16.8 4.8 14 11.7z"></path>
 					</div>
-				</div>
-			</div>
-
-		</footer>
-
-	</div>
-
-	<!-- chaat box -->
-
-	<div isroundwidget="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M400 26.2c-193.3 0-350 156.7-350 350 0 136.2 77.9 254.3 191.5 312.1 15.4 8.1 31.4 15.1 48.1 20.8l-16.5 63.5c-2 7.8 5.4 14.7 13 12.1l229.8-77.6c14.6-5.3 28.8-11.6 42.4-18.7C672 630.6 750 512.5 750 376.2c0-193.3-156.7-350-350-350zm211.1 510.7c-10.8 26.5-41.9 77.2-121.5 77.2-79.9 0-110.9-51-121.6-77.4-2.8-6.8 5-13.4 13.8-11.8 76.2 13.7 147.7 13 215.3.3 8.9-1.8 16.8 4.8 14 11.7z"></path></div>
 
 
-	<!-- scroller -->
-	<!-- <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div> -->
+					<!-- scroller -->
+					<!-- <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div> -->
 
-	<!-- whattsapp icon -->
-	<a class="whatsapp-icon" href="https://web.whatsapp.com/send?phone=91 7428382756&amp;text=" target="_blank" style="position:fixed; top:80px; right:10px;z-index: 999;"><img src="images/whattsapp.png" width="70"></a>
+					<!-- whattsapp icon -->
+					<a class="whatsapp-icon" href="https://web.whatsapp.com/send?phone=91 7428382756&amp;text=" target="_blank" style="position:fixed; bottom:15px; left:10px;z-index: 999;"><img src="images/whattsapp.png" width="70"></a>
 
-	<a class="whatsapp-icon-phone" href="https://api.whatsapp.com/send?phone=91 7428382756&text=Hello! I am Interested in Buying Services." target="_blank" style="position:fixed; top:80px; right:10px;z-index: 999;"><img src="images/whattsapp.png" width="44">Call us on Whtsapp</a>
+					<!-- <a class="whatsapp-icon-phone" href="https://api.whatsapp.com/send?phone=91 7428382756&text=Hello! I am Interested in Buying Services." target="_blank" style="position:fixed; top:80px; right:10px;z-index: 999;"><img src="images/whattsapp.png" width="44">Call us on Whtsapp</a> -->
 
 
-	<!-- phone icon -->
-	<!--<a class="phone-icon" href="tel: +91-9212378780" style="position:fixed; top:120px; right:10px;z-index: 999;"><img src="images/phone.png" width="40"></a>-->
+					<!-- phone icon -->
+					<!--<a class="phone-icon" href="tel: +91-9212378780" style="position:fixed; top:120px; right:10px;z-index: 999;"><img src="images/phone.png" width="40"></a>-->
 
-	<!--  -->
+					<!--  -->
 
-	<script src="js/jquery.js"></script>
-	<script src="js/popper.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-	<script src="js/jquery.fancybox.js"></script>
-	<script src="js/appear.js"></script>
-	<script src="js/parallax.min.js"></script>
-	<script src="js/tilt.jquery.min.js"></script>
-	<script src="js/jquery.paroller.min.js"></script>
-	<script src="js/owl.js"></script>
-	<script src="js/wow.js"></script>
-	<script src="js/nav-tool.js"></script>
-	<script src="js/jquery-ui.js"></script>
-	<script src="js/script.js"></script>
-	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
- <script src="https://www.google.com/recaptcha/api.js"></script>
+					<script src="js/jquery.js"></script>
+					<script src="js/popper.min.js"></script>
+					<script src="js/bootstrap.min.js"></script>
+					<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+					<script src="js/jquery.fancybox.js"></script>
+					<script src="js/appear.js"></script>
+					<script src="js/parallax.min.js"></script>
+					<script src="js/tilt.jquery.min.js"></script>
+					<script src="js/jquery.paroller.min.js"></script>
+					<script src="js/owl.js"></script>
+					<script src="js/wow.js"></script>
+					<script src="js/nav-tool.js"></script>
+					<script src="js/jquery-ui.js"></script>
+					<script src="js/script.js"></script>
+					<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+					<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+					<script src="https://www.google.com/recaptcha/api.js"></script>
 
-	<!--Start of Tawk.to Script-->
-	<script type="text/javascript">
-		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-		(function(){
-			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-			s1.async=true;
-			s1.src='https://embed.tawk.to/6141734325797d7a89ff03d0/1ffjqkh57';
-			s1.charset='UTF-8';
-			s1.setAttribute('crossorigin','*');
-			s0.parentNode.insertBefore(s1,s0);
-		})();
-	</script>
-	<!--End of Tawk.to Script-->
+					<!--Start of Tawk.to Script-->
+					<script type="text/javascript">
+						var Tawk_API = Tawk_API || {},
+							Tawk_LoadStart = new Date();
+						(function() {
+							var s1 = document.createElement("script"),
+								s0 = document.getElementsByTagName("script")[0];
+							s1.async = true;
+							s1.src = 'https://embed.tawk.to/6141734325797d7a89ff03d0/1ffjqkh57';
+							s1.charset = 'UTF-8';
+							s1.setAttribute('crossorigin', '*');
+							s0.parentNode.insertBefore(s1, s0);
+						})();
+					</script>
+					<!--End of Tawk.to Script-->
 
 
 
 
-	<script type="text/javascript">
-		$(document).ready(function() {
+					<script type="text/javascript">
+						$(document).ready(function() {
 
-			$('.counter').each(function () {
-				$(this).prop('Counter',0).animate({
-					Counter: $(this).text()
-				}, {
-					duration: 4000,
-					easing: 'swing',
-					step: function (now) {
-						$(this).text(Math.ceil(now));
-					}
-				});
-			});
+							$('.counter').each(function() {
+								$(this).prop('Counter', 0).animate({
+									Counter: $(this).text()
+								}, {
+									duration: 4000,
+									easing: 'swing',
+									step: function(now) {
+										$(this).text(Math.ceil(now));
+									}
+								});
+							});
 
-		});
-	</script>
-	
-<script>
-    $(document).ready(function(){
-    $("#testimonial-slider").owlCarousel({
-        items:2,
-        itemsDesktop:[1000,2],
-        itemsDesktopSmall:[979,2],
-        itemsTablet:[768,1],
-        pagination:false,
-        navigation:true,
-        navigationText:["",""],
-        autoPlay:true
-    });
-});
-</script>
+						});
+					</script>
 
-	<?php include_once "common/model.php"?>
+					<script>
+						$(document).ready(function() {
+							$("#testimonial-slider").owlCarousel({
+								items: 2,
+								itemsDesktop: [1000, 2],
+								itemsDesktopSmall: [979, 2],
+								itemsTablet: [768, 1],
+								pagination: false,
+								navigation: true,
+								navigationText: ["", ""],
+								autoPlay: true
+							});
+						});
+					</script>
 
-</body>
-</html>
+					<?php include_once "common/model.php" ?>
+
+					</body>
+
+					</html>

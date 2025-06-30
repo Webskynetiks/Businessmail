@@ -1,5 +1,9 @@
-<?php include_once "common/header.php" ?>
-
+<?php
+$meta_title = "Google Workspace Partner in Bankura | Buy Gmail for Business India";
+$meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Bankura, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
+$meta_keywords = "Google Workspace Bankura, Gmail for Business Bankura, Buy Google Workspace India, Google Workspace Reseller Bankura, Business Email Hosting Bankura, Certified Google Partner Bankura";
+include_once "common/header.php";
+?>
 
 <style type="text/css">
 	.main-header {

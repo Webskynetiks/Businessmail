@@ -10,8 +10,7 @@
 <section class="banner-section">
 	<div class="main-slider-carousel owl-carousel owl-theme">
 
-
-		<div class="slide" style="background-image: url(images/Google-workspace-businessmail.png)">
+	<div class="slide" style="background-image: url(images/slider/google-worskpace-certified-partner-noida-delhi-banglore-gurgaon.webp)">
 			<div class="color-layer-one"></div>
 			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
 			<div class="auto-container">
@@ -21,9 +20,46 @@
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 
-							<h1>Business mail,<span> Satisfies the need. </span>
+							<h1> Scalable  <span>Google Workspace Email Solutions</span></h1>
+							<div class="title">for Growing Businesses
+							</div>
+
+							<div class="btns-box">
+								<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
+								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
+							</div>
+						</div>
+					</div>
+
+					<!-- Image Column -->
+					<div class="image-column col-lg-6 col-md-12 col-sm-12">
+						<div class="inner-column fadeInDown animated">
+							<div class="image">
+								<img src="images/email.png" alt="Skynetiks Technologies is an authorized Google Workspace Reseller/Partner and a website development company based in India, serving Delhi and NOIDA.">
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+
+		<div class="slide" style="background-image: url('images/slider/google-workspace-reseller-partner-india.webp')">
+			<div class="color-layer-one"></div>
+			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
+			<div class="auto-container">
+				<div class="row clearfix">
+
+					<!-- Content Column -->
+					<div class="content-column col-lg-6 col-md-12 col-sm-12">
+						<div class="inner-column">
+
+							<h1> Smart & Secure <span>Business Email Solutions </span>
 							</h1>
-							<div class="title">Your Business Just Need A Right Move!</div>
+
+
+							<div class="title">for Modern Enterprises</div>
 							<!-- <div class="text"> “Technology from Google  that inspires the dynamics of business culture, increase efficiency, decrease direct expenses and <br><b style="color:red">"GROW PROFITS"!</b></div> -->
 							<div class="btns-box">
 								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
@@ -45,7 +81,7 @@
 			</div>
 		</div>
 
-		<div class="slide" style="background-image: url(images/shristisoftechgoogleworkspacepartner.png)">
+		<div class="slide" style="background-image: url(images/slider/zoho-email-workspace-reseller-certified-partner.webp)">
 			<div class="color-layer-one"></div>
 			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
 			<div class="auto-container">
@@ -55,9 +91,11 @@
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 
-							<h1>Business Mail Migration <span>is Awesome </span>
+							<h1> Hassle-Free <span>Email Migration </span>
 							</h1>
-							<div class="title">Your Business Just Need A Right Move!</div>
+							<div class="title">with Zero Downtime</div>
+
+
 							<!-- <div class="text"> “Technology from Google  that inspires the dynamics of business culture, increase efficiency, decrease direct expenses and <br><b style="color:red">"GROW PROFITS"!</b></div> -->
 							<div class="btns-box">
 								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
@@ -78,7 +116,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="slide" style="background-image: url(images/mail-migration.png)">
+		<div class="slide" style="background-image: url(images/slider/microsoft-o365-official-certified-partner.webp)">
 			<div class="color-layer-one"></div>
 			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
 			<div class="auto-container">
@@ -88,13 +126,11 @@
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 
-							<h1>Google Workspace <span>is Awesome </span>
+							<h1>Reliable <span> Microsoft 365 Email Solutions </span>
 							</h1>
-							<div class="title">Your business just needs the right move!</div>
-							<!-- <div class="text"> “Technology from Google  that inspires the dynamics of business culture, increase efficiency, decrease direct expenses and <br><b style="color:red">"GROW PROFITS"!</b></div> -->
+							<div class="title">for Businesses of All Sizes</div>
 							<div class="btns-box">
 								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
-								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
 							</div>
 						</div>
 					</div>
@@ -104,7 +140,7 @@
 						<div class="inner-column slideInRight animated">
 							<div class="image">
 								<img src="images/money.png" alt="
-Shristhi Softech is an authorized Google Workspace Reseller/Partner and a website development company based in India, serving Delhi and NOIDA.">
+   Shristhi Softech is an authorized Google Workspace Reseller/Partner and a website development company based in India, serving Delhi and NOIDA.">
 							</div>
 						</div>
 					</div>
@@ -112,106 +148,11 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 				</div>
 			</div>
 		</div>
-		<div class="slide" style="background-image: url(images/banner2.jpg)">
-			<div class="color-layer-one"></div>
-			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
-			<div class="auto-container">
-				<div class="row clearfix">
+		
 
-					<!-- Content Column -->
-					<div class="content-column col-lg-6 col-md-12 col-sm-12">
-						<div class="inner-column">
+		
 
-							<h1>Google Workspace <span>is Awesome </span>
-							</h1>
-							<div class="title">Your business just needs the right move!</div>
-							<!-- <div class="text"> “Technology from Google  that inspires the dynamics of business culture, increase efficiency, decrease direct expenses and <br><b style="color:red">"GROW PROFITS"!</b></div> -->
-							<div class="btns-box">
-								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
-								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
-							</div>
-						</div>
-					</div>
 
-					<!-- Image Column -->
-					<div class="image-column col-lg-6 col-md-12 col-sm-12">
-						<div class="inner-column slideInRight animated">
-							<div class="image">
-								<img src="images/money.png" alt="Skynetiks Technologies is an authorized Google Workspace Reseller/Partner and a website development company based in India, serving Delhi and NOIDA.
-">
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-
-		<div class="slide" style="background-image: url(images/gmail_for_business.jpg)">
-			<div class="color-layer-one"></div>
-			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
-			<div class="auto-container">
-				<div class="row clearfix">
-
-					<!-- Content Column -->
-					<div class="content-column col-lg-6 col-md-12 col-sm-12">
-						<div class="inner-column">
-
-							<h1>We live in <span>a world where </span></h1>
-							<div class="title">Google is the ultimate technology!
-							</div>
-							<div class="btns-box">
-								<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
-								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
-							</div>
-						</div>
-					</div>
-
-					<!-- Image Column -->
-					<div class="image-column col-lg-6 col-md-12 col-sm-12">
-						<div class="inner-column fadeInDown animated">
-							<div class="image">
-								<img src="images/email.png" alt="Skynetiks Technologies is an authorized Google Workspace Reseller/Partner and a website development company based in India, serving Delhi and NOIDA.">
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-
-		<!--<div class="slide" style="background-image: url(images/main-slider/G-suite-services-businessmail.jpg)">-->
-		<!--	<div class="color-layer-one"></div>-->
-		<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
-		<!--	<div class="auto-container">-->
-		<!--		<div class="row clearfix">-->
-
-		<!-- Content Column -->
-		<!--			<div class="content-column col-lg-6 col-md-12 col-sm-12">-->
-		<!--				<div class="inner-column">-->
-
-		<!--					<h1>All big Brands  <span>Have Best Technology.</span> </h1>-->
-		<!--					<div class="title">"Investment In Technology Pays BIG RETURNS"-->
-		<!--							</div>-->
-		<!--					<div class="btns-box">-->
-		<!--						<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>-->
-		<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
-		<!--					</div>-->
-		<!--				</div>-->
-		<!--			</div>-->
-
-		<!-- Image Column -->
-		<!--			<div class="image-column col-lg-6 col-md-12 col-sm-12">-->
-		<!--				<div class="inner-column slideInLeft animated">-->
-		<!--					<div class="image">-->
-		<!--						<img src="images/email-claud.png" alt="">-->
-		<!--					</div>-->
-		<!--				</div>-->
-		<!--			</div>-->
-
-		<!--		</div>-->
-		<!--	</div>-->
-		<!--</div>-->
 
 
 
@@ -244,7 +185,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="inner-column">
 						<h1 class="heading-big">Empower Your Business with a Professional Email Hosting Solution</h1>
 						<p>Business Mail E-Solutions is your trusted partner for secure, cloud-based communication. Trusted by over 5 million businesses, we offer email solutions like Google Workspace, Microsoft 365, Zoho Mail, Rediffmail, Zimbra, RC Mail, and Hosted Exchange. Boost productivity, streamline operations, and empower your team with reliable, scalable business email services.</p>
-						</div>
+					</div>
 				</div>
 
 
@@ -261,7 +202,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 			<div class="col-md-4 col-sm-4"></div>
 			<div class="col-md-4 col-sm-4"></div>
 			<div class="col-md-4 col-sm-4">
-				<div class="make-appointment contact-content pull-right">
+				<div class="make-appointment contact-content pull-right" id="contact-form-content">
 					<div class="top-header" style="padding-top:10px;">
 						<h4 style="color:#fff; font-size: 16px;  padding-bottom: 5px; line-height:24px; padding-left:3px; padding-right:3px;">Please fill in your information to get a free survey of your business.</h4>
 
@@ -270,30 +211,30 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 
 					<!-- .contact-form-wrap -->
 					<div class="contact-form-wrap">
-  <form id="enquiryForm">
-    <div class="form-group">
-      <input name="name" type="text" id="name2" class="form-control" placeholder="Name" required>
-    </div>
-    <div class="form-group">
-      <input name="email" type="email" id="email2" class="form-control" placeholder="Email" required>
-    </div>
-    <div class="form-group">
-      <input type="text" id="phone2" name="phone" class="form-control" pattern="[0-9]{10}" placeholder="Phone" required>
-    </div>
-    <div class="form-group">
-      <select id="package" class="form-control" required>
-        <option value="" disabled selected>Select Package</option>
-        <option value="Basic">Basic</option>
-        <option value="Standard">Standard</option>
-        <option value="Premium">Premium</option>
-      </select>
-    </div>
-    <div class="form-group">
-      <textarea name="message" id="message2" class="form-control" rows="4" placeholder="Message" required></textarea>
-    </div>
-    <input type="submit" value="Submit" class="btn btn-warning" style="border:0;">
-  </form>
-</div>
+						<form id="enquiryForm">
+							<div class="form-group">
+								<input name="name" type="text" id="name2" class="form-control" placeholder="Name" required>
+							</div>
+							<div class="form-group">
+								<input name="email" type="email" id="email2" class="form-control" placeholder="Email" required>
+							</div>
+							<div class="form-group">
+								<input type="text" id="phone2" name="phone" class="form-control" pattern="[0-9]{10}" placeholder="Phone" required>
+							</div>
+							<div class="form-group">
+								<select id="package" class="form-control" required>
+									<option value="" disabled selected>Select Package</option>
+									<option value="Basic">Basic</option>
+									<option value="Standard">Standard</option>
+									<option value="Premium">Premium</option>
+								</select>
+							</div>
+							<div class="form-group">
+								<textarea name="message" id="message2" class="form-control" rows="4" placeholder="Message" required></textarea>
+							</div>
+							<input type="submit" value="Submit" class="btn btn-warning" style="border:0;">
+						</form>
+					</div>
 
 
 
@@ -325,11 +266,11 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 						<h2>About Us</h2>
 					</div>
 					<p>
-  <strong>Skynetiks Technologies</strong> is a trusted <strong>Google Workspace reseller in India</strong>, delivering secure <strong>business email</strong> and <strong>cloud collaboration solutions</strong> for over 22 years. 
-  With <strong>5,000+ satisfied clients</strong>, we are known for reliability, performance, and expert technical support. 
-  Our services include <strong>Google Workspace</strong>, <strong>Microsoft 365</strong>, <strong>Zoho Mail</strong>, and <strong>custom domain-based email hosting</strong>. 
-  We provide seamless setup, expert-led email migration, and <strong>24x7 technical assistance</strong> to ensure your business communication runs smoothly and securely.
-</p>
+						<strong>Skynetiks Technologies</strong> is a trusted <strong>Google Workspace reseller in India</strong>, delivering secure <strong>business email</strong> and <strong>cloud collaboration solutions</strong> for over 22 years.
+						With <strong>5,000+ satisfied clients</strong>, we are known for reliability, performance, and expert technical support.
+						Our services include <strong>Google Workspace</strong>, <strong>Microsoft 365</strong>, <strong>Zoho Mail</strong>, and <strong>custom domain-based email hosting</strong>.
+						We provide seamless setup, expert-led email migration, and <strong>24x7 technical assistance</strong> to ensure your business communication runs smoothly and securely.
+					</p>
 
 
 					<!-- Fact Counter -->
@@ -418,7 +359,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 						<h4><a href="#">Google Workspace</a></h4>
 						<p>Google Workspace is the all-in-one solution for secure, scalable, and professional business communication. Formerly known as G Suite, it includes Gmail with your domain, Google Drive, Docs, Calendar, and over 35 productivity tools. At Business Mail E-Solutions, we help Indian businesses migrate to Google Workspace with zero downtime, complete data security, and expert support. Whether you're a startup or an enterprise, we ensure a seamless transition to the cloud—efficient, reliable, and future-ready.
 						</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt"  >Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -431,7 +372,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 										background: #80c335;
 										">
 						<div class="overlay-box">
-							<a href="cost-effective-best-affordable-alternative-to-google-workspace-Zoho-workplace-reseller-skynetiks-technologies-India.php" class="search-icon"><span class="icon flaticon-link"></span></a>
+							<a href="zoho-workplace-best-google-workspace-alternative-india.php" class="search-icon"><span class="icon flaticon-link"></span></a>
 						</div>
 					</div>
 					<div class="lower-content">
@@ -451,7 +392,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 										background:#ffae06;
 										">
 						<div class="overlay-box">
-							<a href="how-to-setup-alternative-to-google-workspace-reseller-club-email-accounts-by-skynetiks-technologies-Noida.php" class="search-icon"><span class="icon flaticon-link"></span></a>
+							<a href="economical-business-email-solution-hosting-india.php" class="search-icon"><span class="icon flaticon-link"></span></a>
 						</div>
 					</div>
 					<div class="lower-content">
@@ -478,7 +419,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 						<h4><a href="#">Zimbra Mail</a></h4>
 						<p>Upgrade to a powerful business email and collaboration platform with Zimbra Mail. It offers secure, custom domain email, shared calendars, file sharing, and team messaging—all in one solution. Ideal for startups, SMEs, and enterprises, Zimbra ensures scalability, data security, and professional communication.
 
-At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in India with quick setup, smooth migration, and expert support. Boost productivity and build your brand with a reliable, all-in-one Zimbra business email solution.</p>
+							At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in India with quick setup, smooth migration, and expert support. Boost productivity and build your brand with a reliable, all-in-one Zimbra business email solution.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -492,7 +433,7 @@ At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in I
 										/* border: 10px solid #0277bd; */
 										">
 						<div class="overlay-box">
-							<a href="Google-workspace-data-migration-to-microsoft-O365-in-Noida-Gurugram-India-with-skynetiks-technologies.php" class="search-icon"><span class="icon flaticon-link"></span></a>
+							<a href="google-workspace-data-migration-microsoft365-india.php" class="search-icon"><span class="icon flaticon-link"></span></a>
 						</div>
 					</div>
 					<div class="lower-content">
@@ -556,7 +497,7 @@ At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in I
 										background: #0277bd;
 										">
 						<div class="overlay-box">
-							<a href="create-company-brand-identity-reputation-use-domain-based-custom-email-solution-with-skynetiks-technologies-in-Noida-gurugramDelhi.php" class="search-icon"><span class="icon flaticon-link"></span></a>
+							<a href="custom-domain-based-email-for-organiztion-brand-identity.php" class="search-icon"><span class="icon flaticon-link"></span></a>
 						</div>
 					</div>
 					<div class="lower-content">
@@ -737,29 +678,29 @@ At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in I
 
 <script src="https://smtpjs.com/v3/smtp.js"></script>
 <script>
-  document.getElementById("enquiryForm").addEventListener("submit", function (e) {
-    e.preventDefault();
+	document.getElementById("enquiryForm").addEventListener("submit", function(e) {
+		e.preventDefault();
 
 
-    const formData = {
-      name: document.getElementById("name2").value,
-      email: document.getElementById("email2").value,
-      phone: document.getElementById("phone2").value,
-      package: document.getElementById("package").value,
-      message: document.getElementById("message2").value,
-      pageUrl: window.location.href
-    };
+		const formData = {
+			name: document.getElementById("name2").value,
+			email: document.getElementById("email2").value,
+			phone: document.getElementById("phone2").value,
+			package: document.getElementById("package").value,
+			message: document.getElementById("message2").value,
+			pageUrl: window.location.href
+		};
 
 
-    Email.send({
-      Host: "smtp.elasticemail.com",
-      Port: 2525,
-      Username: "sales@skynetiks.com",
-      Password: "A67B232604CAF3ECE4584F9DE30A17054104", // ⚠️ For production, use a backend!
-      To: "sales@skynetiks.com",
-      From: "sales@skynetiks.com",
-      Subject: `New Enquiry: ${formData.package}`,
-      Body: `
+		Email.send({
+			Host: "smtp.elasticemail.com",
+			Port: 2525,
+			Username: "sales@skynetiks.com",
+			Password: "A67B232604CAF3ECE4584F9DE30A17054104", // ⚠️ For production, use a backend!
+			To: "sales@skynetiks.com",
+			From: "sales@skynetiks.com",
+			Subject: `New Enquiry: ${formData.package}`,
+			Body: `
         <b>Name:</b> ${formData.name}<br/>
         <b>Email:</b> ${formData.email}<br/>
         <b>Phone:</b> ${formData.phone}<br/>
@@ -768,18 +709,18 @@ At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in I
         <h4>Page URL:</h4>
         <a href="${formData.pageUrl}" target="_blank">${formData.pageUrl}</a>
       `
-    }).then(message => {
-      if (message === "OK") {
-        alert("Your enquiry has been sent successfully!");
-        document.getElementById("enquiryForm").reset();
-      } else {
-        alert("Failed to send your enquiry. Please try again.");
-      }
-    }).catch(error => {
-      console.error("Email sending error:", error);
-      alert("Something went wrong while sending the email.");
-    });
-  });
+		}).then(message => {
+			if (message === "OK") {
+				alert("Your enquiry has been sent successfully!");
+				document.getElementById("enquiryForm").reset();
+			} else {
+				alert("Failed to send your enquiry. Please try again.");
+			}
+		}).catch(error => {
+			console.error("Email sending error:", error);
+			alert("Something went wrong while sending the email.");
+		});
+	});
 </script>
 
 

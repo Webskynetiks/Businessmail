@@ -1,5 +1,9 @@
-<?php include_once "common/header.php" ?>
-
+<?php
+$meta_title = "Google Workspace Partner in Bhatinda | Buy Gmail for Business India";
+$meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Bhatinda, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
+$meta_keywords = "Google Workspace Bhatinda, Gmail for Business Bhatinda, Buy Google Workspace India, Google Workspace Reseller Bhatinda, Business Email Hosting Bhatinda, Certified Google Partner Bhatinda";
+include_once "common/header.php";
+?>
 
 <style type="text/css">
 	.main-header {

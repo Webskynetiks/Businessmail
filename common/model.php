@@ -268,8 +268,7 @@
     <div class="modal-content">
       <div class="modal-header d-flex flex-column align-items-start">
         <div class="d-flex w-100 align-items-center">
-          <h4 class="modal-title">Get A Call Back</h4>
-          <img class="mx-4" src="images/Need-business-email-hosting-and-cloud-communication-businessmail-powered-by-skynetiks-technologies-is-the-solution.jpg" title="Businessmail Best Email Solution Provider in Noida" alt="Businessmail Logo" style="width: 80%; max-width: 200px;">
+          <!-- <h4 class="modal-title text-center">Get A Call Back</h4> -->
           <button type="button" class="close btn-danger ml-2" data-dismiss="modal" style="position: absolute; top: 15px; right: 15px;">&times;</button>
         </div>
         <div class="modal-subcontent">

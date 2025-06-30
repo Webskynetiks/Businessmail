@@ -159,6 +159,14 @@ h6{
 	margin:0 auto;
 }
 
+@media screen and (max-width: 500px) {
+	.auto-container{
+			padding:10px 15px;
+	}
+}
+
+
+
 .medium-container{
 	max-width:850px;
 }
@@ -3181,9 +3189,9 @@ div#fbpnvc0p1au1ffjsg5mp {
 	transition-delay: 600ms;
 }
 
-.banner-section .content-column h1 span{
-	color:#ffb500;
-}
+/* .banner-section .content-column h1 span{
+	color:black;
+} */
 
 
 
@@ -18071,15 +18079,15 @@ h4.modal-title {
 }
 
 .modal-subcontent {
-	background-color:#0b0c26;
+	/* background-color:#0b0c26; */
 }
 
 .modal-subcontent h4 {
 	/* color: green; */
 	/* color: #363638; */
-	color:white;
+	/* color:white; */
 	text-align: center;
-	background-color:#1f487e;
+	/* background-color:#1f487e; */
 	width: 63%;
 	margin: auto;
 	border-radius: 5px;
@@ -18088,7 +18096,7 @@ h4.modal-title {
 #callback_heading {
 	/* color:#002c48; */
 	/* color:#031d31; */
-	color:white;
+	/* color:white; */
 	font-size: 18px;
 	width: 92%;
 	margin: auto;
@@ -18096,8 +18104,8 @@ h4.modal-title {
 
 .modal-support {
 	font-size: 16px;
-	color:white;
-	background-color:#1f487e;
+	/* color:white; */
+	/* background-color:#1f487e; */
 	padding: 0.7rem 1.5rem;
 	width: 95%;
 	margin: auto;
@@ -18116,7 +18124,7 @@ h4.modal-title {
 
 .modal-fill {
 	font-size: 17.5px;
-	color:white;
+	/* color:white; */
 	text-align: center;
 	width: 100%;
 	margin: auto;
@@ -18127,7 +18135,7 @@ h4.modal-title {
 
 .modal-contact {
 	font-size: 18px;
-	color:white;
+	/* color:white; */
 	text-align: center;
 	padding-top: 5px;
 	/* color: green; */
@@ -18927,6 +18935,14 @@ div#otpvoslfm18o1ffk64ifa{
 .heading-big{
    color:#fff; text-align:center;font-size:40px; font-weight:bold;
 }
+
+@media screen and (max-width: 500px) {
+	.heading-big{
+		font-size: 20px;
+	}
+	
+}
+
 .heading-black{
    color:#000; text-align:center;font-size:40px; font-weight:bold;
 }
@@ -18975,6 +18991,19 @@ div#otpvoslfm18o1ffk64ifa{
 @media screen and (max-width: 500px) {
 	.city_page_heading {
 		font-size: 1rem;
+	}
+	
+}
+
+
+/* home page  form */
+
+@media screen and (max-width: 500px) {
+	.contact-form-wrap {
+		display: none;
+	}
+	#contact-form-content {
+		display: none;
 	}
 	
 }

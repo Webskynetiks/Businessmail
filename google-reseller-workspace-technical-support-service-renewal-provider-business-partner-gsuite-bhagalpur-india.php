@@ -1,5 +1,9 @@
-<?php include_once "common/header.php" ?>
-
+<?php
+$meta_title = "Google Workspace Partner in Bhagalpur | Buy Gmail for Business India";
+$meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Bhagalpur, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
+$meta_keywords = "Google Workspace Bhagalpur, Gmail for Business Bhagalpur, Buy Google Workspace India, Google Workspace Reseller Bhagalpur, Business Email Hosting Bhagalpur, Certified Google Partner Bhagalpur";
+include_once "common/header.php";
+?>
 
 <style type="text/css">
 	.main-header {

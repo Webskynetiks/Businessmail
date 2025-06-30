@@ -1,5 +1,9 @@
-<?php include_once "common/header.php" ?>
-
+<?php
+$meta_title = "Google Workspace Partner in Amravati | Buy Gmail for Business India";
+$meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Amravati, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
+$meta_keywords = "Google Workspace Amravati, Gmail for Business Amravati, Buy Google Workspace India, Google Workspace Reseller Amravati, Business Email Hosting Amravati, Certified Google Partner Amravati";
+include_once "common/header.php";
+?>
 
 <style type="text/css">
 	.main-header {

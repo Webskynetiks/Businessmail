@@ -1,5 +1,9 @@
-<?php include_once "common/header.php"?>
-<style type="text/css">
+<?php
+$meta_title = "Google Workspace Partner in Ahmedabad | Buy Gmail for Business India";
+$meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Ahmedabad, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
+$meta_keywords = "Google Workspace Ahmedabad, Gmail for Business Ahmedabad, Buy Google Workspace India, Google Workspace Reseller Ahmedabad, Business Email Hosting Ahmedabad, Certified Google Partner Ahmedabad";
+include_once "common/header.php";
+?><style type="text/css">
 	.main-header {
     position: inherit;
     z-index: 99;

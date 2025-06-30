@@ -788,13 +788,6 @@
 	section.top-header,ul.info-list{
 		display: none;
 	}
-	a.whatsapp-icon{
-		display: none;
-	}
-
-	a.whatsapp-icon-phone{
-		display: block;
-	}
 
 	.city h4 {
     color: #ffffff;
@@ -1098,7 +1091,7 @@ span.arrow-icon.flaticon-right-arrow-1{
 @media only screen and (max-width: 599px){
 	
 	h2{
-		font-size:30px;
+		font-size:26px;
 	}
 	
 	.sec-title-two h2 br,
