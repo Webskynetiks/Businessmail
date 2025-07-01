@@ -20,24 +20,7 @@ include_once "common/header.php";
 
 
 
-<!-- <section class="about-page-section">
-  <div class="sec-title centered">
-    <h4 class="text-black"><strong class="text-black"> Support for All Business Email Services – Call Us First </strong></h4>
-  </div>      
 
-
-  <div class="container">
-   
-      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a> partner (Formerly known as G Suite) We provide Google Workspace, Domain and Hosting, Website Designing, SSL, Google Cloud Platform for businesses in india.
-
-
-Moving business to Google Workspace ? Need to understand the difference between business and enterprise plans, to choose the right Google workspace for business.
-<strong>Get details & free consultancy about Google Workspace(formerly known as G Suite) pricing for personal and for business use.
-Get a call back by the experts they will help you compare features, understand pricing, no pressure just clear expert guidance for Google Workspace and all other services.</strong>
-   </div>
-
-
-</section> -->
 
 
 
@@ -46,19 +29,18 @@ Get a call back by the experts they will help you compare features, understand p
     <h1 style="font-size: 30px; font-weight: 700; color: #222; margin-bottom: 20px;">
       24x7 Support for All Business Email Services
     </h1>
-    <p style="font-size: 16px; color: #444; line-height: 1.8;">
+    <p style="font-size: 16px; color: #444; line-height: 1.8; text-align: justify;">
       At <strong>Skynetiks Technologies</strong>, we offer <strong>round-the-clock support</strong> for all major business email platforms. Whether you're using <strong>Google Workspace (formerly G Suite)</strong>, <strong>Microsoft 365</strong>, <strong>Zimbra Mail</strong>, <strong>cPanel Email</strong>, or any <strong>custom domain email service</strong>, our team is ready to help you resolve issues quickly and professionally.
     </p>
-    <p style="font-size: 16px; color: #444; line-height: 1.8;">
+    <p style="font-size: 16px; color: #444; line-height: 1.8; text-align: justify;  ">
       If your email isn't working, you're having trouble renewing your subscription, or facing login or domain configuration issues — <strong>call us first</strong>. We’re available <strong>24x7, 365 days a year</strong> to provide real-time support with no waiting and no bots.
-    </p>
-    <p style="font-size: 16px; color: #444; line-height: 1.8;">
+  
       We assist with <strong>email migration</strong>, <strong>admin console support</strong>, <strong>MX/DNS record fixing</strong>, <strong>mail delivery errors</strong>, and <strong>account setup</strong> on desktop and mobile devices. Whether you're a small business, enterprise, or educational institution, our email experts ensure your communication never stops.
     </p>
-    <p style="font-size: 16px; color: #444; line-height: 1.8;">
+    <p style="font-size: 16px; color: #444; line-height: 1.8; text-align: justify;">
       To get help now, call us at <strong>+91-9212378780</strong> or email us at <a href="mailto:sales@skynetiks.com">sales@skynetiks.com</a>. We serve clients across <strong>Delhi, Noida, NCR, Mumbai, Bangalore, Chennai, Hyderabad, Pune</strong> and all over India.
     </p>
-    <p style="font-size: 16px; color: #444; line-height: 1.8;">
+    <p style="font-size: 16px; color: #444; line-height: 1.8; text-align: justify;  ">
       Join 500+ businesses that trust Skynetiks for reliable, expert email support. Let us keep your communication seamless and secure — anytime you need us.
     </p>
   </div>

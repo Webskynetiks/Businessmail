@@ -10,7 +10,7 @@
 	<meta property="og:image" content="<?php echo $meta_og_image ?? 'https://businessmail.co.in/images/business-email-solution-provider-google-workspace-partner-india.webp'; ?>">
 	<meta property="og:site_name" content="Skynetiks Technologies">
 	<meta name="robots" content="<?php echo $meta_robots ?? 'index, follow'; ?>">
-   <link rel="canonical" href="<?php echo $meta_canonical ?? 'https://businessmail.co.in' . $_SERVER['REQUEST_URI']; ?>">
+	<link rel="canonical" href="<?php echo $meta_canonical ?? 'https://businessmail.co.in' . $_SERVER['REQUEST_URI']; ?>">
 
 	<meta name="google-site-verification" content="VJUz3lsM8Q4h82JQyGW-0KiC5pfLa_6V_hRvSxd7yRI" />
 
@@ -181,7 +181,7 @@
 												</a></li>
 										</ul>
 									</li>
-									<li><a href="https://shrishtisoftech.com/become-partner/" class="last">Become Partner</a>
+									<li><a href="become-a-partner.php" class="last">Become Partner</a>
 									</li>
 
 								</ul>

@@ -9,136 +9,137 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div id="testimonial-slider" class="owl-carousel">
+  <div id="testimonial-slider" class="owl-carousel">
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Dianna Kersey Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Dianna Kersey</h3>
-                <span class="post">CEO</span>
-              </div>
-              <p class="description">
-               When I first contacted Skynetiks Technologies Pvt. Ltd. about my project, I was skeptical not because I had doubts about their professional expertise and abilities but about the concept behind my own project. My ideas were fuzzy and lacked clarity. The engineers at Skynetiks Technologies Pvt. Ltd. helped me to first transform my rough sketch into concrete shape and then into concrete reality. I am ecstatic about the quality of their service and recommend them strongly.
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Dianna Kersey Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Dianna Kersey</h3>
+        <span class="post">CEO</span>
+      </div>
+      <p class="description">
+        When I first contacted Skynetiks Technologies Pvt. Ltd. about my project, I was unsure about my idea. Their engineers transformed my rough vision into a polished reality with exceptional quality and dedication. I’m extremely pleased with their service and professionalism. I highly recommend them to anyone looking for reliable, skilled tech partners who genuinely care about client satisfaction and deliver on time.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Dr Koushik Lahiri Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Dr Koushik Lahiri</h3>
-                <span class="post">Senior Dermatologist</span>
-              </div>
-              <p class="description">
-               I really appreciate Skynetiks Technologies Pvt. Ltd. for the professionalism in their approach, committed, sincere and focused method of working and deep sense of responsibility and dignified way to carry out the project in a time bound and fully transparent manner. It was a pleasure working with Skynetiks Technologies Pvt. Ltd. I highly recommend them for any web-based project anywhere in the globe.
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Dr Koushik Lahiri Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Dr Koushik Lahiri</h3>
+        <span class="post">Senior Dermatologist</span>
+      </div>
+      <p class="description">
+        Skynetiks Technologies Pvt. Ltd. impressed me with their professional approach, transparency, and dedicated teamwork. Their commitment to timelines and high-quality standards made my web project a smooth experience. The team was supportive, responsible, and communicative throughout the process. I highly recommend them for their sincere efforts and dependable tech solutions anywhere in the world.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Stuart Rubenstein Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Stuart Rubenstein</h3>
-                <span class="post">CEO</span>
-              </div>
-              <p class="description">
-                The experienced techies at Skynetiks Technologies Pvt. Ltd. an official partner with Google Workspace know it all. There is probably no web project that they can't do for you. Their search engine optimization and SEM strategies deliver results. Projects are always completed on time and on budget. I am very pleased with their servicing standards.
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Stuart Rubenstein Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Stuart Rubenstein</h3>
+        <span class="post">CEO</span>
+      </div>
+      <p class="description">
+        Skynetiks Technologies Pvt. Ltd., a certified Google Workspace partner, has handled several projects for us. Their SEO, SEM, and web development expertise has delivered measurable results. They consistently meet deadlines, stay on budget, and provide ongoing support. Their team is highly competent, professional, and dependable. We’re extremely satisfied and consider them a long-term partner.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Gaurav Uppal Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Gaurav Uppal</h3>
-                <span class="post">CEO</span>
-              </div>
-              <p class="description">
-               It is just not about providing the services &amp; after sales support, Skynetiks Technologies Pvt. Ltd. shares the technical knowledge too if needed. Personalize attention is their USP. I am very pleased with their servicing standards.
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Gaurav Uppal Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Gaurav Uppal</h3>
+        <span class="post">CEO</span>
+      </div>
+      <p class="description">
+        It’s not just the services and post-sales support—Skynetiks Technologies Pvt. Ltd. also provides valuable technical knowledge when needed. Their personalized attention, proactive team, and transparent approach made them stand out. Their support throughout our journey has been fantastic. I strongly recommend them to any business seeking growth-focused IT services.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Nidhi Bhatnagar Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Nidhi Bhatnagar</h3>
-                <span class="post">Fashion Designer</span>
-              </div>
-              <p class="description">
-               Dear Team Skynetiks Technologies Pvt. Ltd.,Thanks for all your continuous Support. It's been a wonderful experience with Skynetiks. We appreciate all your hard work and efforts .
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Nidhi Bhatnagar Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Nidhi Bhatnagar</h3>
+        <span class="post">Fashion Designer</span>
+      </div>
+      <p class="description">
+        Dear Team Skynetiks Technologies Pvt. Ltd., thank you for your continuous support and cooperation. It’s been an excellent experience working with your team. We truly appreciate the hard work, patience, and professionalism that went into our project. Looking forward to more successful collaborations ahead with Skynetiks!
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="S. K Rathor Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">S. K Rathor</h3>
-                <span class="post">Managing Director</span>
-              </div>
-              <p class="description">
-              Trying to find a good software development and design company that will do your work for you the way you want it done is a logistical nightmare. Skynetiks Technologies Pvt. Ltd. is an exception. They take the time to develop a blueprint before implementing the project. Their after sales support leaves virtually nothing to be desired. I will continue to use their service for the foreseeable 
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="S. K Rathor Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">S. K Rathor</h3>
+        <span class="post">Managing Director</span>
+      </div>
+      <p class="description">
+        Working with Skynetiks Technologies Pvt. Ltd. was a game-changer. They followed a clear roadmap, developed a plan, and delivered as promised. Their post-delivery support is efficient and reliable. It’s rare to find a team so dedicated and professional. I will continue using their services and recommend them highly for future-ready digital solutions.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Mr. Anirudh Lal Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Mr. Anirudh Lal</h3>
-                <span class="post">MD, Macsam Apparels Pvt. Ltd.</span>
-              </div>
-              <p class="description">
-                The decision criteria for Google Apps boiled down to three things: cost, storage, and capability. Had we selected a different email infrastructure, our cost would have been 4 times higher than Google Apps.
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Mr. Anirudh Lal Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Mr. Anirudh Lal</h3>
+        <span class="post">MD, Macsam Apparels Pvt. Ltd.</span>
+      </div>
+      <p class="description">
+        We chose Google Workspace based on cost, storage, and ease of use. With Skynetiks’ help, we implemented a system that saved time and cut expenses by over four times compared to alternatives. Their guidance, technical knowledge, and prompt support made deployment smooth and stress-free.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Rajeev Bansal Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Rajeev Bansal</h3>
-                <span class="post">MD, Celestial Knits & Fabs Pvt Ltd</span>
-              </div>
-              <p class="description">
-                 We're big on finding better ways to do things, and Google Apps had what we needed. We use Google Calendar so we can all keep up with our people and the places they'll be
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Rajeev Bansal Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Rajeev Bansal</h3>
+        <span class="post">MD, Celestial Knits & Fabs Pvt Ltd</span>
+      </div>
+      <p class="description">
+        At Celestial, innovation is key. Skynetiks Technologies helped us adopt Google Workspace tools like Calendar and Drive for better collaboration. Their onboarding process was efficient, and they supported us at every stage. We’ve seen improved productivity and smoother communication across our team since the switch.
+      </p>
+    </div>
 
-            <!-- Testimonial Item -->
-            <div class="testimonial">
-              <div class="pic">
-                <img src="images/img-1.png" alt="Mr. Kishan Aggarwal Photo">
-              </div>
-              <div class="testimonial-profile">
-                <h3 class="title">Mr. Kishan Aggarwal</h3>
-                <span class="post">MD, World Wide Insurance Brokers Ltd</span>
-              </div>
-              <p class="description">
-                Switching to Google Apps gave us a rock-solid email solution that our users love. When we roll out any technology that's that simple for us to maintain and universally loved by our staff, that's a win in our books.
-              </p>
-            </div>
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/img-1.png" alt="Mr. Kishan Aggarwal Photo">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">Mr. Kishan Aggarwal</h3>
+        <span class="post">MD, World Wide Insurance Brokers Ltd</span>
+      </div>
+      <p class="description">
+        Moving to Google Workspace with Skynetiks was an excellent decision. The new email system is fast, stable, and easy to maintain. Employees love the simplicity and reliability. Skynetiks ensured everything went smoothly, with top-notch support. It's a solution that works for both IT and users.
+      </p>
+    </div>
 
-          </div> <!-- End Owl Carousel -->
-        </div>
+  </div> <!-- End Owl Carousel -->
+</div>
+
       </div>
     </div>
   </div>

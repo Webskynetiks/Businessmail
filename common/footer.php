@@ -54,10 +54,10 @@
 														<li><a href="Free-technical-support-for-google-workspace-partner-with-skynetiks-technologies-Noida-Delhi-India.php">Tech Support </a></li>
 														<li><a href="Google-workspace-price-hike-right-time-to-migrate-to-alternative-email-solutions-skynetiks-technologies-in-Noida-Delhi-gurugram-India.php">Mail Migration</a></li>
 														<li><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php">Product Sign Up </a></li>
-														<li><a href="Signup-google-workspace-free-trial-technical-support-skynetiks-technologies-partner-Noida-Delhi-gurugram-India.php">For Free Trial
+														<!-- <li><a href="Signup-google-workspace-free-trial-technical-support-skynetiks-technologies-partner-Noida-Delhi-gurugram-India.php">For Free Trial
 															</a></li>
 														<li><a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php">Get a Call Back
-															</a></li>
+															</a></li> -->
 														<li><a href="24X7-gsuite-google-workspace-renewal-customer-support-service-skynetiks-technologies-Noida-Delhi-India.php">Ask for Support
 															</a></li>
 														<li><a href="technical-support-help-for-gsuite-legacy-to-google-workspace.php">Google legacy Account Information
@@ -77,10 +77,10 @@
 										<div class="footer-widget contact-widget">
 											<h4>Contact Information</h4>
 											<h6>Get In Touch</h6>
-											<ul class="list-style-two">
-												<li><span class="icon flaticon-map"></span> Tower B - 609 & 610, Logix Technova, Sec-132, Noida, (UP) 201305, India</li>
-												<li><span class="icon flaticon-phone-call"></span><a href="tel:+919212378780">+91-92 123 78780</a></li>
-												<li><span class="icon flaticon-big-envelope"></span><a href="mailto: enquiry@businessmail.co.in"> enquiry@businessmail.co.in</a></li>
+											<ul class="list-style-two" style="color: black;">
+												<li style="color: black;"><span class="icon flaticon-map text-black" style="color: black;"></span> Tower B - 609 & 610, Logix Technova, Sec-132, Noida, (UP) 201305, India</li>
+												<li style="color: black;"><span class="icon flaticon-phone-call text-black" style="color: black;"></span><a style="color: black;" href="tel:+919212378780">+91-92 123 78780</a></li>
+												<li style="color: black;"><span class="icon flaticon-big-envelope" style="color: black;"></span><a style="color: black;" href="mailto: enquiry@businessmail.co.in"> enquiry@businessmail.co.in</a></li>
 											</ul>
 											<!-- <h6>Opening Hours</h6>
 								<div class="timing">Mon - Sat 09:00am To 05:00pm Sunday: Off</div> -->

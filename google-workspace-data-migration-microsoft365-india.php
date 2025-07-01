@@ -46,15 +46,15 @@ background-size: 100% 100%;">
             <div class="col-md-8">
 
                 <div class="text-content">
-                    <p>Microsoft Office 365 Email Services offer a robust, cloud-based email hosting solution that enhances business communication through the powerful capabilities of Microsoft Exchange. With features like shared calendars, contacts, tasks, and enhanced email security, Office 365 enables your team to collaborate more efficiently across devices and locations. Leveraging Microsoft’s cutting-edge technology, this enterprise-grade solution empowers businesses with reliable access, seamless synchronization, and advanced productivity tools — all while maintaining professional domain-branded email accounts.
+                    <p style="text-align: justify;">Microsoft Office 365 Email Services provide a robust, cloud-based hosting solution that enhances business communication through Microsoft Exchange. With shared calendars, contacts, tasks, and strong email security, Office 365 helps your team collaborate efficiently across devices and locations. Powered by Microsoft’s technology, this enterprise-grade solution offers reliable access, seamless sync, and advanced tools — all while supporting professional, domain-branded email accounts.
                     </p>
-                    <p>At Skynetiks Technologies, a trusted Microsoft Office 365 partner in India, we provide affordable and tailored Office 365 email hosting services to suit businesses of all sizes. Our offerings include hosted Exchange Server, Microsoft Office Online, SharePoint, Skype for Business, and Yammer — creating a unified communication and collaboration environment. Whether you’re a startup, SME, or enterprise, our team ensures smooth onboarding, expert support, and a scalable solution that grows with your organization. Choose Skynetiks to unlock the full potential of Microsoft Office 365 Business Email Hosting at a competitive price.</p>
+                    <p style="text-align: justify;">At Skynetiks Technologies, a trusted Microsoft Office 365 partner in India, we offer affordable, tailored Office 365 email hosting services for businesses of all sizes. Our solutions include Hosted Exchange Server, Microsoft Office Online, SharePoint, Skype for Business, and Yammer — enabling unified communication and collaboration. Whether you’re a startup, SME, or enterprise, our team ensures smooth onboarding, expert support, and a scalable solution that grows with your organization. Choose Skynetiks to unlock the full potential of Microsoft 365 Business Email Hosting at a competitive price.</p>
 
 
                 </div>
             </div>
-            <div class="col-md-3">
-                <img src="images/how-can-I-upgrade-my-microsoft-365-plan-after-renewal-skynetiks-technologies-partner-with-Google-Workspace-in-Noida-India.jpg" title="What are the steps to reset a Microsoft 365 admin password by Skynetiks technologies, Google Workspace partner in Noida." alt="How do I renew my Microsoft 365 subscription manually - Skynetiks technologies an official Google Workspace partner in Noida, India">
+            <div class="col-md-4">
+                <img src="images/microsoft-office-365-services-provider-india.webp">
             </div>
         </div>
     </div>

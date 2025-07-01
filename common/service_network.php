@@ -131,7 +131,7 @@
 									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-Amreli-india.php">Amreli</a>|
 									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-anantapur-india.php">Anantapur</a>|
 									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-azamgarh-india.php">Azamgarh</a>|
-									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bardhaman-india.php">Bardhaman</a>|
+									<!-- <a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bardhaman-india.php">Bardhaman</a>| -->
 									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bargarh-india.php">Bargarh</a>|
 									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-betul-india.php">Betul</a>|
 									<a href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bharuch-india.php">Bharuch</a>|

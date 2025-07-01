@@ -81,9 +81,8 @@
 			</div>
 		</div>
 
-		<div class="slide" style="background-image: url(images/slider/zoho-email-workspace-reseller-certified-partner.webp)">
+		<div class="slide" style="background-image: url(images/zoho-workspace-reseller.webp)">
 			<div class="color-layer-one"></div>
-			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
 			<div class="auto-container">
 				<div class="row clearfix">
 
@@ -357,7 +356,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Google Workspace</a></h4>
-						<p>Google Workspace is the all-in-one solution for secure, scalable, and professional business communication. Formerly known as G Suite, it includes Gmail with your domain, Google Drive, Docs, Calendar, and over 35 productivity tools. At Business Mail E-Solutions, we help Indian businesses migrate to Google Workspace with zero downtime, complete data security, and expert support. Whether you're a startup or an enterprise, we ensure a seamless transition to the cloud—efficient, reliable, and future-ready.
+						<p>Google Workspace is the all-in-one solution for secure, scalable, and professional business communication. Formerly known as GSuite,  we help Indian businesses seamlessly migrate and manage Google Workspace with zero downtime, complete data security, advanced email features, and expert support. Whether you're a startup or an enterprise, we ensure a seamless transition to the cloud—efficient, reliable, future-ready,  scalable, customizable, user-friendly, and backed by dedicated onboarding, configuration, and ongoing support.
 						</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
@@ -439,7 +438,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Microsoft O365</a></h4>
-						<p>Unlock your team’s potential with Microsoft 365, the all-in-one cloud productivity suite trusted by businesses worldwide. It combines Office apps like Word, Excel, Outlook, and Teams with real-time collaboration, secure remote access, and advanced cyber threat protection. At Business Mail E-Solutions, we offer expert setup and support for Microsoft 365 business email hosting in India, ensuring smooth migration and flexible licensing to match your growth. Work smarter, stay protected, and scale confidently with a powerful solution built for today’s digital workplace.</p>
+						<p>Unlock your team’s full potential with Microsoft 365, the all-in-one cloud productivity suite trusted by businesses worldwide. It combines Office apps like Word, Excel, Outlook, PowerPoint, and Teams with real-time collaboration, secure remote access, and advanced cyber threat protection. At Business Mail E-Solutions, we offer expert setup and support for Microsoft 365 business email hosting in India, ensuring smooth migration, data integrity, and flexible licensing to match your growth. Work smarter, stay protected, and scale confidently with a powerful, secure, and future-ready solution built for today’s digital workplace.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -482,7 +481,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Rediff Mail Pro</a></h4>
-						<p>Rediffmail Pro is a trusted and scalable business email hosting solution in India, used by thousands of growing companies for secure and professional communication. It offers custom domain email without the need to manage servers or complex IT infrastructure. Designed for simplicity and reliability, it includes everything from domain setup and user management to email migration and 24/7 support. At Business Mail E-Solutions, we ensure seamless onboarding with zero downtime and personalized assistance. Choose Rediffmail Pro for a cost-effective, secure, and hassle-free business email solution tailored for Indian businesses.</p>
+						<p>Rediffmail Pro is a trusted and scalable business email hosting solution in India, used by thousands of growing companies for secure and professional communication. It offers custom domain email without the need to manage servers or complex IT infrastructure. Designed for simplicity and reliability, it includes everything from domain setup and user management to email migration and 24/7 support. At Business Mail E-Solutions, we ensure seamless onboarding with zero downtime and personalized assistance. Choose Rediffmail Pro for a  business email solution tailored for Indian businesses.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -503,7 +502,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Custom Mail</a></h4>
-						<p>Give your business a competitive edge with Custom Mail—a personalized, domain-based email solution that strengthens your brand identity and builds customer trust. Ideal for startups, professionals, and growing businesses, Custom Mail helps you project professionalism, secure your brand, and improve communication with clients, partners, and teams. At Business Mail E-Solutions, we handle everything from domain registration to full-service email hosting, ensuring a smooth and secure setup. Start today with a reliable, branded custom email solution tailored to your business needs.</p>
+						<p>Give your business a competitive edge with Custom Mail—a personalized, domain-based email solution that strengthens your brand identity and builds customer trust. Ideal for startups, professionals, and growing businesses, Custom Mail helps you project professionalism, secure your brand, and improve communication with clients, partners, and teams.  we handle everything from domain registration to full-service email hosting, ensuring a smooth and secure setup. Start today with a reliable, branded custom email solution tailored to your business needs.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
