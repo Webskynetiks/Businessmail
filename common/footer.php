@@ -83,7 +83,7 @@
 															</a></li> -->
 														<li><a href="24X7-gsuite-google-workspace-renewal-customer-support-service-skynetiks-technologies-Noida-Delhi-India.php">Ask for Support
 															</a></li>
-														<li><a href="technical-support-help-for-gsuite-legacy-to-google-workspace.php">Google legacy Account Information
+														<li><a href="technical-support-help-for-gsuite-legacy-to-google-workspace.php">Google Legacy Account Information
 															</a></li>
 														<li><a href="https://shrishtisoftech.com/blog/">Blog
 															</a></li>
