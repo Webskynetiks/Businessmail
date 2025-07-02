@@ -2,6 +2,81 @@
 <!-- SMTP-Connected Forms -->
 
 
+
+<div class="modal fade" id="consultationform">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h4 class="modal-title">Please Fill all details</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+
+      <div class="modal-body">
+        <div class="form">
+          <form id="callbackForm">
+            <div class="col-md-12" id="hide_cd">
+              <div class="form-group row">
+                <div class="col-md-3">
+                  <label>Your Name:</label>
+                </div>
+                <div class="col-md-9">
+                  <input type="text" class="form-control" name="name" id="callback_name"  
+                    placeholder="Enter Your name" required>
+                </div>
+              </div>
+
+
+              <div class="form-group row">
+                <div class="col-md-3">
+                  <label>Your Phone No:</label>
+                </div>
+                <div class="col-md-9">
+                  <input type="tel" class="form-control" name="phone" id="callback_phone"  
+                    placeholder="Enter Your Phone No" required>
+                </div>
+              </div>
+
+
+              <div class="form-group row">
+                <div class="col-md-3">
+                  <label>Your Email Address:</label>
+                </div>
+                <div class="col-md-9">
+                  <input type="email" class="form-control" name="email" id="callback_email"  
+                    placeholder="Enter Your Email Address" required>
+                </div>
+              </div>
+
+
+              <div class="form-group row">
+                <div class="col-md-3">
+                  <label>Message:</label>
+                </div>
+                <div class="col-md-9">
+                  <textarea maxlength="5000" rows="3" class="form-control" name="message"
+                    placeholder="Please enter your message." id="callback_message" required></textarea>
+                </div>
+              </div>
+
+             
+
+
+               <div class="form-group row">
+                <button class="btn btn-primary hgh" type="submit">Submit</button>
+              </div>
+            </div>
+          </form>
+          <div class="alert alert-success" role="alert" id="callbackSuccess" style="display:none">Thank You <span id="submitterName"></span> Your request has been received. Meanwhile You may connect to us immediately on +91 92 123 78780 or write to us on sales@skynetiks.com</div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div> 
+
+
 <!-- Free Demo Modal -->
 <div class="modal fade" id="free_demo">
   <div class="modal-dialog modal-lg">
@@ -354,6 +429,12 @@
     </div>
   </div>
 </div> 
+
+
+
+
+
+
 
 <script>
   document.getElementById('callbackForm').addEventListener('submit', function(event) {

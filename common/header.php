@@ -124,7 +124,7 @@
 				<div class="auto-container clearfix">
 
 					<div class="pull-left logo-box">
-						<div class="logo"><a href="index.php"><img src="./images/Need-business-email-hosting-and-cloud-communication-businessmail-powered-by-skynetiks-technologies-is-the-solution.jpg" alt="Skynetiks technologies most preferred business mail solution partner with Google Workspace" title="Businessmail - Best Email Solution Provider in Noida India" style="width: 80%;"></a></div>
+						<div class="logo"><a href="index.php"><img src="./images/skynetiks-google-workspace-partner-india.webp" alt="Skynetiks technologies most preferred business mail solution partner with Google Workspace" title="Businessmail - Best Email Solution Provider in Noida India" style="width: 80%;"></a></div>
 					</div>
 
 					<div class="nav-outer clearfix">
@@ -211,7 +211,7 @@
 				<div class="auto-container clearfix">
 					<!--Logo-->
 					<div class="logo pull-left">
-						<a href="index.php"><img src="images/Need-business-email-hosting-and-cloud-communication-businessmail-powered-by-skynetiks-technologies-is-the-solution.jpg" style="width: 80%;" alt="Skynetiks Technologies offer cost effective business mail solutions services in India" title=""></a>
+						<a href="index.php"><img src="images/skynetiks-google-workspace-partner-india.webp" style="width: 80%;" alt="Skynetiks Technologies offer cost effective business mail solutions services in India" title=""></a>
 					</div>
 					<!--Right Col-->
 					<div class="nav-outer clearfix" style="display: none;">
@@ -246,7 +246,7 @@
 				<div class="close-btn"><span class="icon flaticon-multiply"></span></div>
 
 				<nav class="menu-box">
-					<div class="nav-logo"><a href="index.php"><img src="images/Need-business-email-hosting-and-cloud-communication-businessmail-powered-by-skynetiks-technologies-is-the-solution.jpg" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="index.php"><img src="images/skynetiks-google-workspace-partner-india.webp" alt="" title=""></a></div>
 					<div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
 				</nav>
 			</div><!-- End Mobile Menu -->

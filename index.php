@@ -10,7 +10,7 @@
 <section class="banner-section">
 	<div class="main-slider-carousel owl-carousel owl-theme">
 
-	<div class="slide" style="background-image: url(images/slider/google-worskpace-certified-partner-noida-delhi-banglore-gurgaon.webp)">
+		<div class="slide" style="background-image: url(images/slider/google-worskpace-certified-partner-noida-delhi-banglore-gurgaon.webp)">
 			<div class="color-layer-one"></div>
 			<!-- <div class="color-layer-two" style="background-image: url(images/main-slider/image-2.jpg)"></div> -->
 			<div class="auto-container">
@@ -20,7 +20,7 @@
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 
-							<h1> Scalable  <span>Google Workspace Email Solutions</span></h1>
+							<h1> Scalable <span>Google Workspace Email Solutions</span></h1>
 							<div class="title">for Growing Businesses
 							</div>
 
@@ -147,9 +147,9 @@
 				</div>
 			</div>
 		</div>
-		
 
-		
+
+
 
 
 
@@ -346,7 +346,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/how-to-fix-email-bounce-errors-in-Google-Workspace-partner-with-Skynetiks-technologies-India-serving-Noida-Delhi.png" alt="Skynetiks Technologies is an authorized Google Workspace Reseller/Partner and a website development company in India, serving Delhi and NOIDA." style="
+						<img src="images/secure-business-email-hosting-india.webp" style="
 										background: #4b77f9;
 										">
 						<div class="overlay-box">
@@ -356,7 +356,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Google Workspace</a></h4>
-						<p>Google Workspace is the all-in-one solution for secure, scalable, and professional business communication. Formerly known as GSuite,  we help Indian businesses seamlessly migrate and manage Google Workspace with zero downtime, complete data security, advanced email features, and expert support. Whether you're a startup or an enterprise, we ensure a seamless transition to the cloud—efficient, reliable, future-ready,  scalable, customizable, user-friendly, and backed by dedicated onboarding, configuration, and ongoing support.
+						<p><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php"><strong>Google Workspace</strong> </a> is a complete solution for <strong>secure</strong>, <strong>scalable</strong>, and <strong>professional communication</strong>. Formerly <strong>G Suite</strong>, we help Indian businesses <strong>migrate to Google Workspace</strong> with zero downtime, full <strong>data security</strong>, advanced <strong>email features</strong>, and expert support. From startups to enterprises, we ensure a smooth <strong>cloud transition</strong> with dedicated setup and ongoing assistance.
 						</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
@@ -366,7 +366,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/How-do-I-configure-zoho-mail-on-outlook-or-thunderbird-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Delhi-Noida-Gurgaon.png" alt="
+						<img src="images/zoho-mail-email-provider-india.webp" alt="
      Skynetiks Technologies is an authorized Zoho Mail Reseller/Partner and a website development company based in India, serving Delhi and NOIDA." style="
 										background: #80c335;
 										">
@@ -377,7 +377,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">ZOHO Mail</a></h4>
-						<p>Zoho Mail is a leading business email hosting solution in India, known for its secure, ad-free, and professional email services. It provides custom domain email, enterprise-level security, end-to-end encryption, and strong spam and phishing protection. At Business Mail E-Solutions, we offer hassle-free Zoho Mail setup, smooth migration, and expert support. Whether you're a startup or growing business, Zoho Mail helps you manage your domain-based email with reliability, security, and full control—perfect for building a trusted business identity.</p>
+						<p><a href="zoho-workplace-best-google-workspace-alternative-india.php"><strong>Zoho Mail</strong> </a> is a powerful solution for <strong>secure</strong>, <strong>ad-free</strong>, and <strong>professional business email</strong>. With <strong>custom domain email</strong>, <strong>enterprise-grade security</strong>, <strong>encryption</strong>, and <strong>spam protection</strong>, it’s ideal for growing businesses. We offer smooth <strong>Zoho Mail setup</strong>, <strong>email migration</strong>, and expert support—ensuring reliable, controlled, and trusted email communication.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -387,7 +387,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/how-much-email-storage-does-reseller-club-business-email-provide-skynetiks-technologies-partner-company-with-google-workspace-in-India-serving-Delhi-Noida.png" alt="Why is ResellerClub email not syncing with my hosting panel asking skynetiks technologies an official partner with google workspace in Noida, Delhi, India" style="
+						<img src="images/reseller-club-email-hosting.webp" style="
 										background:#ffae06;
 										">
 						<div class="overlay-box">
@@ -396,8 +396,8 @@
 					</div>
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
-						<h4><a href="#">RC Mails</a></h4>
-						<p>RC Mail is a powerful and affordable reseller-friendly business email hosting solution. It enables you to deliver custom domain-based, professional email with your own branding, offering a seamless and secure communication experience. With 99.99% uptime, enterprise-grade reliability, advanced spam filtering, and an easy-to-use control panel, RC Mail ensures your clients stay connected and protected. Scalable, cost-effective, and backed by expert support, RC Mail is the perfect choice for businesses and resellers looking to offer reliable and branded email services.</p>
+						<h4><a href="#">Reseller Club Mails</a></h4>
+						<p> <a href="economical-business-email-solution-hosting-india.php"><strong>Reseller Club Mail</strong> </a> is an <strong>affordable</strong>, <strong>reseller-friendly business email</strong> solution with <strong>custom domain email</strong> and full <strong>branding</strong>. It offers <strong>99.99% uptime</strong>, <strong>enterprise-grade reliability</strong>, <strong>spam filtering</strong>, and an intuitive control panel. Scalable and cost-effective, it's ideal for resellers and businesses seeking <strong>secure</strong>, <strong>branded email hosting</strong> with expert support.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -406,7 +406,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/zimbra-integration-with-microsoft-365-google-workspace-partner-skynetiks-technologies-in-India-Delhi-noida-Gurgaon.png" alt="What are the benefits of shifting from free G suite legacy accounts to zimbra mail" style="
+						<img src="images/zimbra-mail-cloud-email-hosting.webp" style="
 										background: #ffae06;
 										">
 						<div class="overlay-box">
@@ -416,9 +416,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Zimbra Mail</a></h4>
-						<p>Upgrade to a powerful business email and collaboration platform with Zimbra Mail. It offers secure, custom domain email, shared calendars, file sharing, and team messaging—all in one solution. Ideal for startups, SMEs, and enterprises, Zimbra ensures scalability, data security, and professional communication.
-
-							At Business Mail E-Solutions, we provide fully managed Zimbra email hosting in India with quick setup, smooth migration, and expert support. Boost productivity and build your brand with a reliable, all-in-one Zimbra business email solution.</p>
+						<p><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><strong>Zimbra Mail</strong> </a>is a powerful <strong>business email</strong> offering <strong>secure custom domain email</strong>, <strong>shared calendars</strong>, <strong>file sharing</strong>, and <strong>team messaging</strong>. Ideal for startups, SMEs, and enterprises, it ensures <strong>scalability</strong>, <strong>data security</strong>, and <strong>professional communication</strong>. we provide fully managed <strong>Zimbra email hosting</strong> in India with quick setup, smooth migration, and expert support.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -427,7 +425,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/how-do-I-migrate-emails-to-microsoft-365-from-gmail-or-cpanel-skynetiks-technologies-an-official-google-workspace-partner-in-India-serving-Noida-Delhi.png" alt="What's the difference between Microsoft 365 Business and Enterprise plans in Noida, skynetiks technologies partner with google workspace in India" style="
+						<img src="images/microsoft-office-365-cloud-services.webp" style="
 										background: #f6b81e;
 										/* border: 10px solid #0277bd; */
 										">
@@ -438,7 +436,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Microsoft O365</a></h4>
-						<p>Unlock your team’s full potential with Microsoft 365, the all-in-one cloud productivity suite trusted by businesses worldwide. It combines Office apps like Word, Excel, Outlook, PowerPoint, and Teams with real-time collaboration, secure remote access, and advanced cyber threat protection. At Business Mail E-Solutions, we offer expert setup and support for Microsoft 365 business email hosting in India, ensuring smooth migration, data integrity, and flexible licensing to match your growth. Work smarter, stay protected, and scale confidently with a powerful, secure, and future-ready solution built for today’s digital workplace.</p>
+						<p> <a href="google-workspace-data-migration-microsoft365-india.php"><strong>Microsoft 365</strong> </a> is a complete <strong>cloud productivity suite</strong> featuring <strong>Office apps</strong> like Word, Excel, Outlook, PowerPoint, and Teams. It delivers <strong>real-time collaboration</strong>, <strong>secure remote access</strong>, and <strong>advanced security</strong> for businesses of all sizes. At Business Mail E-Solutions, we offer expert <strong>Microsoft 365 setup</strong>, <strong>email hosting</strong>, and smooth <strong>migration</strong> in India—ensuring reliable, scalable, and <strong>secure business communication</strong>.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -449,7 +447,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/hosted-exchange-login-errors-something-went-wrong-how-to-resolve-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi-Gurgaon.png" alt="Skynetiks Technologies | A Leading Hosting Solution Company Providing Excellent Services Across All Business Segments in Noida, Delhi, Gurgaon, Faridabad, Ghaziabad" style="
+						<img src="images/hosted-exchange-email-support.webp" style="
 										background-color: #e11433;
 										">
 						<div class="overlay-box">
@@ -459,7 +457,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Profit Planning</div> -->
 						<h4><a href="#">Hosted Exchange</a></h4>
-						<p>Enhance your business communication with Hosted Exchange, a secure and scalable email hosting solution powered by Microsoft Exchange. At Business Mail E-Solutions, we provide all the benefits of a dedicated Exchange Server—such as custom domain email, shared calendars, advanced security, and real-time syncing—without the cost and complexity of managing your own infrastructure. Ideal for startups, SMEs, and enterprises, Hosted Exchange in India offers a reliable, feature-rich platform with expert support, allowing your team to stay connected, productive, and focused on growth.</p>
+						<p> <a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><strong>Hosted Exchange</strong>  </a>is a <strong>secure</strong>, <strong>scalable email hosting</strong> solution. At Business Mail E-Solutions, we deliver the benefits of a dedicated <strong>Exchange Server</strong>—including <strong>custom domain email</strong>, <strong>shared calendars</strong>, <strong>advanced security</strong>, and <strong>real-time syncing</strong>—without the infrastructure cost. Ideal for startups, SMEs, and enterprises, our <strong>Hosted Exchange in India</strong> ensures reliable, feature-rich email with expert support to keep your team connected and productive.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -471,7 +469,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/how-do-I-setup-rediff-mail-pro-with-my-existing-domain-skynetiks-technologies-an-official-Google-Workspace-partner-in-Noida-India.png" alt="Skynetiks technologies is an authorized Rediff Mail Pro Reseller/Partner and a website development company based in India, serving Delhi and NOIDA." style="
+						<img src="images/rediffmail-cloud-email-solution.webp" style="
 										background: #80c335;
 										">
 						<div class="overlay-box">
@@ -481,7 +479,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Rediff Mail Pro</a></h4>
-						<p>Rediffmail Pro is a trusted and scalable business email hosting solution in India, used by thousands of growing companies for secure and professional communication. It offers custom domain email without the need to manage servers or complex IT infrastructure. Designed for simplicity and reliability, it includes everything from domain setup and user management to email migration and 24/7 support. At Business Mail E-Solutions, we ensure seamless onboarding with zero downtime and personalized assistance. Choose Rediffmail Pro for a  business email solution tailored for Indian businesses.</p>
+						<p><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><strong>Rediffmail Pro</strong> </a> is a trusted, <strong>scalable business email hosting</strong> solution, used by thousands for <strong>secure</strong> and <strong>professional communication</strong>. It offers <strong>custom domain email</strong> without server management or complex IT infrastructure. Designed for simplicity and reliability, it includes <strong>domain setup</strong> <strong>email migration.</strong> At Business Mail E-Solutions, we provide seamless onboarding with zero downtime and personalized assistance.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -502,7 +500,7 @@
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Custom Mail</a></h4>
-						<p>Give your business a competitive edge with Custom Mail—a personalized, domain-based email solution that strengthens your brand identity and builds customer trust. Ideal for startups, professionals, and growing businesses, Custom Mail helps you project professionalism, secure your brand, and improve communication with clients, partners, and teams.  we handle everything from domain registration to full-service email hosting, ensuring a smooth and secure setup. Start today with a reliable, branded custom email solution tailored to your business needs.</p>
+						<p><a href="custom-domain-based-email-for-organiztion-brand-identity.php"><strong>Custom Mail</strong></a> is a personalized, <strong>domain-based email solution</strong> that enhances your <strong>brand identity</strong> and builds <strong>customer trust</strong>. Ideal for startups, professionals, and growing businesses, it helps you project <strong>professionalism</strong>, secure your brand, and improve communication with clients and teams. We manage everything from <strong>domain registration</strong> to full <strong>email hosting</strong>, ensuring a smooth, secure setup tailored to your business.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
