@@ -14,11 +14,11 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Dianna Kersey Photo">
+        <img src="images/img-1.png" >
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Dianna Kersey</h3>
-        <span class="post">CEO</span>
+        <h3 class="title">Rakesh Jain</h3>
+        <span class="post">Infocrats Web Solutions Pvt. Ltd.</span>
       </div>
       <p class="description">
         When I first contacted Skynetiks Technologies Pvt. Ltd. about my project, I was unsure about my idea. Their engineers transformed my rough vision into a polished reality with exceptional quality and dedication. I’m extremely pleased with their service and professionalism. I highly recommend them to anyone looking for reliable, skilled tech partners who genuinely care about client satisfaction and deliver on time.
@@ -31,8 +31,8 @@
         <img src="images/img-1.png" alt="Dr Koushik Lahiri Photo">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Dr Koushik Lahiri</h3>
-        <span class="post">Senior Dermatologist</span>
+        <h3 class="title">Raymond Andrews</h3>
+        <span class="post">Thea Kitchen Pvt. Ltd.</span>
       </div>
       <p class="description">
         Skynetiks Technologies Pvt. Ltd. impressed me with their professional approach, transparency, and dedicated teamwork. Their commitment to timelines and high-quality standards made my web project a smooth experience. The team was supportive, responsible, and communicative throughout the process. I highly recommend them for their sincere efforts and dependable tech solutions anywhere in the world.
@@ -45,8 +45,8 @@
         <img src="images/img-1.png" alt="Stuart Rubenstein Photo">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Stuart Rubenstein</h3>
-        <span class="post">CEO</span>
+        <h3 class="title">Vineet Gupta</h3>
+        <span class="post">Patanjali Agro India Private Ltd</span>
       </div>
       <p class="description">
         Skynetiks Technologies Pvt. Ltd., a certified Google Workspace partner, has handled several projects for us. Their SEO, SEM, and web development expertise has delivered measurable results. They consistently meet deadlines, stay on budget, and provide ongoing support. Their team is highly competent, professional, and dependable. We’re extremely satisfied and consider them a long-term partner.
@@ -59,8 +59,8 @@
         <img src="images/img-1.png" alt="Gaurav Uppal Photo">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Gaurav Uppal</h3>
-        <span class="post">CEO</span>
+        <h3 class="title">Mukesh Kakkar</h3>
+        <span class="post">Noida International Airport Services</span>
       </div>
       <p class="description">
         It’s not just the services and post-sales support—Skynetiks Technologies Pvt. Ltd. also provides valuable technical knowledge when needed. Their personalized attention, proactive team, and transparent approach made them stand out. Their support throughout our journey has been fantastic. I strongly recommend them to any business seeking growth-focused IT services.
@@ -73,8 +73,8 @@
         <img src="images/img-1.png" alt="Nidhi Bhatnagar Photo">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Nidhi Bhatnagar</h3>
-        <span class="post">Fashion Designer</span>
+        <h3 class="title">Rohit Verma</h3>
+        <span class="post">UK India Education Council</span>
       </div>
       <p class="description">
         Dear Team Skynetiks Technologies Pvt. Ltd., thank you for your continuous support and cooperation. It’s been an excellent experience working with your team. We truly appreciate the hard work, patience, and professionalism that went into our project. Looking forward to more successful collaborations ahead with Skynetiks!
@@ -87,8 +87,8 @@
         <img src="images/img-1.png" alt="S. K Rathor Photo">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">S. K Rathor</h3>
-        <span class="post">Managing Director</span>
+        <h3 class="title">Ankit Agarwal </h3>
+        <span class="post">Flyerchoice</span>
       </div>
       <p class="description">
         Working with Skynetiks Technologies Pvt. Ltd. was a game-changer. They followed a clear roadmap, developed a plan, and delivered as promised. Their post-delivery support is efficient and reliable. It’s rare to find a team so dedicated and professional. I will continue using their services and recommend them highly for future-ready digital solutions.

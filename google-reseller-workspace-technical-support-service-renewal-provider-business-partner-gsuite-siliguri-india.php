@@ -20,7 +20,7 @@ include_once "common/header.php";
     background-size: 100% 100%;">
 	<div class="container">
 		<div class="text-center city_banner">
-			<h4>Google Workspace Partner in Siliguri  – Buy Gmail for Business with Expert Support</h4>
+			<h4>Google Workspace Partner in Siliguri – Buy Gmail for Business with Expert Support</h4>
 			<div class="btns-box">
 				<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
 			</div>
@@ -44,7 +44,7 @@ include_once "common/header.php";
 			<!-- Text Section -->
 			<div class="col-12 col-lg-8 order-2 order-lg-1" style="padding-top: 20px;">
 				<h1 class="city_page_heading" style="font-size: 1.8rem; color: #111; font-weight: bold;">
-					Certified Google Workspace Partner in Siliguri 
+					Certified Google Workspace Partner in Siliguri
 				</h1>
 				<p style="font-size: 1.1rem; color: #333; margin: 15px 0;">
 					Looking to buy Google Workspace in Siliguri ? Skynetiks Technologies, a certified Google partner, delivers reliable business email solutions with end-to-end support. We help startups, SMEs, and enterprises get started with Gmail for Business—backed by 99.9% uptime, powerful collaboration tools, and enterprise-grade security.
@@ -70,8 +70,8 @@ include_once "common/header.php";
 
 				<!-- CTA Button -->
 				<div style="margin-top: 25px;">
-					<a href="tel:+91 9212378780" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;">
-						Talk to Experts ☏
+					<a href="#" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;"><span class="txt" data-toggle="modal" data-target="#consultationform">
+							Talk to Experts ☏
 					</a>
 				</div>
 			</div>

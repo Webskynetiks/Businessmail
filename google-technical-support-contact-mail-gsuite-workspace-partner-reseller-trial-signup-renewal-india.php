@@ -15,7 +15,7 @@ include_once "common/header.php";
   }
 </style>
 <section>
-  <img src="images/where-do-startups-and-SMEs-turns-for-reliable-email-support-in-Noida-India-Skynetiks-technologies-partner-with-Google-Workspace.jpg" title="Expert callback support for reseller club technical issue at skynetiks technologies partner with Google Workspace in Noida India" alt="What is the right time to shift to Google Workspace from generic email ask skynetiks technologies partner with Google Workspace in Noida India." style="width:100%;height: auto;">
+  <img src="images/contact-google-workspace-microsoft-zoho-reseller-india.png" style="width:100%;height: auto;">
 </section>
 
 

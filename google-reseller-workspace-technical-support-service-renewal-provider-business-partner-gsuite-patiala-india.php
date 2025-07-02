@@ -70,8 +70,8 @@ include_once "common/header.php";
 
 				<!-- CTA Button -->
 				<div style="margin-top: 25px;">
-					<a href="tel:+91 9212378780" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;">
-						Talk to Experts ☏
+					<a href="#" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;"><span class="txt" data-toggle="modal" data-target="#consultationform">
+							Talk to Experts ☏
 					</a>
 				</div>
 			</div>

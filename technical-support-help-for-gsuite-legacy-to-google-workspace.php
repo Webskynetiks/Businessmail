@@ -8,22 +8,26 @@ $meta_robots = "index, follow";
 include_once "common/header.php";
 ?>
 <style type="text/css">
-  .main-header {
-    position: inherit;
-    z-index: 99;
-    width: 100%;
-  }
-
   .link-contact {
     color: #015790 !important;
     font-weight: 600 !important;
+  }
+
+  .support_image{
+    margin-top: 5rem;
+  }
+  @media screen and (max-width: 768px) {
+    .support_image {
+      margin-top: 0rem;
+    }
+    
   }
 </style>
 
 
 
 <section>
-  <img src="images/google-legacy-account-updates-error-not-working-gsuite-in-Noida-partner-with-skynetiks-technologies.png" title="Google Workspace legacy account migration to Google Business and Google Enterprise customers with skynetiks technologies." alt="What tools are available for migrating data to Google Workspace partner with Skynetiks technologies in Noida India." style="width:100%;height: auto;" alt="sign up for a free google workspace trial">
+  <img class="support_image" src="images/email-support-services-google-workspace-zoho-microsoft365-skynetiks-india.webp" title="How can you migrate your existing emails to Google Workspace with zero downtime learn with Skynetiks Technologies" alt="When should I upgrade from free email to business email asking Skynetiks Technologies partner with Google Workspace in Noida, Delhi, India" style="width:100%;height: auto;">
 </section>
 
 

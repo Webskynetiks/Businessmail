@@ -203,7 +203,7 @@
 			<div class="col-md-4 col-sm-4">
 				<div class="make-appointment contact-content pull-right" id="contact-form-content">
 					<div class="top-header" style="padding-top:10px;">
-						<h4 style="color:#fff; font-size: 16px;  padding-bottom: 5px; line-height:24px; padding-left:3px; padding-right:3px;">Please fill in your information to get a free survey of your business.</h4>
+						<h4 style="color:#fff; font-size: 14px;  padding-bottom: 5px; line-height:24px; padding-left:1px; padding-right:1px;">Please fill in this form for to know which email solution is best for your organization.</h4>
 
 					</div>
 

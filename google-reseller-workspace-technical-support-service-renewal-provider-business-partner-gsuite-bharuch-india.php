@@ -10,27 +10,27 @@ include_once "common/header.php";
 
 
 <style type="text/css">
-	.main-header {
-		position: inherit;
-		z-index: 99;
-		width: 100%;
-	}
+  .main-header {
+    position: inherit;
+    z-index: 99;
+    width: 100%;
+  }
 
-	.text-content ul {
-		column-count: 1;
-	}
+  .text-content ul {
+    column-count: 1;
+  }
 </style>
 <section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/Skynetiks-Technologies-Business-Mail.jpg);background-repeat: no-repeat;
     background-size: 100% 100%;">
-	<div class="container">
-		<div class="text-center city_banner">
-			<h4>Google Workspace Partner in Bharuch – Buy Gmail for Business with Expert Support</h4>
-			<div class="btns-box">
-				<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
-			</div>
-		</div>
+  <div class="container">
+    <div class="text-center city_banner">
+      <h4>Google Workspace Partner in Bharuch – Buy Gmail for Business with Expert Support</h4>
+      <div class="btns-box">
+        <a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
+      </div>
+    </div>
 
-	</div>
+  </div>
 </section>
 
 
@@ -42,7 +42,7 @@ include_once "common/header.php";
       <!-- Image Section (placed first on small screens) -->
       <div class="col-12 col-lg-4 order-1 order-lg-2 text-center mt-5" style="padding: 20px;">
         <img src="images/google-workspace-certified-partner-india.webp"
-     title="Google Workspace Services by Skynetiks Technologies in India" />
+          title="Google Workspace Services by Skynetiks Technologies in India" />
       </div>
 
       <!-- Text Section -->
@@ -67,15 +67,15 @@ include_once "common/header.php";
         </ul>
 
 
-		
+
         <p style="font-size: 1.1rem; color: #333;">
           Already using Gmail or another email service? We'll help you shift to a fully managed Google Workspace environment with zero data loss.
         </p>
 
         <!-- CTA Button -->
         <div style="margin-top: 25px;">
-          <a href="tel:+91 9212378780" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;">
-            Talk to Experts ☏
+          <a href="#" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;"><span class="txt" data-toggle="modal" data-target="#consultationform">
+              Talk to Experts ☏
           </a>
         </div>
       </div>
@@ -83,12 +83,12 @@ include_once "common/header.php";
     </div>
   </div>
 </section>
-  <?php include_once "common/cutomerbenefit.php" ?>
+<?php include_once "common/cutomerbenefit.php" ?>
 
 
 
 
-<?php include_once "common/google-features-and-products.php" ?>  
+<?php include_once "common/google-features-and-products.php" ?>
 <?php include_once "common/other.php" ?>
 <?php include_once "common/testimonials.php" ?>
 <?php include_once "common/service_network.php" ?>

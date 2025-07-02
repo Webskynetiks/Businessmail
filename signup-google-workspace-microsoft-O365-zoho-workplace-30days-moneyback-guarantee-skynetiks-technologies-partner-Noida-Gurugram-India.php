@@ -99,7 +99,7 @@ include_once "common/header.php";
 
 <!-- Hero Image Section -->
 <section>
-  <img src="images/where-can-I-get-affordable-business-email-hosting-solution-in-Noida-India.jpg"
+  <img src="images/free-google-workspace-microsoft-365-zoho-mail-signup.jpg"
     title="The most economical & affordable email solution by Skynetiks Technologies in Noida India"
     alt="what could my team achieve with the Google workspace set up partner at skynetiks technologies in Noida India"
     style="width:100%; height:auto;">
@@ -107,8 +107,8 @@ include_once "common/header.php";
 
 <!-- About Section -->
 <div class="container">
-  <h1 class="main-title">Business Email Hosting Services in India</h1>
-  <p class="desc">
+  <h1 class="main-title mt-5">Choose the Right Email Solution for Your Business</h1>
+  <p class="desc" style="text-align: justify;">
     Skynetiks Technologies Pvt. Ltd. is a leading provider of certified business email hosting solutions in India, trusted by startups, SMEs, and enterprises across Noida, Gurugram, Delhi NCR, and beyond. We specialize in deploying, managing, and supporting cloud-based email platforms including Google Workspace (formerly G Suite), Zoho Mail, Microsoft Office 365, Rediffmail Pro, Zimbra Mail, Hosted Exchange, and custom domain mail solutions.
   </p>
 </div>

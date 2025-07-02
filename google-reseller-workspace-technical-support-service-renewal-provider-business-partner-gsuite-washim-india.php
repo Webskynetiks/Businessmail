@@ -75,11 +75,9 @@ include_once "common/header.php";
         <!-- CTA Button -->
         <div style="margin-top: 25px;">
           <a href="#" class="btn btn-primary" style="padding: 12px 24px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-size: 1.1rem;"><span class="txt" data-toggle="modal" data-target="#consultationform">
-
-              Talk to Experts ☏
+        Talk to Experts ☏
           </a>
 
-          <a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#consultationform">Get a Call Back</span></a>
 
         </div>
       </div>
@@ -87,6 +85,7 @@ include_once "common/header.php";
     </div>
   </div>
 </section>
+Offers following Solutions
 <?php include_once "common/cutomerbenefit.php" ?>
 <?php include_once "common/google-features-and-products.php" ?>
 <?php include_once "common/other.php" ?>

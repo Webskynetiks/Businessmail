@@ -14,7 +14,7 @@ include_once "common/header.php";
   }
 </style>
 <section>
-  <img src="images/why-is-my-email-migration-process-so-slow-and-how-can-I-speed-it-up-Skynetiks-technologies-official-partner-of-Google-Workspace-in-Noida-India.jpg" title="Do I need to update DNS records after migration, Skynetiks Technologies official Google Workspace partner in Noida, India." alt="What are the steps involved in migrating emails to a new server - Skynetiks Technologies official Google Workspace partner in Noida, Delhi India." style="width:100%;height: auto;">
+  <img src="images/email-migration-service-google-workspace-microsoft365-zoho-skynetiks-india.jpg" style="width:100%;height: auto;">
 </section>
 
 <section class="about-page-section">

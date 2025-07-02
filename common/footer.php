@@ -21,25 +21,48 @@
 
 											</div>
 											<!-- Social Box -->
-											<ul class="social-box">
-												<li class="share">Find Us Now</li>
-												<li class="facebook"><a target="_blank" href="https://www.facebook.com/skynetikstech">
-														<img src="images/skynetiks-facebook.png">
-													</a></li>
+											<!-- Font Awesome CDN (required) -->
+  <!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
-												<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/company/skynetikstech/?trk=public_profile_topcard-current-company&originalSubdomain=in">
-														<img src="images/linkedin.png"></a></li>
+<div style="text-align: center; margin-top: 30px;">
+  <h5 style="font-weight: 600; font-size: 22px; color: #1a202c; margin-bottom: 20px;">Find Us Now</h5>
 
-												<li class="youtube"><a target="_blank" href="https://www.youtube.com/@skynetikstech">
-														<img src="images/youtube.jpg"> </a>
-												</li>
+  <ul class="d-flex justify-content-center align-items-center" style="list-style: none; padding: 0; margin: 0;">
+    <li class="mr-2">
+      <a href="https://www.facebook.com/skynetikstech" target="_blank"
+        style="display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background: #3b5998; color: white; font-size: 20px;">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li class="mr-2">
+      <a href="https://www.linkedin.com/company/skynetikstech" target="_blank"
+        style="display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background: #0077b5; color: white; font-size: 20px;">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li class="mr-2">
+      <a href="https://www.youtube.com/@skynetikstech" target="_blank"
+        style="display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background: #ff0000; color: white; font-size: 20px;">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+    <li class="mr-2">
+      <a href="https://www.instagram.com/skynetikstech" target="_blank"
+        style="display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background: #e4405f; color: white; font-size: 20px;">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a href="http://in.pinterest.com/skynetikstech" target="_blank"
+        style="display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background: #bd081c; color: white; font-size: 20px;">
+        <i class="fab fa-pinterest-p"></i>
+      </a>
+    </li>
+  </ul>
+</div>
 
-												<li class="instagram"><a target="_blank" href="https://www.instagram.com/skynetikstech/#">
-														<img src="images/Instagram.png"></a></li>
 
-												<li class="pinterest"><a target="_blank" href="http://in.pinterest.com/skynetikstech">
-														<img src="images/pinterest.png"></a></li>
-											</ul>
 										</div>
 									</div>
 

@@ -17,7 +17,7 @@ include_once "common/header.php";
 }
 </style>
 <section>
-	<img src="images/Email-cloud-solution-services-businessmail-partner-google-workspace.png" title="An official Google Workspace partner legacy account migration to google enterprise customers." alt="Skynetiks Technologies is an authorized Google Workspace (formerly G Suite) Reseller and Partner, as well as a prominent website development company based in India, specifically operating in Delhi and NOIDA.
+	<img src="images/benefits-of-google-worskpace-reseller-india.jpg" title="An official Google Workspace partner legacy account migration to google enterprise customers." alt="Skynetiks Technologies is an authorized Google Workspace (formerly G Suite) Reseller and Partner, as well as a prominent website development company based in India, specifically operating in Delhi and NOIDA.
 
 
 " style="width:100%;height: auto;">

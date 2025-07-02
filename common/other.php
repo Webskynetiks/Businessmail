@@ -1,7 +1,7 @@
-<section class="google_workspace_content" style="background:linear-gradient(rgb(243 247 249 / 81%), rgb(255 255 255)),url(images/Google-Workspace.jpg);background-repeat: no-repeat;  background-size: 100% 100%;">
+<!-- <section class="google_workspace_content" style="background:linear-gradient(rgb(243 247 249 / 81%), rgb(255 255 255)),url(images/Google-Workspace.jpg);background-repeat: no-repeat;  background-size: 100% 100%;">
 	<div class="container">
 		<div class="sec-title centered">
-			<h2>Offers following <span>Solutions </span> </h2>
+			<h2>Offers Following <span>Solutions </span> </h2>
 		</div>
 		<div class="row">
 			<div class="col-md-12">
@@ -22,66 +22,92 @@
 		</div>
 	</div>
 
-</section>
+</section> -->
 
 <!-- Technology section  -->
 <section class="technology cases-section">
-	<div class="container">
-		<div class="sec-title centered">
-			<h2>Technology <span>Options</span> / Solutions</h2>
-		</div>
-		<div class="row">
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/googleworkspace.png">
-					<h6>Google Workspace</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/How-do-I-configure-zoho-mail-on-outlook-or-thunderbird-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Delhi-Noida-Gurgaon.png">
-					<h6>Zoho Mail</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/How-can-I-backup-my-emails-before-initiating-the-migration-to-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
-					<h6>RC Mail</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/zimbramail.png">
-					<h6>Zimbra Mail</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/how-do-I-migrate-emails-to-microsoft-365-from-gmail-or-cpanel-skynetiks-technologies-an-official-google-workspace-partner-in-India-serving-Noida-Delhi.png">
-					<h6>Microsoft O365</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/what-payment-options-are-available-for-hosted-exchange-services-by-skynetiks-technologies-an-official-Google-workspace-partner-in-Noida-India.png">
-					<h6>Hosted Exchange</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/rd1.png">
-					<h6>Rediff Mail Pro</h6>
-				</div>
-			</div>
-			<div class="col-md-3 text-center">
-				<div class="technology_image text-center">
-					<img src="images/google-workspace-alternative-india.png">
-					<h6>Custom Mail</h6>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="container">
+    <div class="sec-title centered">
+      <h2>Technology <span>Options</span> / Solutions</h2>
+    </div>
+    <div class="row">
+
+      <div class="col-md-3 text-center">
+        <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php">
+          <div class="technology_image text-center">
+            <img src="images/googleworkspace.png" alt="Google Workspace" />
+            <h6>Google Workspace</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="zoho-workplace-best-google-workspace-alternative-india.php">
+          <div class="technology_image text-center">
+            <img src="images/zoho-mail-email-provider-india.webp" alt="Zoho Mail" />
+            <h6>Zoho Mail</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="economical-business-email-solution-hosting-india.php">
+          <div class="technology_image text-center">
+            <img src="images/reseller-club-email-hosting.webp" alt="RC Mail" />
+            <h6>RC Mail</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php">
+          <div class="technology_image text-center">
+            <img src="images/zimbra-mail-cloud-email-hosting.webp" alt="Zimbra Mail" />
+            <h6>Zimbra Mail</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="google-workspace-data-migration-microsoft365-india.php">
+          <div class="technology_image text-center">
+            <img src="images/microsoft-office-365-cloud-services.webp" alt="Microsoft O365" />
+            <h6>Microsoft O365</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php">
+          <div class="technology_image text-center">
+            <img src="images/hosted-exchange-email-support.webp" alt="Hosted Exchange" />
+            <h6>Hosted Exchange</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php">
+          <div class="technology_image text-center">
+            <img src="images/rediffmail-cloud-email-solution.webp" alt="Rediff Mail Pro" />
+            <h6>Rediff Mail Pro</h6>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-3 text-center">
+        <a href="custom-domain-based-email-for-organiztion-brand-identity.php">
+          <div class="technology_image text-center">
+            <img src="images/how-can-I-migrate-my-existing-emails-to-google-workspace-with-zero-downtime-with-skynetiks-technologies-serving-Noida-Delhi.png" alt="Custom Mail" />
+            <h6>Custom Mail</h6>
+          </div>
+        </a>
+      </div>
+
+    </div>
+  </div>
 </section>
+
 
 <!--  -->
 

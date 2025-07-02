@@ -14,7 +14,7 @@ include_once "common/header.php";
   }
 </style>
 <section>
-  <img src="images/Google-workspace-free-technical-support-number-partner-with-Skynetiks-technologies-Noida-India.jpg" title="What ports do I need to use for email hosting tech support by Skynetiks Technologies" alt="How will purchasing business email benefit me Skynetiks Technologies partner with Google Workspace in Noida, India" style="width:100%;height: auto;">
+  <img src="images/google-workspace-support-noida-haryana-gurgaon.jpg" title="What ports do I need to use for email hosting tech support by Skynetiks Technologies" alt="How will purchasing business email benefit me Skynetiks Technologies partner with Google Workspace in Noida, India" style="width:100%;height: auto;">
 </section>
 
 

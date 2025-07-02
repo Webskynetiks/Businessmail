@@ -128,9 +128,11 @@ include_once "common/header.php";
     Test your preferred business email service seamlessly from Noida, Delhi NCR, Gurugram, and pan-India. Our trial includes full inbox setup, DNS & domain configuration, migration assistance, and dedicated technical support — completely free.
   </div>
 
+
+  
+
   <div class="section-title">Supported Email Platforms:</div>
 
-  <?php include_once "common/products.php" ?>
 
 
 
@@ -148,6 +150,11 @@ include_once "common/header.php";
 
 
 </div>
+  <?php include_once "common/products.php" ?>
+
+
+
+
 
 
 <section class="contact-form">
@@ -296,6 +303,40 @@ include_once "common/header.php";
 
       </div>
     </div>
+</section>
+
+
+<section class="divider">
+	<div class="row">
+		<div class="col-md-6 divider1">
+			<div class="text-center">
+				<img src="images/shristisoftechsearch.png" alt="Shristhi Softech is an authorized Google G Suite Reseller/Partner and website development company in India/Delhi/NOIDA">
+			</div>
+			<div class="start_work text-center">
+				<h5>Ready to power your business with Google Workspace today !</h5>
+			</div>
+
+			<div class="text-center" data-toggle="modal" data-target="#workspace_signup">
+				<div class="btns-box">
+					<a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 divider2">
+			<div class="text-center">
+				<img src="images/shristisoftechsetting.png" alt="shrishit softech solutions email solutions services provider in India, Delhi NCR, gurgaon, mumbai, Navi mumbai, haryana, bhopal">
+			</div>
+			<div class="start_work text-center">
+				<h5>Experience it yourself - Get a free demo account now !</h5>
+			</div>
+
+			<div class="text-center" data-toggle="modal" data-target="#free_demo">
+				<div class="btns-box">
+					<a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 
 
