@@ -35,7 +35,7 @@
       <div class="col-md-3 text-center">
         <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php">
           <div class="technology_image text-center">
-            <img src="images/googleworkspace.png" alt="Google Workspace" />
+            <img src="images/secure-business-email-hosting-india.webp" alt="Google Workspace" />
             <h6>Google Workspace</h6>
           </div>
         </a>

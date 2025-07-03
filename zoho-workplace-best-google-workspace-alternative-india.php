@@ -47,49 +47,214 @@ include_once "common/header.php";
 
 
 <section class="google_workspace_content">
-    <div class="container">
-        <div class="sec-title centered">
-            <h2>Zoho Mail <span>in India</span></h2>
-        </div>
-        <div class="row">
-            <!-- Left Column: Content -->
-            <div class="col-md-8">
-                <div class="text-content">
-                    <p>
-Zoho Mail for Business is a secure, ad-free, and reliable email hosting solution designed for professional communication. It offers a clean, user-friendly interface along with robust collaboration tools, advanced spam protection, and enterprise-grade security, making it ideal for growing organizations.                    </p>
-                    <p>
-                       As a trusted provider of cloud-based email services in India, Business Mail has partnered with Zoho to deliver seamless implementation and support. Integrated with the broader Zoho ecosystem—including CRM, project management, invoicing, and more—we help businesses streamline operations through one unified platform.
-                    </p>
+	<div class="container">
+		<div class="sec-title centered">
+			<h2>Zoho Mail <span>in India</span></h2>
+		</div>
+		<div class="row">
+			<!-- Left Column: Content -->
+			<div class="col-md-8">
+				<div class="text-content">
+					<p>
+						Zoho Mail for Business is a secure, ad-free, and reliable email hosting solution designed for professional communication. It offers a clean, user-friendly interface along with robust collaboration tools, advanced spam protection, and enterprise-grade security, making it ideal for growing organizations. </p>
+					<p>
+						As a trusted provider of cloud-based email services in India, Business Mail has partnered with Zoho to deliver seamless implementation and support. Integrated with the broader Zoho ecosystem—including CRM, project management, invoicing, and more—we help businesses streamline operations through one unified platform.
+					</p>
 
-                    <!-- Key Features -->
-                    <h5>
-                        <span style="color:#0c82dc;">
-                            <b><a href="#" target="_blank">Zoho Mail Key Features:</a></b>
-                        </span>
-                    </h5>
-                    <ul style="color:#000; padding-left: 20px;">
-                        <li><b>Custom domain email</b></li>
-                        <li><b>5GB–50GB storage per user (depending on plan)</b></li>
-                        <li><b>Strong spam protection and data encryption</b></li>
-                        <li><b>IMAP/POP access and mobile app support</b></li>
-                    </ul>
+					<!-- Key Features -->
+					<h5>
+						<span style="color:#0c82dc;">
+							<b><a href="#" target="_blank">Zoho Mail Key Features:</a></b>
+						</span>
+					</h5>
+					<ul style="color:#000; padding-left: 20px; column-count: 1;">
+						<li><b>Custom domain email</b></li>
+						<li><b>5GB–50GB storage per user (depending on plan)</b></li>
+						<li><b>Strong spam protection and data encryption</b></li>
+						<li><b>IMAP/POP access and mobile app support</b></li>
+					</ul>
 
-                    <!-- Customer Benefits -->
-                  
-                </div>
-            </div>
+					<!-- Customer Benefits -->
 
-            <!-- Right Column: Image -->
-            <div class="col-md-4">
-                <img 
-                    src="images/An-economical-alternative-to-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.png" 
-                    alt="Is it possible to migrate emails from Microsoft 365 to Zoho Mail with Skynetiks Technologies an official Google Workspace partner."
-                    title="What are the different methods available for migrating emails to Zoho Mail with Skynetiks Technologies Google Workspace partner."
-                    style="width: 100%; height: auto;"
-                >
-            </div>
-        </div>
-    </div>
+				</div>
+			</div>
+
+			<!-- Right Column: Image -->
+			<div class="col-md-4">
+				<img
+					src="images/An-economical-alternative-to-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.png"
+					alt="Is it possible to migrate emails from Microsoft 365 to Zoho Mail with Skynetiks Technologies an official Google Workspace partner."
+					title="What are the different methods available for migrating emails to Zoho Mail with Skynetiks Technologies Google Workspace partner."
+					style="width: 100%; height: auto;">
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section style="padding: 60px 20px; background: #f9fafc;">
+	<div class="container">
+		<h2 class="text-center mb-5" style="font-size: 32px; font-weight: 700; color: #1a202c;">
+			Zoho Mail Features with Setup by <a href="https://businessmail.co.in" style="color: #065997;">Skynetiks Technologies</a>
+		</h2>
+
+		<div class="row">
+
+			<!-- Card 1 - Online Office -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-desktop" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Online Office</h5>
+					<p style="font-size: 14px; color: #4a5568;">Access your complete office suite online with Zoho's integrated productivity tools. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Zoho Mail seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 2 - Email Policies -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-shield-alt" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Email Policies</h5>
+					<p style="font-size: 14px; color: #4a5568;">Set up custom email policies and security rules to protect your organization. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 3 - iOS, Android Apps -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-mobile-alt" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">iOS, Android Apps</h5>
+					<p style="font-size: 14px; color: #4a5568;">Zoho Mail supports Android and iOS apps for professionals on the move. With <strong>Skynetiks Technologies</strong>, configure your mobile in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 4 - Email and CRM -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-chart-line" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Email and CRM</h5>
+					<p style="font-size: 14px; color: #4a5568;">Integrate your email with CRM for better customer relationship management. <strong>Skynetiks Technologies</strong> ensures your mail setup is safe and compliant. <a href="https://businessmail.co.in" style="color: #065997;">Secure setup</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 5 - Multiple Domain -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-globe" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Multiple Domain</h5>
+					<p style="font-size: 14px; color: #4a5568;">Manage multiple domains from a single Zoho Mail account with ease. <strong>Skynetiks Technologies</strong> handles the migration process without data loss. <a href="https://businessmail.co.in" style="color: #065997;">Migrate now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 6 - Calendar and Tasks -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-calendar-check" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Calendar and Tasks</h5>
+					<p style="font-size: 14px; color: #4a5568;">Plan, manage and schedule your meetings and to-dos in Zoho. <strong>Skynetiks Technologies</strong> enables full calendar sync with mobile and desktop. <a href="https://businessmail.co.in" style="color: #065997;">Start now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 7 - Anywhere Access -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-wifi" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Anywhere Access</h5>
+					<p style="font-size: 14px; color: #4a5568;">Access your emails from anywhere with internet connectivity and offline support. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Zoho Mail seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 8 - Unlimited Groups -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-users" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Unlimited Groups</h5>
+					<p style="font-size: 14px; color: #4a5568;">Create unlimited mailing groups for better team communication and collaboration. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 9 - Instant Chat -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-comments" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Instant Chat</h5>
+					<p style="font-size: 14px; color: #4a5568;">Built-in instant messaging for quick team communication and collaboration. With <strong>Skynetiks Technologies</strong>, configure your mobile in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 10 - Organized Inbox -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-inbox" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Organized Inbox</h5>
+					<p style="font-size: 14px; color: #4a5568;">Stay productive with a clean, clutter-free inbox designed by Zoho. <strong>Skynetiks Technologies</strong> ensures your mail setup is safe and compliant. <a href="https://businessmail.co.in" style="color: #065997;">Secure setup</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 11 - Control Panel -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-cogs" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Control Panel</h5>
+					<p style="font-size: 14px; color: #4a5568;">Manage users, permissions, and domains through Zoho's robust admin panel. <strong>Skynetiks Technologies</strong> handles the migration process without data loss. <a href="https://businessmail.co.in" style="color: #065997;">Migrate now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 12 - Integration -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-puzzle-piece" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Integration</h5>
+					<p style="font-size: 14px; color: #4a5568;">Seamlessly integrate with third-party applications and Zoho suite products. <strong>Skynetiks Technologies</strong> enables full calendar sync with mobile and desktop. <a href="https://businessmail.co.in" style="color: #065997;">Start now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 13 - Powerful Search -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-search" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Powerful Search</h5>
+					<p style="font-size: 14px; color: #4a5568;">Advanced search capabilities to find emails, attachments, and contacts quickly. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Zoho Mail seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 14 - Advanced Features -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-star" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Advanced Features</h5>
+					<p style="font-size: 14px; color: #4a5568;">Access premium features like email recall, read receipts, and custom themes. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 15 - Folders and Labels -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-folder" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Folders and Labels</h5>
+					<p style="font-size: 14px; color: #4a5568;">Organize your emails efficiently with custom folders and smart labels system. With <strong>Skynetiks Technologies</strong>, configure your mobile in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 16 - Multiple Account -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-user-plus" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Multiple Account</h5>
+					<p style="font-size: 14px; color: #4a5568;">Manage multiple email accounts from a single interface with unified inbox. <strong>Skynetiks Technologies</strong> ensures your mail setup is safe and compliant. <a href="https://businessmail.co.in" style="color: #065997;">Secure setup</a>.</p>
+				</div>
+			</div>
+
+			<!-- Card 17 - Migration Options -->
+			<div class="col-md-4 mb-4">
+				<div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+					<i class="fas fa-random" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+					<h5 style="font-weight: 600;">Migration Options</h5>
+					<p style="font-size: 14px; color: #4a5568;">Migrate from G Suite, Outlook, or any mail provider to Zoho. <strong>Skynetiks Technologies</strong> handles the migration process without data loss. <a href="https://businessmail.co.in" style="color: #065997;">Migrate now</a>.</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
 </section>
 
 <?php include_once "common/cutomerbenefit.php" ?>

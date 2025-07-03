@@ -69,7 +69,7 @@
 </style>
 
 
-		<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/google_workspace_banner.png);background-repeat: no-repeat;
+		<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/google-demo.webp);background-repeat: no-repeat;
     background-size: 100% 100%;">
 			<div class="container">
 				<div class="text-center city_banner">
@@ -90,8 +90,8 @@
 				<div class="row">
 					<div class="col-md-6">
 
-						<div class="text-content">
-							<p>
+						<div class="text-content" >
+							<p style="color: gray;">
 Google Workspace (formerly G Suite) is a powerful cloud-based suite designed to improve business communication and team collaboration. With tools like Gmail on your domain, Google Docs, Sheets, Drive, Meet, and more, it enables secure, real-time productivity from anywhere.
 								</br>
 As a certified Google Workspace partner in India, Skynetiks Technologies offers end-to-end solutions including deployment, data migration, mobile integration, and admin support. We ensure a smooth, secure transition to the cloud—perfect for startups, SMEs, and growing enterprises.

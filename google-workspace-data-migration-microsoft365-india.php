@@ -171,5 +171,209 @@ background-size: 100% 100%;">
 		
 	</div>
 </section> -->
+
+
+
+
+  <section style="padding: 60px 20px; background: #f9fafc;">
+        <div class="container">
+            <h2 class="text-center mb-5" style="font-size: 32px; font-weight: 700; color: #1a202c;">
+                Microsoft Office 365 Features with Setup by <a href="https://businessmail.co.in" style="color: #065997;">Skynetiks Technologies</a>
+            </h2>
+
+            <div class="row">
+
+                <!-- Card 1 - Excel -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e2e8f0; text-align: center;">
+                        <i class="fas fa-file-excel" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Excel</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Create powerful spreadsheets with advanced formulas and data analysis tools. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Office 365 seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 2 - PowerPoint -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-file-powerpoint" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">PowerPoint</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Design stunning presentations with professional templates and animations. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 3 - Word -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-file-word" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Word</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Create professional documents with advanced formatting and collaboration tools. With <strong>Skynetiks Technologies</strong>, configure your Office suite in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 4 - Forms -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-clipboard-list" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Forms</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Create surveys, quizzes, and polls with real-time response collection. <strong>Skynetiks Technologies</strong> ensures your Office 365 setup is safe and compliant. <a href="https://businessmail.co.in" style="color: #065997;">Secure setup</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 5 - Microsoft Teams -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-users" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Microsoft Teams</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Collaborate with team chat, video meetings, and file sharing in one place. <strong>Skynetiks Technologies</strong> handles the migration process without data loss. <a href="https://businessmail.co.in" style="color: #065997;">Migrate now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 6 - Microsoft Stream -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-play-circle" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Microsoft Stream</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Share and manage video content across your organization securely. <strong>Skynetiks Technologies</strong> enables full integration with Office apps. <a href="https://businessmail.co.in" style="color: #065997;">Start now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 7 - Office 365 Video -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-video" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Office 365 Video</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Enterprise video hosting and streaming for corporate communications. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Office 365 seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 8 - Outlook -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-envelope" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Outlook</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Professional email with calendar, contacts, and task management integration. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 9 - People -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-address-book" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">People</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Manage contacts and organizational directory with advanced search capabilities. With <strong>Skynetiks Technologies</strong>, configure your Office suite in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 10 - To Do -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-tasks" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">To Do</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Organize tasks and create lists with intelligent suggestions and reminders. <strong>Skynetiks Technologies</strong> ensures your Office 365 setup is safe and compliant. <a href="https://businessmail.co.in" style="color: #065997;">Secure setup</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 11 - OneNote -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-sticky-note" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">OneNote</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Digital notebook for capturing ideas, meeting notes, and collaborative planning. <strong>Skynetiks Technologies</strong> handles the migration process without data loss. <a href="https://businessmail.co.in" style="color: #065997;">Migrate now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 12 - Yammer -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-comments" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Yammer</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Enterprise social network for company-wide communication and collaboration. <strong>Skynetiks Technologies</strong> enables full integration with Office apps. <a href="https://businessmail.co.in" style="color: #065997;">Start now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 13 - Dynamics 365 -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-chart-line" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Dynamics 365</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Business applications for CRM, ERP, and business intelligence solutions. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Office 365 seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 14 - Power Apps -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-mobile-alt" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Power Apps</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Build custom business apps without coding using drag-and-drop interface. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 15 - PowerAutomate -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-cogs" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Power Automate</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Automate workflows and processes across your applications and services. With <strong>Skynetiks Technologies</strong>, configure your Office suite in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 16 - Kaizala -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-mobile" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Kaizala</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Mobile app for large group communications and work management on the go. <strong>Skynetiks Technologies</strong> ensures your Office 365 setup is safe and compliant. <a href="https://businessmail.co.in" style="color: #065997;">Secure setup</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 17 - OneDrive -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-cloud" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">OneDrive</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Secure cloud storage with file sharing and real-time collaboration features. <strong>Skynetiks Technologies</strong> handles the migration process without data loss. <a href="https://businessmail.co.in" style="color: #065997;">Migrate now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 18 - SharePoint -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-share-alt" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">SharePoint</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Create team sites, intranet portals, and document management systems. <strong>Skynetiks Technologies</strong> enables full integration with Office apps. <a href="https://businessmail.co.in" style="color: #065997;">Start now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 19 - Admin Center -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-shield-alt" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Admin Center</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Centralized administration for users, security, and compliance management. <strong>Skynetiks Technologies</strong> helps businesses in India configure and manage Office 365 seamlessly. <a href="https://businessmail.co.in" style="color: #065997;">Know more</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 20 - Security & Compliance -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-lock" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Security & Compliance</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Advanced security features with data loss prevention and compliance tools. <strong>Skynetiks Technologies</strong> offers full admin support and onboarding. <a href="https://businessmail.co.in" style="color: #065997;">Setup now</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Card 21 - Power BI -->
+                <div class="col-md-4 mb-4">
+                    <div style="background:#fff; border-radius: 12px; padding: 24px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+                        <i class="fas fa-chart-bar" style="font-size: 28px; color: #065997; margin-bottom: 12px;"></i>
+                        <h5 style="font-weight: 600;">Power BI</h5>
+                        <p style="font-size: 14px; color: #4a5568;">Business intelligence and analytics platform for data visualization and insights. With <strong>Skynetiks Technologies</strong>, configure your Office suite in minutes. <a href="https://businessmail.co.in" style="color: #065997;">Get help</a>.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
 <?php include_once "common/service_network.php" ?>
 <?php include_once "common/footer.php" ?>

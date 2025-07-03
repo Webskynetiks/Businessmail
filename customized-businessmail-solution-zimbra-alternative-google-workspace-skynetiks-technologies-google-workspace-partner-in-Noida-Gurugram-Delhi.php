@@ -46,17 +46,15 @@ include_once "common/header.php";
 			<div class="col-md-8">
 
 				<div class="text-content">
-					<p>Zimbra Collaboration Suite (ZCS) is a secure, enterprise-grade email and collaboration platform designed to streamline communication for businesses of all sizes. With integrated tools like email, calendar, address book, file sharing, and document editing, Zimbra provides a complete productivity suite in one place. Its modern, AJAX-based web interface ensures a smooth user experience, while full support for Microsoft Outlook, Apple Mail, Linux clients, and mobile devices like iPhone and Android makes it a flexible solution. Zimbra is especially ideal for industries with strict compliance requirements, as it can be configured to meet data protection standards such as GDPR, HIPAA, and other local regulations — making it a top choice for sectors like healthcare, education, finance, and government.
-					</p>
-					</br>
+  <p>
+    Zimbra Collaboration Suite (ZCS) is a secure, enterprise-grade email and collaboration platform that streamlines business communication. It integrates email, calendar, contacts, file sharing, and document editing into one powerful suite. With a modern AJAX-based web interface and support for Outlook, Apple Mail, Linux, iPhone, and Android, Zimbra is flexible and user-friendly. Built for industries with strict compliance needs, it supports GDPR, HIPAA, and other standards—making it ideal for healthcare, finance, education, and government sectors.
+  </p>
+  <br>
+  <p>
+    When hosted by <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies</a>, Zimbra becomes a complete business email solution. Our <a href="https://businessmail.co.in" target="_blank">Zimbra hosting services</a> in India include private-labeled email, smooth deployment, and 24/7 expert support via phone, screen sharing, and video. With fast migration, affordable plans, and integration options via Zimlets or third-party tools, Zimbra helps you enhance productivity, email security, and domain-branded consistency. Learn more at <a href="https://businessmail.co.in" target="_blank">businessmail.co.in</a>.
+  </p>
+</div>
 
-					<p>
-						When hosted with Skynetiks Technologies, Zimbra becomes an even more powerful business communication tool. Our Zimbra hosting services in India include private-labeled email, seamless deployment, and expert 24/7 technical support via phone, screen sharing, and video calls. Clients benefit from fast migration, personalized consultation, and cost-effective hosting plans tailored for startups and enterprises alike. Zimbra also allows integration with third-party platforms and custom extensions (Zimlets), enabling organizations to expand functionality as needed. Whether you're looking to improve team productivity, enhance email security, or maintain brand consistency through your domain-branded email accounts, Zimbra email hosting is the smart, scalable, and secure solution. </p>
-
-
-
-
-				</div>
 			</div>
 			<div class="col-md-4">
 				<img src="images/How-can-I-retain-the-same-email-addresses-after-migrating-to-zimbra-from-Google-Workspace-partner-with-Skynetiks-Technologies-in-Noida-India.png" title="What is the process for setting up Zimbra on a new domain from Google Workspace partner with Skynetiks Technologies" alt="How do I enhance the security of my Zimbra mail server with skynetiks technologies an official partner of Google Workspace in NOIDA, India.">

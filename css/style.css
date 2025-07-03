@@ -1,4 +1,4 @@
-a/* Consejo HTML Template */
+/* Consejo HTML Template */
 
 /************ TABLE OF CONTENTS ***************
 1. Fonts
@@ -53,6 +53,7 @@ a/* Consejo HTML Template */
 @import url('jquery.fancybox.min.css');
 @import url('jquery.bootstrap-touchspin.css');
 @import url('jquery.mCustomScrollbar.min.css');
+
 
 /*** 
 
@@ -18688,7 +18689,7 @@ button.btn.btn-link.collapsed {
     font-size: 16px;
     font-weight: 500;
     line-height: 29px;
-    color: black;
+    /* color: black; */
      text-align: justify;
 }
 
@@ -18956,7 +18957,7 @@ div#otpvoslfm18o1ffk64ifa{
 
 .btn-primary {
     color: #fff !important;
-    background-color: #80c32f !important;
+    /* background-color: #80c32f !important; */
     border-color: #5ca306 !important;
 }
 

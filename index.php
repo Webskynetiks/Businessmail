@@ -253,7 +253,7 @@
 			<div class="image-column col-lg-7 col-md-12 col-sm-12">
 				<div class="inner-column">
 					<div class="image">
-						<img src="images/top-rated-indian-IT-service-provider-and-cloud-communication-solution-skynetiks-technologies-in-Noida-India.jpg" title="Indian IT service provider & business email hosting solution with cloud communication at Skynetiks Technologies" alt="Majorly businesses reaches for IT services & email hosting solution in Noida to Skynetiks Technologies">
+						<img src="images/professional-email-hosting-for-small-business.webp">
 					</div>
 				</div>
 			</div>
