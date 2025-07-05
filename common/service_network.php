@@ -24,7 +24,7 @@
 					<div class="container">
 
 						<div class="sec-title centered">
-							<h2>Our Services <span>Networks</span></h2>
+							<h2 style="font-weight: normal;">Our Services <span>Networks</span></h2>
 						</div>
 						<div class="row">		
 							<div class="cities-links">

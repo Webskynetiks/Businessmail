@@ -31,12 +31,12 @@ include_once "common/header.php";
 </style>
 
 
-<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/zoho-background.png);background-repeat: no-repeat;
+<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/zoho-mail.jpg);background-repeat: no-repeat;
     background-size: 100% 100%;">
 	<div class="container">
 		<div class="text-center city_banner">
 			<h4>Professional Business Email with Zoho Mail – Simple, Secure & Scalable</h4>
-			<p class="reasons">It's Affordable, Privacy focused, and Packed with Business-Friendly Features.</p>
+			<!-- <p class="reasons">It's Affordable, Privacy focused, and Packed with Business-Friendly Features.</p> -->
 			<div class="btns-box">
 				<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
 			</div>

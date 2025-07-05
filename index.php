@@ -182,7 +182,7 @@
 				<!-- Title Column -->
 				<div class="title-column col-lg-12 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<h1 class="heading-big">Empower Your Business with a Professional Email Hosting Solution</h1>
+						<h1 class="heading-big" style="font-weight: normal;">Empower Your Business with a Professional Email Hosting Solution</h1>
 						<p>Business Mail E-Solutions is your trusted partner for secure, cloud-based communication. Trusted by over 5 million businesses, we offer email solutions like Google Workspace, Microsoft 365, Zoho Mail, Rediffmail, Zimbra, RC Mail, and Hosted Exchange. Boost productivity, streamline operations, and empower your team with reliable, scalable business email services.</p>
 					</div>
 				</div>
@@ -262,7 +262,7 @@
 			<div class="content-column col-lg-5 col-md-12 col-sm-12">
 				<div class="inner-column">
 					<div class="sec-title centered">
-						<h2>About Us</h2>
+						<h2 style="font-weight: normal;">About Us</h2>
 					</div>
 					<p>
 						<strong>Skynetiks Technologies</strong> is a trusted <strong>Google Workspace reseller in India</strong>, delivering secure <strong>business email</strong> and <strong>cloud collaboration solutions</strong> for over 22 years.
@@ -289,7 +289,7 @@
 
 	<div class="sec-title centered">
 		<!-- <div class="title">OUR SERVICES</div> -->
-		<h2>We work with <span>
+		<h2 style="font-weight: normal;">We work with <span>
 				Global Partners</span></h2>
 	</div>
 
@@ -338,7 +338,7 @@
 	<div class="auto-container">
 		<!-- Sec Title -->
 		<div class="sec-title centered">
-			<h2>Technology <span>Options</span> / Solutions</h2>
+			<h2 class="" style="font-weight: normal;">Technology <span>Options</span> / Solutions</h2>
 		</div>
 		<div class="row clearfix">
 
@@ -526,7 +526,7 @@
 	<div class="container">
 
 		<div class="sec-title centered text-center">
-			<h2>What Makes <span> us Proud</span></h2>
+			<h2 style="font-weight: normal; ">What Makes <span> us Proud</span></h2>
 		</div>
 		<div class="lower-section">
 			<div class="row clearfix">
