@@ -15,6 +15,13 @@ include_once "common/header.php";
 
   .support_image{
     margin-top: 5rem;
+    height: 28rem;
+    
+  }
+
+  #support_image{
+    height: 28rem;
+    width: 100%;
   }
   @media screen and (max-width: 768px) {
     .support_image {
@@ -26,7 +33,7 @@ include_once "common/header.php";
 
 
 <section>
-  <img class="support_image" src="images/email-support-services-google-workspace-zoho-microsoft365-skynetiks-india.webp" title="How can you migrate your existing emails to Google Workspace with zero downtime learn with Skynetiks Technologies" alt="When should I upgrade from free email to business email asking Skynetiks Technologies partner with Google Workspace in Noida, Delhi, India" style="width:100%;height: auto;">
+  <img class="support_image" id="support_image" src="images/email-support-services-google-workspace-zoho-microsoft365-skynetiks-india.webp" title="How can you migrate your existing emails to Google Workspace with zero downtime learn with Skynetiks Technologies" alt="When should I upgrade from free email to business email asking Skynetiks Technologies partner with Google Workspace in Noida, Delhi, India" style="width:100%;height: auto;">
 </section>
 
 

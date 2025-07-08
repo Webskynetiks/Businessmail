@@ -346,7 +346,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/secure-business-email-hosting-india.webp" style="
+						<img src="images/google-workspace-trial-sign-up.png" style="
 										background: #4b77f9;
 										">
 						<div class="overlay-box">
@@ -406,7 +406,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/zimbra-mail-cloud-email-hosting.webp" style="
+						<img src="images/zimbra-setup-india.jpg" style="
 										background: #ffae06;
 										">
 						<div class="overlay-box">
@@ -490,7 +490,7 @@
 			<div class="case-block col-lg-3 col-md-6 ">
 				<div class="inner-box">
 					<div class="image">
-						<img src="images/how-can-I-migrate-my-existing-emails-to-google-workspace-with-zero-downtime-with-skynetiks-technologies-serving-Noida-Delhi.png" alt="Can custom email build trust with customers in India - Skynetiks Technologies partner with google workspace serving Noida, Delhi." style="
+						<img src="images/custom-mail-solution-sign-up.webp" alt="Can custom email build trust with customers in India - Skynetiks Technologies partner with google workspace serving Noida, Delhi." style="
 										background: #0277bd;
 										">
 						<div class="overlay-box">

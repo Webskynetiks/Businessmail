@@ -28,11 +28,11 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Dr Koushik Lahiri Photo">
+        <img src="images/img-1.png" alt="Biryani Blues">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Raymond Andrews</h3>
-        <span class="post">Thea Kitchen Pvt. Ltd.</span>
+        <span class="post">Biryani Blues</span>
       </div>
       <p class="description">
         Skynetiks Technologies Pvt. Ltd. impressed me with their professional approach, transparency, and dedicated teamwork. Their commitment to timelines and high-quality standards made my web project a smooth experience. The team was supportive, responsible, and communicative throughout the process. I highly recommend them for their sincere efforts and dependable tech solutions anywhere in the world.
@@ -42,7 +42,7 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Stuart Rubenstein Photo">
+        <img src="images/img-1.png" alt="Patanjali Agro">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Vineet Gupta</h3>
@@ -56,11 +56,11 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Gaurav Uppal Photo">
+        <img src="images/img-1.png" alt="Noida International Airport Services">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Mukesh Kakkar</h3>
-        <span class="post">Noida International Airport Services</span>
+        <span class="post">Noida International Airport </span>
       </div>
       <p class="description">
         It’s not just the services and post-sales support—Skynetiks Technologies Pvt. Ltd. also provides valuable technical knowledge when needed. Their personalized attention, proactive team, and transparent approach made them stand out. Their support throughout our journey has been fantastic. I strongly recommend them to any business seeking growth-focused IT services.
@@ -70,7 +70,7 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Nidhi Bhatnagar Photo">
+        <img src="images/img-1.png" alt="UK India Education Council">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Rohit Verma</h3>
@@ -84,7 +84,7 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="S. K Rathor Photo">
+        <img src="images/img-1.png" alt="Flyerchoice">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Ankit Agarwal </h3>
@@ -112,11 +112,11 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Rajeev Bansal Photo">
+        <img src="images/img-1.png" alt="Meyraki Global">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Rajeev Bansal</h3>
-        <span class="post">MD, Celestial Knits & Fabs Pvt Ltd</span>
+        <h3 class="title"> Mr. Puneet Aurora </h3>
+        <span class="post">Meyraki Global</span>
       </div>
       <p class="description">
         At Celestial, innovation is key. Skynetiks Technologies helped us adopt Google Workspace tools like Calendar and Drive for better collaboration. Their onboarding process was efficient, and they supported us at every stage. We’ve seen improved productivity and smoother communication across our team since the switch.
@@ -126,11 +126,12 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Mr. Kishan Aggarwal Photo">
+        <img src="images/img-1.png" alt=" Upohan Management Consultants Pvt. Ltd">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Mr. Kishan Aggarwal</h3>
-        <span class="post">MD, World Wide Insurance Brokers Ltd</span>
+        <h3 class="title"> Mr. Advait Upohan </h3>
+        <span class="post"> Upohan Management  
+</span>
       </div>
       <p class="description">
         Moving to Google Workspace with Skynetiks was an excellent decision. The new email system is fast, stable, and easy to maintain. Employees love the simplicity and reliability. Skynetiks ensured everything went smoothly, with top-notch support. It's a solution that works for both IT and users.

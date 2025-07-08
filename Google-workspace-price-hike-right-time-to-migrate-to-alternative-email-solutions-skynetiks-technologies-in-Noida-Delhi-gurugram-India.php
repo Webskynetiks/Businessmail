@@ -14,7 +14,7 @@ include_once "common/header.php";
   }
 </style>
 <section>
-  <img src="images/email-migration-service-google-workspace-microsoft365-zoho-skynetiks-india.jpg" style="width:100%;height: auto;">
+  <img src="images/email-migration-service-google-workspace-microsoft365-zoho-skynetiks-india.png" style="width:100%;height: auto;">
 </section>
 
 <section class="about-page-section">
