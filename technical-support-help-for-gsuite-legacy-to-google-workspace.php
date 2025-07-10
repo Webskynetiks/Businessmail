@@ -13,21 +13,22 @@ include_once "common/header.php";
     font-weight: 600 !important;
   }
 
-  .support_image{
+  .support_image {
     margin-top: 5rem;
   }
+
   @media screen and (max-width: 768px) {
     .support_image {
       margin-top: 0rem;
     }
-    
+
   }
 </style>
 
 
 
 <section>
-  <img class="support_image" src="images/email-support-services-google-workspace-zoho-microsoft365-skynetiks-india.webp" title="How can you migrate your existing emails to Google Workspace with zero downtime learn with Skynetiks Technologies" alt="When should I upgrade from free email to business email asking Skynetiks Technologies partner with Google Workspace in Noida, Delhi, India" style="width:100%;height: auto;">
+  <img class="support_image" src="images/email-support-services-google-workspace-zoho-microsoft365-skynetiks-india.png" title="How can you migrate your existing emails to Google Workspace with zero downtime learn with Skynetiks Technologies" alt="When should I upgrade from free email to business email asking Skynetiks Technologies partner with Google Workspace in Noida, Delhi, India" style="width:100%;height: auto;">
 </section>
 
 
@@ -144,7 +145,7 @@ include_once "common/header.php";
     margin-bottom: 10px;
     background: #d2ecfa;
     padding: 22px;">
-          <h5 style="color: red;font-weight: 700;"><img src="images/Gsuite-logo.png" alt="Manage Free Account GSuite Google Workspace"></h5>
+          <h5 style="color: red;font-weight: 700;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmfkEGOXd07jh5aYVJEgbgrz0dTpSa2aMAA&s" alt="Manage Free Account GSuite Google Workspace"></h5>
           <h5>
             <marquee>Authorize Reseller partner</marquee>
           </h5>

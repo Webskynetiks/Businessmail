@@ -15,14 +15,14 @@ include_once "common/header.php";
 
   .support_image{
     margin-top: 5rem;
-    height: 28rem;
+    /* height: 28rem; */
     
   }
 
-  #support_image{
+  /* #support_image{
     height: 28rem;
     width: 100%;
-  }
+  } */
   @media screen and (max-width: 768px) {
     .support_image {
       margin-top: 0rem;

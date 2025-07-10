@@ -112,7 +112,7 @@ include_once "common/header.php";
   }
 </style>
 <section>
-  <img src="images/what-is-the-best-business-email-solution-for-startups-in-India-skynetiks-technologies-partner-with-Google-Workspace.jpg" title="How much does professional email actually cost per user per month at skynetiks technologies partner with Google Workspace." alt="Google Workspace free technical support by Skynetiks technologies on internet in Noida India after your free trial." style="width:100%;height: auto;">
+  <img src="images/get-a-free-trail-google-workspace-zoho-microsoft365-skynetiks-india.png" title="How much does professional email actually cost per user per month at skynetiks technologies partner with Google Workspace." alt="Google Workspace free technical support by Skynetiks technologies on internet in Noida India after your free trial." style="width:100%;height: auto;">
 </section>
 
 
@@ -129,7 +129,7 @@ include_once "common/header.php";
   </div>
 
 
-  
+
 
   <div class="section-title">Supported Email Platforms:</div>
 
@@ -150,7 +150,7 @@ include_once "common/header.php";
 
 
 </div>
-  <?php include_once "common/products.php" ?>
+<?php include_once "common/products.php" ?>
 
 
 
@@ -307,36 +307,36 @@ include_once "common/header.php";
 
 
 <section class="divider">
-	<div class="row">
-		<div class="col-md-6 divider1">
-			<div class="text-center">
-				<img src="images/shristisoftechsearch.png" alt="Shristhi Softech is an authorized Google G Suite Reseller/Partner and website development company in India/Delhi/NOIDA">
-			</div>
-			<div class="start_work text-center">
-				<h5>Ready to power your business with Google Workspace today !</h5>
-			</div>
+  <div class="row">
+    <div class="col-md-6 divider1">
+      <div class="text-center">
+        <img src="images/shristisoftechsearch.png" alt="Shristhi Softech is an authorized Google G Suite Reseller/Partner and website development company in India/Delhi/NOIDA">
+      </div>
+      <div class="start_work text-center">
+        <h5>Ready to power your business with Google Workspace today !</h5>
+      </div>
 
-			<div class="text-center" data-toggle="modal" data-target="#workspace_signup">
-				<div class="btns-box">
-					<a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-6 divider2">
-			<div class="text-center">
-				<img src="images/shristisoftechsetting.png" alt="shrishit softech solutions email solutions services provider in India, Delhi NCR, gurgaon, mumbai, Navi mumbai, haryana, bhopal">
-			</div>
-			<div class="start_work text-center">
-				<h5>Experience it yourself - Get a free demo account now !</h5>
-			</div>
+      <div class="text-center" data-toggle="modal" data-target="#workspace_signup">
+        <div class="btns-box">
+          <a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 divider2">
+      <div class="text-center">
+        <img src="images/shristisoftechsetting.png" alt="shrishit softech solutions email solutions services provider in India, Delhi NCR, gurgaon, mumbai, Navi mumbai, haryana, bhopal">
+      </div>
+      <div class="start_work text-center">
+        <h5>Experience it yourself - Get a free demo account now !</h5>
+      </div>
 
-			<div class="text-center" data-toggle="modal" data-target="#free_demo">
-				<div class="btns-box">
-					<a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
-				</div>
-			</div>
-		</div>
-	</div>
+      <div class="text-center" data-toggle="modal" data-target="#free_demo">
+        <div class="btns-box">
+          <a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 
