@@ -153,7 +153,7 @@ include_once "common/header.php";
 
 
 
-<div class="">
+<div class=" px-4">
   <div class="row">
     <div class="col-md-9">
       <form id="enquiryForm">

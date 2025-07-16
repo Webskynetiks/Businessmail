@@ -19,7 +19,7 @@
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
 	<link rel="shortcut icon" href="images/logo.png" type="image/png" sizes="252x252">
-	<!-- <link href="../css2.css?family=Cabin:wght@400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet"> -->
+	<link href="../css2.css?family=Cabin:wght@400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">

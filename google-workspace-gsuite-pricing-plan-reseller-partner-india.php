@@ -69,12 +69,11 @@
 </style>
 
 
-		<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/google_workspace_banner.png);background-repeat: no-repeat;
+		<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/google-demo.webp);background-repeat: no-repeat;
     background-size: 100% 100%;">
 			<div class="container">
 				<div class="text-center city_banner">
-					<h4>Google Workspace - More than just Gmail.</h4>
-					<p class="reasons">You need to think once, why are smart businesses moving to Google Workspace.</p>
+					<h4>Google Workspace – Secure Business Email, Cloud Storage, and Team Collaboration</h4>
 					<div class="btns-box">
 						<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
 					</div>
@@ -86,27 +85,18 @@
 		<section class="google_workspace_content">
 			<div class="container">
 				<div class="sec-title centered">
-					<h1>Google Workspace <span >in India</span> </h1>
+<h2>Google Workspace <span>Business Email Solutions in India</span></h2>
 				</div>
 				<div class="row">
 					<div class="col-md-6">
 
-						<div class="text-content">
-							<p>
-							<a href="https://workspace.google.com/intl/en_in/">Google Workspace </a> <a href="https://shrishtisoftech.com/g-suite/">(formerly known as GSuite) </a> is designed to provide an all-in-one suite of web applications that facilitate to improve team collaboration and enhanced business productivity. Some of the key functionalities offered by <a href="https://workspace.google.com/intl/en_in/features/">Google Workspace,</a> include Gmail, Docs, App maker, Google meet, Cloud search and many more.
-
+						<div class="text-content" >
+							<p style="color: gray;">
+Google Workspace (formerly G Suite) is a powerful cloud-based suite designed to improve business communication and team collaboration. With tools like Gmail on your domain, Google Docs, Sheets, Drive, Meet, and more, it enables secure, real-time productivity from anywhere.
 								</br>
-								</br>
-								As a Google partner, <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies</a> provides <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a>  reseller and service provider for businesses in India. At <a href="https://skynetiks.com/" target="_blank">Skynetiks,</a> we offer a wide range of services as Google Workspace deployment management, data migration, mobile device integration and a lot more.
+As a certified Google Workspace partner in India, Skynetiks Technologies offers end-to-end solutions including deployment, data migration, mobile integration, and admin support. We ensure a smooth, secure transition to the cloud—perfect for startups, SMEs, and growing enterprises.
 							</p>
-							<h5><span style="color:#0c82dc;"><b><a href="https://workspace.google.com/intl/en_in/features/">Our Customers benefits:</a></span></b></h5>
-      <p style="color:#000;">
-		<b>1. Rapid response time</br>
-2. Experienced and top consultants </br>
-3. 24/7 Support </br>
-4. Telephonic, Video Call and Screen Sharing Support
-</b>
-
+      
 						</div>
 					</div>
 					<div class="col-md-6">
@@ -245,6 +235,13 @@
 		</section>
 
 
+
+		
+
+	<?php include_once "common/google-features-and-products.php" ?>
+  <?php include_once "common/cutomerbenefit.php" ?>
+
+
 		<section class="benifits">
 
 			<div class="container">
@@ -354,15 +351,14 @@
 			</div>
 		</section>
 
+<!-- google-features-and-products.php -->
 
-		<section class="city" style="background:url(images/google_workspace.jpg);background-repeat: no-repeat;
-    background-size: 100% 100%;">
-			<div class="container">
-				<div class="text-right city_banner">
-					<a href="#" class="theme-btn btn-style-three" data-toggle="modal" data-target="#myModal"><span class="txt">Get A Quote</span></a>
-				</div>
 
-			</div>
-		</section>
+
+		
+
+
+		<?php include_once "common/faq.php" ?>
+
 		<?php include_once "common/service_network.php" ?>
 		<?php include_once "common/footer.php" ?>

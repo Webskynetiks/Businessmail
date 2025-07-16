@@ -150,7 +150,7 @@
 					<!-- <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div> -->
 
 					<!-- whattsapp icon -->
-					<a class="whatsapp-icon" href="https://web.whatsapp.com/send?phone=91 7428382756&amp;text=" target="_blank" style="position:fixed; bottom:15px; left:10px;z-index: 999;"><img src="images/whattsapp.png" width="70"></a>
+					<a class="whatsapp-icon" href="https://wa.me/917428382756" target="_blank" style="position:fixed; bottom:15px; left:10px;z-index: 999;"><img src="images/whattsapp.png" width="70"></a>
 
 					<!-- <a class="whatsapp-icon-phone" href="https://api.whatsapp.com/send?phone=91 7428382756&text=Hello! I am Interested in Buying Services." target="_blank" style="position:fixed; top:80px; right:10px;z-index: 999;"><img src="images/whattsapp.png" width="44">Call us on Whtsapp</a> -->
 

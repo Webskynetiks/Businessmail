@@ -1,65 +1,16 @@
-<!DOCTYPE html>
-<html>
+<?php
+$meta_title = "Google Workspace Reseller | Email Cloud Solution Services | G-Suite Pricing and Plan | Authorised Reseller in India | Skynetiks Technologies - Businessmail";
+$meta_description = "Best Reseller for Google Workspace in India,Business Mail Solutuion, Google Workspace(G suite) Reseller & Partner in India, Google Workspce(G suite) Pricing in India, Buy Google Workspace Plans Affordable Prices, Introducing google workspace, Flexible solutions for every business, Email Solution, Email managing, G-suite Email Solution, G-suite Plan, Google workspace plans, Google For workspace in India, GoogleWorkspace plan in noida";
+$meta_keywords = "Top Google Workspace Reseller in India, Best Reseller for Google Workspace in India, G-sutite in India, best business mail services in india, business mail in noida, business mail solution in delhi ncr, Google Workspace Free Trial business mail, google workspace plans, email migration services, zoho mail services, rc mail, zimbra mailing solutions, microsoft o365, hosted exchange, rediff mail solution, custom mail solution,payment issue with credit crad, facing payment issue with credit crad, google workspace unable to pay with credit crad, Sign Up for Google for Workspace Free Trial, Get A Free Trial for google workspace, sign up for a free google workspace trial, Business Email Setup, Google Business Mail Cost, Google workspace Mail Price, Email Solutions for small Business, Corporate Email Solutions, Google Support, Google G Suite Email Not Working, Get Google Workspace Free for Your Business, Organization, start with google workspace ";
+$meta_canonical = "https://businessmail.co.in/index.php";
+$meta_robots = "index, follow";
 
-<head>
-	<meta charset="utf-8">
-	<title>Google Workspace Reseller | Email Cloud Solution Services | G-Suite Pricing and Plan | Authorised Reseller in India | Skynetiks Technologies - Businessmail</title>
-	<meta name="description" content="Best Reseller for Google Workspace in India,Business Mail Solutuion, Google Workspace(G suite) Reseller & Partner in India, Google Workspce(G suite) Pricing in India, Buy Google Workspace Plans Affordable Prices, Introducing google workspace, Flexible solutions for every business, Email Solution, Email managing, G-suite Email Solution, G-suite Plan, Google workspace plans, Google For workspace in India, GoogleWorkspace plan in noida">
-	<meta name="keywords" content="Top Google Workspace Reseller in India, Best Reseller for Google Workspace in India, G-sutite in India, best business mail services in india, business mail in noida, business mail solution in delhi ncr, Google Workspace Free Trial business mail, google workspace plans, email migration services, zoho mail services, rc mail, zimbra mailing solutions, microsoft o365, hosted exchange, rediff mail solution, custom mail solution,payment issue with credit crad, facing payment issue with credit crad, google workspace unable to pay with credit crad, Sign Up for Google for Workspace Free Trial, Get A Free Trial for google workspace, sign up for a free google workspace trial, Business Email Setup, Google Business Mail Cost, Google workspace Mail Price, Email Solutions for small Business, Corporate Email Solutions, Google Support, Google G Suite Email Not Working, Get Google Workspace Free for Your Business, Organization, start with google workspace ">
-	<meta name="author" content="Skynetiks Technologies Business Mail Solution">
-	<meta name="google-site-verification" content="VJUz3lsM8Q4h82JQyGW-0KiC5pfLa_6V_hRvSxd7yRI" />
-	<meta name="robots" content="index,follow">
-	<link rel="canonical" href="https://businessmail.co.in/index.php">
-	<!-- Stylesheets -->
-	<link href="css/bootstrap.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
-	<link href="css/responsive.css" rel="stylesheet">
-	<link rel="shortcut icon" href="images/logo.png" type="image/png" sizes="252x252">
-	<link href="../css2.css?family=Cabin:wght@400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110332259-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-110332259-1');
-	</script>
-	<style>
-		
-	</style>
+include_once "common/header.php";
+?>
 
 
 
 
-
-
-	<!-- <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"> -->
-	<!-- <link rel="icon" href="images/favicon.png" type="image/x-icon"> -->
-
-
-	<!-- Responsive -->
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-
-	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-	<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
-
-<body class="hidden-bar-wrapper">
-
-	<div class="page-wrapper">
-
-		<!-- Preloader -->
-		<!-- <div class="preloader"></div> -->
-
-		<?php include_once "common/header.php"?>
 <style type="text/css">
 	.main-header {
     position: inherit;

@@ -26,7 +26,6 @@
 
 							<div class="btns-box">
 								<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
-								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
 							</div>
 						</div>
 					</div>
@@ -34,9 +33,9 @@
 					<!-- Image Column -->
 					<div class="image-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column fadeInDown animated">
-							<div class="image">
+							<!-- <div class="image">
 								<img src="images/email.png" alt="Skynetiks Technologies is an authorized Google Workspace Reseller/Partner and a website development company based in India, serving Delhi and NOIDA.">
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -176,7 +175,7 @@
 <section class="cta-section">
 	<div class="auto-container">
 		<div class="inner-container">
-			<div class="pattern-layer" style="background-image: url(images/background/pattern-4.png)"></div>
+			<!-- <div class="pattern-layer" style="background-image: url(images/background/pattern-4.png)"></div> -->
 			<div class="row clearfix">
 
 				<!-- Title Column -->
@@ -245,7 +244,7 @@
 
 <!-- About Section -->
 <section class="about-section">
-	<div class="pattern-layer" style="background-image: url(images/background/pattern-1.png)"></div>
+	<div class="pattern-layer" ></div>
 	<div class="auto-container">
 		<div class="row clearfix">
 
