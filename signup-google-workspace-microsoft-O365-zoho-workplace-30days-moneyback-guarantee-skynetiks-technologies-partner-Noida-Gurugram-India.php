@@ -116,7 +116,6 @@ include_once "common/header.php";
 
 
 
-<?php include_once "common/products.php" ?>
 
 
 
@@ -130,95 +129,8 @@ include_once "common/header.php";
   <div class="sec-title centered">
     <h2>Product <span>Sign Up</span></h2>
   </div>
-
-  <div class="container">
-    <div class="row">
-      <!-- Form Column -->
-      <div class="col-md-9">
-        <form id="enquiryForm">
-          <div class="form">
-            <!-- Domain Name -->
-            <div class="form-group row">
-              <div class="col-md-3"><label for="website">Domain Name:</label></div>
-              <div class="col-md-9">
-                <input type="text" class="form-control" id="website" placeholder="e.g. www.tatamotors.com" required>
-              </div>
-            </div>
-
-            <!-- Email -->
-            <div class="form-group row">
-              <div class="col-md-3"><label for="email">Email:</label></div>
-              <div class="col-md-9">
-                <input type="email" class="form-control" id="email" placeholder="Your direct email" required>
-              </div>
-            </div>
-
-            <!-- Phone -->
-            <div class="form-group row">
-              <div class="col-md-3"><label for="phone">Phone No:</label></div>
-              <div class="col-md-9">
-                <input type="text" class="form-control" id="phone" placeholder="Your direct phone number" pattern="[1-9]{1}[0-9]{9}" required>
-              </div>
-            </div>
-
-            <!-- Name -->
-            <div class="form-group row">
-              <div class="col-md-3"><label for="name">Name:</label></div>
-              <div class="col-md-9">
-                <input type="text" class="form-control" id="name" placeholder="What should we call you?" required>
-              </div>
-            </div>
-
-            <!-- Message -->
-            <div class="form-group row">
-              <div class="col-md-3"><label for="message">Message:</label></div>
-              <div class="col-md-9">
-                <textarea class="form-control" id="message" rows="4" placeholder="Your message" required></textarea>
-              </div>
-            </div>
-
-            <!-- Submit -->
-            <div class="form-group row">
-              <div class="col-md-3"></div>
-              <div class="col-md-9">
-                <button type="submit" class="btn btn-primary" style="width: 100%;">Submit</button>
-              </div>
-            </div>
-          </div>
-        </form>
-      </div>
-
-      <!-- Right Column / Image / Partner Info -->
-      <div class="col-md-3">
-        <div class="text-center logo-image-slider">
-          <img src="images/skynetiks-logo-resized.webp" style="width: 100%; margin-bottom: 10px; background: #d2ecfa; padding: 22px;">
-          <h5 style="color: red; font-weight: 700;"><img src="images/Gsuite-logo.png" alt=""></h5>
-          <h5>
-            <marquee>Authorize Reseller Partner</marquee>
-          </h5>
-
-          <div class="outer-container text-center">
-            <div class="carousel-outer">
-              <ul class="sponsor-carousel owl-carousel owl-theme">
-                <li><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php"><img src="images/googleworkspace.png" alt="Google Workspace"></a></li>
-                <li><a href="zoho-workplace-best-google-workspace-alternative-india.php"><img src="images/How-do-I-configure-zoho-mail-on-outlook-or-thunderbird-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Delhi-Noida-Gurgaon.png" alt="Zoho Mail"></a></li>
-                <li><a href="economical-business-email-solution-hosting-india.php"><img src="images/how-much-email-storage-does-reseller-club-business-email-provide-skynetiks-technologies-partner-company-with-google-workspace-in-India-serving-Delhi-Noida.png" alt="ResellerClub"></a></li>
-                <li><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><img src="images/zimbramail.png" alt="Zimbra Mail"></a></li>
-                <li><a href="google-workspace-data-migration-microsoft365-india.php"><img src="images/how-do-I-migrate-emails-to-microsoft-365-from-gmail-or-cpanel-skynetiks-technologies-an-official-google-workspace-partner-in-India-serving-Noida-Delhi.png" alt="Microsoft 365"></a></li>
-                <li><a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><img src="images/hosted-exchange-login-errors-something-went-wrong-how-to-resolve-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi-Gurgaon.png" alt="Hosted Exchange"></a></li>
-                <li><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><img src="images/rd1.png" alt="Rediffmail Pro"></a></li>
-                <li><a href="custom-domain-based-email-for-organiztion-brand-identity.php"><img src="images/google-workspace-alternative-india.png" alt="Custom Email Domain"></a></li>
-              </ul>
-            </div>
-            <div class="phone">
-              <a href="tel:+91-9212378780"><i class="fa fa-phone"></i><span> +91-9212378780</span></a>
-            </div>
-          </div>
-        </div>
-      </div> <!-- End Right Column -->
-    </div> <!-- End Row -->
-  </div> <!-- End Container -->
 </section>
+  <?php include_once "common/contact-query-form.php" ?>
 
 <!-- SMTP.js Script -->
 <script src="https://smtpjs.com/v3/smtp.js"></script>
