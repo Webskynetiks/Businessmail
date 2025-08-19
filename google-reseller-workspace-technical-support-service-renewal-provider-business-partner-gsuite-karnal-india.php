@@ -30,6 +30,9 @@ include_once "common/header.php";
 
 
 
+<?php include_once "common/contact-detail.php" ?>
+
+
 <section style=" background-color: #f9f9f9;">
   <div class="container" style="max-width: 1200px; margin: auto;">
     <div class="row d-flex flex-wrap">

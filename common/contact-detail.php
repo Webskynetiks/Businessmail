@@ -47,7 +47,7 @@
       <span class= "ws-header-title-span" >Google Workspace</span> (Formerly G Suite)
     </div>
     <div class="ws-header-contact" style=" font-weight: bold; color: black">
-      Contact 
+      Phone / Whatsapp 
       <a href="tel:+919212378780">+91-9212378780</a> | 
       <a href="mailto:sales@skynetiks.com">sales@skynetiks.com</a>
     </div>

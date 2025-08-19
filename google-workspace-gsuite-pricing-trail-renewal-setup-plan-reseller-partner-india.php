@@ -33,6 +33,9 @@ include_once "common/header.php";
 			</div>
 		</section>
 
+		<?php include_once "common/contact-detail.php" ?>
+
+
 		<section class="google_workspace_content">
 			<div class="container">
 				<div class="sec-title centered">
