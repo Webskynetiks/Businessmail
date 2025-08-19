@@ -29,6 +29,9 @@ include_once "common/header.php";
   </div>
 </section>
 
+<?php include_once "common/contact-detail.php" ?>
+
+
 
 
 
