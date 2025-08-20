@@ -98,10 +98,10 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Mr. Anirudh Lal Photo">
+        <img src="images/img-1.png" alt=" Anirudh Lal Photo">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Mr. Anirudh Lal</h3>
+        <h3 class="title"> Anirudh Lal</h3>
         <span class="post">MD, Macsam Apparels Pvt. Ltd.</span>
       </div>
       <p class="description">
@@ -115,7 +115,7 @@
         <img src="images/img-1.png" alt="Meyraki Global">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title"> Mr. Puneet Aurora </h3>
+        <h3 class="title">  Puneet Aurora </h3>
         <span class="post">Meyraki Global</span>
       </div>
       <p class="description">
@@ -129,7 +129,7 @@
         <img src="images/img-1.png" alt=" Upohan Management Consultants Pvt. Ltd">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title"> Mr. Advait Upohan </h3>
+        <h3 class="title">  Advait Upohan </h3>
         <span class="post"> Upohan Management  
 </span>
       </div>

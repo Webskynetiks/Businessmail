@@ -791,7 +791,7 @@
 
 	.city h4 {
     color: #ffffff;
-    font-size: 22px;
+    font-size: 17px;
     font-weight: 600;
 }
 .btn-style-one {
@@ -1382,3 +1382,21 @@ span.arrow-icon.flaticon-right-arrow-1{
 	}
 	
 }
+
+
+/* city banner page  contact number */
+
+
+#callback-contact-number-section{	
+		font-size: 2.5rem;
+		color: #fff;
+		margin-top: 30px;
+	}
+
+	@media screen and (max-width: 768px) {
+		#callback-contact-number-section {
+			font-size: 14px;
+			margin-top: 10px;
+		}
+		
+	}

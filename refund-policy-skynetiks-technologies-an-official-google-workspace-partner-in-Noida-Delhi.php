@@ -89,7 +89,7 @@
 
   
 <section>
-	<img src="images/what-are-the-benefits-of-shifting-from-free-G-suite-legacy-accounts-with-skynetiks-technologies-partner-with-google-workspace-in-India.png" title="Is there a phone number to contact Google for a Workspace refund - Skynetiks Technologies serving in Noida." alt="Skynetiks Technologies is an authorized Google Workspace (formerly G Suite) Reseller and Partner, as well as a prominent website development company based in India, specifically operating in Delhi and NOIDA.
+	<img src="images/google-workspace-zoho-microsoft-migration-india.webp" title="Is there a phone number to contact Google for a Workspace refund - Skynetiks Technologies serving in Noida." alt="Skynetiks Technologies is an authorized Google Workspace (formerly G Suite) Reseller and Partner, as well as a prominent website development company based in India, specifically operating in Delhi and NOIDA.
 
 " style="width:100%;height: auto;">
 </section>

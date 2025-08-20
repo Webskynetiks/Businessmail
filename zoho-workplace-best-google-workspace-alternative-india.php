@@ -38,12 +38,29 @@ include_once "common/header.php";
 			<h4>Professional Business Email with Zoho Mail – Simple, Secure & Scalable</h4>
 			<!-- <p class="reasons">It's Affordable, Privacy focused, and Packed with Business-Friendly Features.</p> -->
 			<div class="btns-box">
-				<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
-			</div>
+        <a href="#" class="theme-btn btn-style-one">
+          <span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span>
+        </a>
+      </div>
+
+      <div class="btns-box" id="callback-contact-number-section">
+        <span class="txt text-white">
+          <a href="tel:+919212378780" class="text-white" style="margin-right:10px;">
+            <i class="fa fa-phone"></i> Phone
+          </a>
+          /
+          <a href="https://wa.me/919212378780" target="_blank" class="text-white" style="margin-left:10px;">
+            <i class="fa-brands fa-whatsapp"></i> WhatsApp
+          </a>
+          +91 92 123 78780
+        </span>
+      </div>
+
 		</div>
 
 	</div>
 </section>
+
 
 
 <section class="google_workspace_content">
@@ -82,7 +99,7 @@ include_once "common/header.php";
 			<!-- Right Column: Image -->
 			<div class="col-md-4">
 				<img
-					src="images/An-economical-alternative-to-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.png"
+					src="images/affordable-zoho-email-solutions-provider-india.webp"
 					alt="Is it possible to migrate emails from Microsoft 365 to Zoho Mail with Skynetiks Technologies an official Google Workspace partner."
 					title="What are the different methods available for migrating emails to Zoho Mail with Skynetiks Technologies Google Workspace partner."
 					style="width: 100%; height: auto;">

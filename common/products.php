@@ -1,63 +1,92 @@
 <style>
-  .page-bg {
-    background-color: #f6f9fc;
-    font-family: 'Segoe UI', sans-serif;
-    color: #333;
-    margin: 0;
-    padding: 0;
-  }
+.page-bg {
+  background-color: #f6f9fc;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
 
-  .main-title {
-    font-size: 2rem;
-    color: black;
-    margin-bottom: 20px;
-    text-align: center;
-  }
+.main-title {
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 20px;
+  text-align: center;
+}
 
-  .desc {
-    font-size: 1.1rem;
-    line-height: 1.6;
-    margin-bottom: 30px;
-    text-align: center;
-  }
+.desc {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  text-align: center;
+}
 
-  .btn-primary {
-    display: inline-block;
-    margin-top: 20px;
-    background-color: #1a73e8;
-    color: white;
-    text-decoration: none;
-    padding: 10px 20px;
-    border-radius: 6px;
-    font-size: 1rem;
-    font-weight: 500;
-    text-align: left;
-  }
+/* Service Card Layout */
+.service-card {
+  background-color: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
 
-  .btn-primary:hover {
-    background-color: #1558b0;
-  }
+  /* Equal height + button at bottom */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 
-  .service-card {
-    background-color: #fff;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    padding: 24px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-    text-align: left;
-  }
+/* Service Image */
+.service-img {
+  height: 60px;          /* fixed height */
+  width: auto;           /* keep aspect ratio */
+  object-fit: contain;   /* prevent stretching */
+  display: block;
+  margin: 0 auto 16px;   /* center + spacing */
+  max-width: 100%;       /* responsive */
+}
 
-  .service-img {
-    height: 60px;
-    margin-bottom: 16px;
-  }
+/* Service Title */
+.service-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #2d3748;
+  margin-bottom: 12px;
+  text-align: center;
+}
 
-  .service-title {
-    font-size: 20px;
-    font-weight: 600;
-    color: #2d3748;
-    margin-bottom: 12px;
-  }
+/* Service Description */
+.service-card p {
+  flex-grow: 1; /* pushes button to bottom */
+  margin-bottom: 20px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #555;
+  text-align: center;
+}
+
+/* Buttons */
+.btn-primary {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #1a73e8;
+  color: white;
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+
+  height: 44px;        /* fixed button height */
+  min-width: 140px;    /* consistent button width */
+  margin: 0 auto;      /* center align */
+}
+
+.btn-primary:hover {
+  background-color: #1558b0;
+}
+
 </style>
 
 <div class="page-bg" style="padding: 60px 20px;">
@@ -75,7 +104,7 @@
       <img src="images/partners/google-workspace-icon.webp" alt="Google Workspace Email India" class="service-img">
       <h3 class="service-title">Google Workspace</h3>
       <p>Business-grade Gmail, Google Drive, Calendar, Meet & Docs with advanced security and 24/7 admin support. Ideal for companies seeking a reliable cloud email solution for enterprises in India.</p>
-      <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php" class="btn-primary" style="background-color: #1558b0;">Read More <i class="fa fa-angle-double-right text-white" aria-hidden="true"></i></a>
+      <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php" class="btn-primary" >Read More <i class="fa fa-angle-double-right text-white" aria-hidden="true"></i></a>
     </div>
 
     <!-- Zoho Mail -->

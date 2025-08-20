@@ -28,6 +28,20 @@ include_once "common/header.php";
       <div class="btns-box">
         <a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
       </div>
+
+ <div class="btns-box" id="callback-contact-number-section">
+        <span class="txt text-white">
+          <a href="tel:+919212378780" class="text-white" style="margin-right:10px;">
+            <i class="fa fa-phone"></i> Phone
+          </a>
+          /
+          <a href="https://wa.me/919212378780" target="_blank" class="text-white" style="margin-left:10px;">
+            <i class="fa-brands fa-whatsapp"></i> WhatsApp
+          </a>
+          +91 92 123 78780
+        </span>
+      </div>
+      
     </div>
 
   </div>
@@ -35,7 +49,7 @@ include_once "common/header.php";
 
 
 
-<?php include_once "common/contact-detail.php" ?>
+
 
 
 <section style=" background-color: #f9f9f9;">
