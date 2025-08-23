@@ -20,7 +20,7 @@ include_once "common/header.php";
 </style>
 
 
-		<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/google-demo.webp);background-repeat: no-repeat;
+		<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/google-workspace-technical-support.webp);background-repeat: no-repeat;
     background-size: 100% 100%;">
 			<div class="container">
 				<div class="text-center city_banner">
@@ -272,7 +272,7 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 						<div class="benifit_list">
 							<div class="row">
 								<div class="col-md-2  col-3">
-									<img src="images/shristibestofluck.png" style="width: 100%">
+									<img src="images/google-workspace-troubleshooting-and-help.png" style="width: 100%">
 								</div>
 								<div class="col-md-10 col-9">
 									<div class="content-benifit">
@@ -288,7 +288,7 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 						<div class="benifit_list">
 							<div class="row">
 								<div class="col-md-2  col-3">
-									<img src="images/cloud.png" style="width: 100%">
+									<img src="images/google-workspace-email-backup-and-restore.png" style="width: 100%">
 								</div>
 								<div class="col-md-10 col-9">
 									<div class="content-benifit">
@@ -304,7 +304,7 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 						<div class="benifit_list">
 							<div class="row">
 								<div class="col-md-2  col-3">
-									<img src="images/clock.png" style="width: 100%">
+									<img src="images/google-workspace-legacy-gsuite-migration.png" style="width: 100%">
 								</div>
 								<div class="col-md-10 col-9">
 									<div class="content-benifit">

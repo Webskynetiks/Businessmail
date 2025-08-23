@@ -27,100 +27,112 @@ include_once "common/header.php";
   .container {
     max-width: 1140px;
     margin: auto;
-    padding: 40px 20px;
+    padding: 50px 20px;
   }
 
   .main-title {
     font-size: 2.5rem;
     color: #1a73e8;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
+    font-weight: 700;
   }
 
   .section-title {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: #222;
     margin: 40px 0 20px;
+    font-weight: 600;
+    border-left: 4px solid #1a73e8;
+    padding-left: 10px;
   }
 
   .paragraph {
     font-size: 1.1rem;
     line-height: 1.7;
     margin-bottom: 20px;
+    color: #444;
+    text-align: justify;
   }
 
+  /* Stylish bullet list */
   .bullet-list {
-    padding-left: 20px;
-    margin-bottom: 30px;
+    list-style: none;
+    padding-left: 0;
+    margin: 20px 0 40px;
   }
 
   .bullet-item {
     font-size: 1.05rem;
-    margin-bottom: 10px;
+    margin-bottom: 14px;
+    padding-left: 28px;
+    position: relative;
+    line-height: 1.6;
   }
 
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 24px;
-    margin-top: 20px;
-  }
-
-  .service-card {
-    background: #fff;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-  }
-
-  .card-title {
-    font-size: 1.2rem;
+  .bullet-item::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
     color: #1a73e8;
-    margin-bottom: 10px;
-  }
-
-  .card-desc {
-    font-size: 1rem;
-    color: #444;
+    font-weight: bold;
   }
 
   .cta-section {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 50px;
   }
 
   .cta-button {
     display: inline-block;
     background-color: #1a73e8;
     color: #fff;
-    padding: 14px 28px;
+    padding: 14px 32px;
     text-decoration: none;
-    border-radius: 5px;
-    font-size: 1rem;
-    transition: background-color 0.3s ease;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
   }
 
   .cta-button:hover {
     background-color: #1558b0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   }
 
   .contact-info {
     margin-top: 15px;
     font-size: 1rem;
     color: #555;
+    text-align: center;
   }
-</style>
-<section>
-  <img src="images/get-a-free-trail-google-workspace-zoho-microsoft365-skynetiks-india.png" title="How much does professional email actually cost per user per month at skynetiks technologies partner with Google Workspace." alt="Google Workspace free technical support by Skynetiks technologies on internet in Noida India after your free trial." style="width:100%;height: auto;">
-</section>
 
+  /* Hero image */
+  .hero-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  section.contact-form {
+    padding: 0px 0px;
+}
+</style>
+
+<section>
+  <img src="images/get-a-free-trail-google-workspace-zoho-microsoft365-skynetiks-india.png"
+    title="How much does professional email actually cost per user per month at Skynetiks Technologies partner with Google Workspace."
+    alt="Google Workspace free technical support by Skynetiks technologies in Noida India after your free trial."
+    class="hero-img">
+</section>
 
 <div class="container">
   <div class="main-title">Business Email Hosting – Free Trial in India</div>
 
   <div class="paragraph">
-    <strong>Skynetiks Technologies Pvt. Ltd.</strong> offers a free trial for business email hosting services in India. Choose from Google Workspace, Zoho Mail, Microsoft 365, Rediffmail Pro, Zimbra, Hosted Exchange, and Custom Mail. Experience premium features, spam protection, admin controls, and expert support — all before committing.
+    <strong>Skynetiks Technologies Pvt. Ltd.</strong> offers a free trial for business email hosting services in India. Choose from Google Workspace, Zoho Mail, Microsoft 365, Rediffmail Pro, Zimbra, Hosted Exchange, and Custom Mail. Experience premium features, spam protection, admin controls, and expert support — all before committing.
   </div>
 
   <div class="section-title">Free Trial Details – 7 to 15 Days Demo</div>
@@ -128,13 +140,10 @@ include_once "common/header.php";
     Test your preferred business email service seamlessly from Noida, Delhi NCR, Gurugram, and pan-India. Our trial includes full inbox setup, DNS & domain configuration, migration assistance, and dedicated technical support — completely free.
   </div>
 
-
-
-
   <div class="section-title">Supported Email Platforms:</div>
-
-
-
+  <div class="paragraph">
+    Google Workspace • Zoho Mail • Microsoft 365 • Rediffmail Pro • Zimbra • Hosted Exchange • Custom Mail
+  </div>
 
   <div class="section-title">Free Trial Includes:</div>
   <ul class="bullet-list">
@@ -146,10 +155,13 @@ include_once "common/header.php";
   </ul>
 
   <div class="section-title">Get Started Today</div>
-  <div class="paragraph">No obligation, no payment needed. Just select your email service and we'll set up your trial instantly.</div>
+  <div class="paragraph">
+    No obligation, no payment needed. Just select your email service and we'll set up your trial instantly.
+  </div>
 
 
 </div>
+
 <?php include_once "common/products.php" ?>
 
 
@@ -163,31 +175,7 @@ include_once "common/header.php";
 
 
  
-      <h5 style="color:#000;">Other Topics:</h5>
-      <div class="container">
-        <div class="row" style="padding:20px;">
-
-          <div class="col-md-6" style="background-color:#fff; padding:20px 10px;border:#0c82dc solid 2px;">
-            <ul style="color:#000;">
-              <li>- Renewal of Google Workspace, GSuite, Google Apps.</li>
-              <li>- Paid to TimesGmoney through NEFT to Google but not reflecting.</li>
-
-
-            </ul>
-          </div>
-          <div class="col-md-6" style="background-color:#fff; padding:20px 10px; border:#0c82dc solid 2px;"">
-              <ul style=" color:#000;">
-
-
-            <li>- Online Payment Failed for Google for Workspace.</li>
-            <li>- 5 Reasons to Buy Google for Workspace through a reseller.</li>
-            <li>- Google Workspace account errors.</li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
-    </div>
+     
 </section>
 
 

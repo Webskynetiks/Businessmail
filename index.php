@@ -590,44 +590,44 @@
 	<div class="container  rollIn animated">
 		<div class="row">
 			<div class="col-md-2 col-6">
-				<img src="images/bombay-dyeing-google-workspace-partner-with-skynetiks-technologies.jpg" title="Bombay dyeing uses Google workspace for Business Communication" alt="Bombay Dyeing using Google Workspace business email Services by skynetiks technologies.">
+				<img src="images/email-migration-to-google-zoho-microsoft.jpg" title="Bombay dyeing uses Google workspace for Business Communication" alt="Bombay Dyeing using Google Workspace business email Services by skynetiks technologies.">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/snapdeal-google-workspace-business-email-service-skynetiks-technologies.png" title="Snapdeal uses email services by Google workspace" alt="Snapdeal leveraging Google Workspace business email solution by Skynetiks technologies, an Official Partner.">
+				<img src="images/secure-business-email-hosting-provider.png" title="Snapdeal uses email services by Google workspace" alt="Snapdeal leveraging Google Workspace business email solution by Skynetiks technologies, an Official Partner.">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/nilkamal-google-workspace-business-email-solution-with-skynetiks-technologies.png" title="Affordable material handling solution by Nilkamal uses google workspace for email via skynetiks technologies" alt="Nilkamal Serviced Skynetiks technologies serving business email solution an Official Partner of Google Workspace">
+				<img src="images/business-email-support-services.png" title="Affordable material handling solution by Nilkamal uses google workspace for email via skynetiks technologies" alt="Nilkamal Serviced Skynetiks technologies serving business email solution an Official Partner of Google Workspace">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/welspun-google-workspace-enterprise-email-solution-Noida-India.png" title="Welspun powers business communication with Google Workspace by Skynetiks Technologies in Noida India" alt="Welspun - a trusted Google cloud partner streamline secure business communication with Skynetiks technologies in Noida India">
+				<img src="images/best-business-email-solutions-india.png" title="Welspun powers business communication with Google Workspace by Skynetiks Technologies in Noida India" alt="Welspun - a trusted Google cloud partner streamline secure business communication with Skynetiks technologies in Noida India">
 			</div>
 
 			<div class="col-md-2 col-6">
-				<img src="images/roadside-assistance-and-extended-warranty-with-royal-enfield-partner-with-skynetiks-technology-Noida-India.jpg" title="Royal Enfield runs on google Workspace business email powered by Skynetiks Technologies in Noida India" alt="An Official Partner of Google Workspace solution by Skynetiks technologies services in Noida India">
+				<img src="images/google-workspace-domain-setup-support.jpg" title="Royal Enfield runs on google Workspace business email powered by Skynetiks Technologies in Noida India" alt="An Official Partner of Google Workspace solution by Skynetiks technologies services in Noida India">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/wholesale-grocers-in-marketing-merchandising-business-and-accounting-C-and-S-with-skynetiks-technologies-Noida-India.png" title="Wholesale grocers services C&S in Noida streamline communication with Google workspace by Skynetiks Technologies" alt="An Official Partner of Google Workspace C&S Wholesale Grocers Services in Noida India by Skynetiks technologies.">
+				<img src="images/google-workspace-email-recovery-services.png" title="Wholesale grocers services C&S in Noida streamline communication with Google workspace by Skynetiks Technologies" alt="An Official Partner of Google Workspace C&S Wholesale Grocers Services in Noida India by Skynetiks technologies.">
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-md-2 col-6">
-				<img src="images/Whirlpool-partner-with-Google-Workspace-solution-in-Noida-India-by-Skynetiks-technologies.jpg" title="Whirlpool uses SAP system, collaboration tools and data management by Google workspace in Noida India by Skynetiks technologies." alt="Whirlpool an Official Partner of Google Workspace Services by Skynetiks technologies in Noida India">
+				<img src="images/zoho-workplace-migration-services-india.jpg" title="Whirlpool uses SAP system, collaboration tools and data management by Google workspace in Noida India by Skynetiks technologies." alt="Whirlpool an Official Partner of Google Workspace Services by Skynetiks technologies in Noida India">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/DS-Group-in-Noida-India-served-by-Skynetiks-Technologies.png" title="Multibusiness corporation in India using Google Cloud services in Noida by Skynetiks Technologies" alt="Leading Indian fast moving consumer goods company DS group Services by Skynetiks technologies, an Official Partner of Google Workspace">
+				<img src="images/zoho-mail-setup-and-support.png" title="Multibusiness corporation in India using Google Cloud services in Noida by Skynetiks Technologies" alt="Leading Indian fast moving consumer goods company DS group Services by Skynetiks technologies, an Official Partner of Google Workspace">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/How-to-improve-your-credit-score-for-mortgage-pre-approval-in-Noida-India-by-Skynetiks-technologies.jpg" title="Mortgage pre approval for housing in Noida India by Skynetiks technologies" alt="Housing Services provided by Skynetiks Technologies in Noida India, an Official Partner of Google Workspace">
+				<img src="images/zoho-business-email-migration-help.jpg" title="Mortgage pre approval for housing in Noida India by Skynetiks technologies" alt="Housing Services provided by Skynetiks Technologies in Noida India, an Official Partner of Google Workspace">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/Google-workspace-collaboration-company-in-Noida-India-for-investment-videocon-partnered-along-with-skynetiks-technologies.jpg" title="Maximize your Google workspace investment by videocon in Noida India by Skynetiks technologies" alt="Google cloud website listing other google cloud partner - Videocon Services by Skynetiks technologies, an Official Partner of Google Workspace in Noida India">
+				<img src="images/zoho-workplace-admin-support.jpg" title="Maximize your Google workspace investment by videocon in Noida India by Skynetiks technologies" alt="Google cloud website listing other google cloud partner - Videocon Services by Skynetiks technologies, an Official Partner of Google Workspace in Noida India">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/Google-Workspace-Apparel-Industry-Noida-India-by-Skynetiks-Technologies.jpg" title="E-commerce platform for Indian fashion & lifestyle accessories in Noida India" alt="Jabong Services by Skynetiks technologies, an Official Partner of Google Workspace">
+				<img src="images/zoho-email-backup-and-recovery.jpg" title="E-commerce platform for Indian fashion & lifestyle accessories in Noida India" alt="Jabong Services by Skynetiks technologies, an Official Partner of Google Workspace">
 			</div>
 			<div class="col-md-2 col-6">
-				<img src="images/motarcycle-manufacturing-company-partner-with-skynetiks-technologies-in-Noida-India.jpg" title="Oldest yet reliable uses google workspace services by skynetiks technologies in Noida India " alt="Hero Honda Services by Skynetiks technologies, an Official Partner of Google Workspace in Noida India">
+				<img src="images/microsoft-365-email-migration-services.jpg" title="Oldest yet reliable uses google workspace services by skynetiks technologies in Noida India " alt="Hero Honda Services by Skynetiks technologies, an Official Partner of Google Workspace in Noida India">
 			</div>
 		</div>
 	</div>
@@ -635,7 +635,7 @@
 
 
 <!-- section -->
-<?php include_once "common/service_network.php" ?>
+<?php include_once "common/service_network.php"?>
 
 
 
@@ -643,7 +643,7 @@
 	<div class="row">
 		<div class="col-md-6 divider1">
 			<div class="text-center">
-				<img src="images/shristisoftechsearch.png" alt="Shristhi Softech is an authorized Google G Suite Reseller/Partner and website development company in India/Delhi/NOIDA">
+				<img src="images/migrate-email-to-office365.png" alt="Shristhi Softech is an authorized Google G Suite Reseller/Partner and website development company in India/Delhi/NOIDA">
 			</div>
 			<div class="start_work text-center">
 				<h5>Ready to power your business with Google Workspace today !</h5>
@@ -657,7 +657,7 @@
 		</div>
 		<div class="col-md-6 divider2">
 			<div class="text-center">
-				<img src="images/shristisoftechsetting.png" alt="shrishit softech solutions email solutions services provider in India, Delhi NCR, gurgaon, mumbai, Navi mumbai, haryana, bhopal">
+				<img src="images/outlook-business-email-migration.png" alt="shrishit softech solutions email solutions services provider in India, Delhi NCR, gurgaon, mumbai, Navi mumbai, haryana, bhopal">
 			</div>
 			<div class="start_work text-center">
 				<h5>Experience it yourself - Get a free demo account now !</h5>
@@ -722,4 +722,4 @@
 
 
 
-<?php include_once "common/footer.php" ?>
+<?php include_once "common/footer.php"?>

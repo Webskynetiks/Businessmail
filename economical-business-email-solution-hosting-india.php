@@ -93,7 +93,7 @@ include_once "common/header.php";
 
       <!-- Right: Image -->
       <div class="col-md-6 text-center">
-				<img src="images/How-can-I-backup-my-emails-before-initiating-the-migration-to-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="What DNS changes are required after migrating to ResellerClub Email - Skynetiks Technologies Google Workspace Partner." alt="Can I migrate only specific folders or emails within a date range - Skynetiks Technologies an official Google Workspace Partner."
+				<img src="images/rcmail-business-email-migration-services.jpg" title="What DNS changes are required after migrating to ResellerClub Email - Skynetiks Technologies Google Workspace Partner." alt="Can I migrate only specific folders or emails within a date range - Skynetiks Technologies an official Google Workspace Partner."
           
              style="max-width: 100%; height: auto; border-radius: 8px;">
       </div>

@@ -14,127 +14,128 @@
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" >
+        <img src="images/google-workspace-partner-india.png" >
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Rakesh Jain</h3>
-        <span class="post">Infocrats Web Solutions Pvt. Ltd.</span>
+        <h3 class="title"> Rakesh Jain</h3>
+        <span class="post">Infocrats Web Solutions </span>
       </div>
       <p class="description">
-        When I first contacted Skynetiks Technologies Pvt. Ltd. about my project, I was unsure about my idea. Their engineers transformed my rough vision into a polished reality with exceptional quality and dedication. I’m extremely pleased with their service and professionalism. I highly recommend them to anyone looking for reliable, skilled tech partners who genuinely care about client satisfaction and deliver on time.
+We have been a client of Skynetiks for over 10 years, and their services have been consistently flawless. We've never encountered any issues, and their support team is incredibly cooperative and helpful. We wish them all the best and thank them for being such a reliable partner.
       </p>
     </div>
 
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Biryani Blues">
+        <img src="images/microsoft-365-partner.png" alt="Biryani Blues">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Raymond Andrews</h3>
         <span class="post">Biryani Blues</span>
       </div>
       <p class="description">
-        Skynetiks Technologies Pvt. Ltd. impressed me with their professional approach, transparency, and dedicated teamwork. Their commitment to timelines and high-quality standards made my web project a smooth experience. The team was supportive, responsible, and communicative throughout the process. I highly recommend them for their sincere efforts and dependable tech solutions anywhere in the world.
+        The team at Skynetiks is supportive, responsible, and communicative. Their process-oriented approach, which includes a strict data compliance policy, creates hurdles at times. All sensitive information requests must be sent by email; else, they won't respond, a clear sign of professionalism. It shows they take data security seriously. I have already recommended them to others.
       </p>
     </div>
 
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Patanjali Agro">
+        <img src="images/zoho-workplace-reseller-india.png" alt="Patanjali Agro">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Vineet Gupta</h3>
+        <h3 class="title"> Vineet Gupta</h3>
         <span class="post">Patanjali Agro India Private Ltd</span>
       </div>
       <p class="description">
-        Skynetiks Technologies Pvt. Ltd., a certified Google Workspace partner, has handled several projects for us. Their SEO, SEM, and web development expertise has delivered measurable results. They consistently meet deadlines, stay on budget, and provide ongoing support. Their team is highly competent, professional, and dependable. We’re extremely satisfied and consider them a long-term partner.
+We have a dedicated IT team at Patanjali, and we've worked with Skynetiks to manage our cloud and other SaaS services. We've been fairly OK with their support and services. On a scale of 10, we'd give them a 9, as they are a dependable partner. We can fairly recommend them.
       </p>
     </div>
 
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Noida International Airport Services">
+        <img src="images/affordable-reseller-club-mail-provider.png" alt="Noida International Airport Services">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Mukesh Kakkar</h3>
-        <span class="post">Noida International Airport </span>
+        <span class="post">Noida International Airport
+ </span>
       </div>
       <p class="description">
-        It’s not just the services and post-sales support—Skynetiks Technologies Pvt. Ltd. also provides valuable technical knowledge when needed. Their personalized attention, proactive team, and transparent approach made them stand out. Their support throughout our journey has been fantastic. I strongly recommend them to any business seeking growth-focused IT services.
-      </p>
+I learned the hard way that dealing with freelancers can be a nightmare. Skynetiks might cost a bit more, but their 20+ year track record and the peace of mind that comes with it are priceless. I highly recommend looking at a company's longevity before you buy.       </p>
     </div>
 
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="UK India Education Council">
+        <img src="images/zoho-mail-cloud-migration-services.png" alt="UK India Education Council">
       </div>
       <div class="testimonial-profile">
         <h3 class="title">Rohit Verma</h3>
-        <span class="post">UK India Education Council</span>
+        <span class="post"> UK India Education Council</span>
       </div>
       <p class="description">
-        Dear Team Skynetiks Technologies Pvt. Ltd., thank you for your continuous support and cooperation. It’s been an excellent experience working with your team. We truly appreciate the hard work, patience, and professionalism that went into our project. Looking forward to more successful collaborations ahead with Skynetiks!
+What I really appreciate about Skynetiks is their excellent ticket-based support system. It gives me peace of mind knowing that every request is monitored and tracked, ensuring I get timely service and a satisfying resolution. The option to rate the person who helped me is a great feature. This kind of systematic, professional approach shows that their quality of service isn't dependent on one person but on a well-run system. It's a huge factor in why I trust them.
       </p>
     </div>
 
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt="Flyerchoice">
+        <img src="images/zoho-workplace-technical-support-services.png" alt="Flyerchoice">
       </div>
       <div class="testimonial-profile">
-        <h3 class="title">Ankit Agarwal </h3>
-        <span class="post">Flyerchoice</span>
+        <h3 class="title"> Ankit Agarwal</h3>
+        <span class="post"> Flyerchoice</span>
       </div>
       <p class="description">
-        Working with Skynetiks Technologies Pvt. Ltd. was a game-changer. They followed a clear roadmap, developed a plan, and delivered as promised. Their post-delivery support is efficient and reliable. It’s rare to find a team so dedicated and professional. I will continue using their services and recommend them highly for future-ready digital solutions.
+Skynetiks is not a service provider; they're our trusted consultant. Their genuine approach has helped us save money and optimize our costs for over a decade. It's a relationship built on trust, not sales. We've been with them for 10+ years, and that speaks for itself
       </p>
     </div>
 
     <!-- Testimonial Item -->
     <div class="testimonial">
       <div class="pic">
-        <img src="images/img-1.png" alt=" Anirudh Lal Photo">
+        <img src="images/zoho-mail-custom-domain-setup.png" alt=" Anirudh Lal Photo">
       </div>
       <div class="testimonial-profile">
         <h3 class="title"> Anirudh Lal</h3>
-        <span class="post">MD, Macsam Apparels Pvt. Ltd.</span>
-      </div>
-      <p class="description">
-        We chose Google Workspace based on cost, storage, and ease of use. With Skynetiks’ help, we implemented a system that saved time and cut expenses by over four times compared to alternatives. Their guidance, technical knowledge, and prompt support made deployment smooth and stress-free.
-      </p>
-    </div>
-
-    <!-- Testimonial Item -->
-    <div class="testimonial">
-      <div class="pic">
-        <img src="images/img-1.png" alt="Meyraki Global">
-      </div>
-      <div class="testimonial-profile">
-        <h3 class="title">  Puneet Aurora </h3>
-        <span class="post">Meyraki Global</span>
-      </div>
-      <p class="description">
-        At Celestial, innovation is key. Skynetiks Technologies helped us adopt Google Workspace tools like Calendar and Drive for better collaboration. Their onboarding process was efficient, and they supported us at every stage. We’ve seen improved productivity and smoother communication across our team since the switch.
-      </p>
-    </div>
-
-    <!-- Testimonial Item -->
-    <div class="testimonial">
-      <div class="pic">
-        <img src="images/img-1.png" alt=" Upohan Management Consultants Pvt. Ltd">
-      </div>
-      <div class="testimonial-profile">
-        <h3 class="title">  Advait Upohan </h3>
-        <span class="post"> Upohan Management  
+        <span class="post">MD, Lomash Slurrytech Limited
 </span>
       </div>
       <p class="description">
-        Moving to Google Workspace with Skynetiks was an excellent decision. The new email system is fast, stable, and easy to maintain. Employees love the simplicity and reliability. Skynetiks ensured everything went smoothly, with top-notch support. It's a solution that works for both IT and users.
+We wanted a file sharing system which was costing huge. They optimized the cost and plugged in some solution to save our cost and reduced it to 35%. The data was to shared with multiple stake holders securely for our Public Listing. Thanks we are a listed company today and a credit although little also goes to Team Skynetiks. 
+Thanks you
+      </p>
+    </div>
+
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/google-workspace-user-migration-support.png" alt="Meyraki Global">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title">.Puneet Aurora </h3>
+        <span class="post">Meyraki Global</span>
+      </div>
+      <p class="description">
+I believe in working with a technology partner, not just a service provider. That's exactly what we get with Skynetiks. They don't just wait for us to ask for something; they proactively act as an extended arm of our tech team, offering suggestions for process improvements. Wishing them all the best!
+      </p>
+    </div>
+
+    <!-- Testimonial Item -->
+    <div class="testimonial">
+      <div class="pic">
+        <img src="images/google-workspace-dns-and-domain-setup.png" alt=" Upohan Management Consultants Pvt. Ltd">
+      </div>
+      <div class="testimonial-profile">
+        <h3 class="title"> Advait Upohan  </h3>
+        <span class="post"> Upohan Management</span>
+      </div>
+      <p class="description">
+We don't have a big IT team, but we don't need one because Skynetiks is our IT team. They take complete ownership, ensuring none of our services expire by sending automated reminders to prevent any disruption. On a few occasions, they've even paid the principals themselves when we were traveling and couldn't. This level of dedication is why we trust them completely. Thank you for all your support
       </p>
     </div>
 

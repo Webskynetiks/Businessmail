@@ -93,6 +93,10 @@ include_once "common/header.php";
     color: #555;
     text-align: center;
   }
+
+  section.contact-form {
+    padding: 0px 0px;
+}
 </style>
 
 
@@ -100,8 +104,6 @@ include_once "common/header.php";
 <!-- Hero Image Section -->
 <section>
   <img src="images/free-google-workspace-microsoft-365-zoho-mail-signup.jpg"
-    title="The most economical & affordable email solution by Skynetiks Technologies in Noida India"
-    alt="what could my team achieve with the Google workspace set up partner at skynetiks technologies in Noida India"
     style="width:100%; height:auto;">
 </section>
 
@@ -127,7 +129,7 @@ include_once "common/header.php";
 <!-- Contact Form Section -->
 <section class="contact-form">
   <div class="sec-title centered">
-    <h2>Product <span>Sign Up</span></h2>
+    <h2 style="">Product <span>Sign Up</span></h2>
   </div>
 </section>
   <?php include_once "common/contact-query-form.php" ?>

@@ -20,7 +20,7 @@ include_once "common/header.php";
 </style>
 
 
-<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/alternative-google-workspace.jpg);background-repeat: no-repeat;
+<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/custom-mail-hosting-services-india.jpg);background-repeat: no-repeat;
     background-size: 100% 100%;">
 	<div class="container">
 		<div class="text-center city_banner">
@@ -69,7 +69,7 @@ include_once "common/header.php";
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/what-is-custom-email-and-how-it-is-different-from-free-email-providers-skynetiks-technologies-partner-with-Google-Workspace-in-Noida-India.jpg" title="Is spam filtering and virus protection included in custom mail services by Skynetiks Technologies partner with Google Workspace." alt="Can I create a custom email address with my existing domain with the help of Skynetiks technologies a Google Workspace partner in Noida, India">
+				<img src="images/custom-mail-setup-and-support.jpg" title="Is spam filtering and virus protection included in custom mail services by Skynetiks Technologies partner with Google Workspace." alt="Can I create a custom email address with my existing domain with the help of Skynetiks technologies a Google Workspace partner in Noida, India">
 			</div>
 		</div>
 	</div>

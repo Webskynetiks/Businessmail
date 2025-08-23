@@ -24,7 +24,7 @@ include_once "common/header.php";
 </style>
 
 
-<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/zimbra_background.png);background-repeat: no-repeat;
+<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/zimbra-mail-migration-services-india.png);background-repeat: no-repeat;
     background-size: 100% 100%;">
 	<div class="container">
 		<div class="text-center city_banner">
@@ -75,7 +75,7 @@ include_once "common/header.php";
 
 			</div>
 			<div class="col-md-4">
-				<img src="images/How-can-I-retain-the-same-email-addresses-after-migrating-to-zimbra-from-Google-Workspace-partner-with-Skynetiks-Technologies-in-Noida-India.png" title="What is the process for setting up Zimbra on a new domain from Google Workspace partner with Skynetiks Technologies" alt="How do I enhance the security of my Zimbra mail server with skynetiks technologies an official partner of Google Workspace in NOIDA, India.">
+				<img src="images/zimbra-business-email-setup-support.png" title="What is the process for setting up Zimbra on a new domain from Google Workspace partner with Skynetiks Technologies" alt="How do I enhance the security of my Zimbra mail server with skynetiks technologies an official partner of Google Workspace in NOIDA, India.">
 			</div>
 		</div>
 	</div>
@@ -100,7 +100,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/zi1.jpg" style="width: 100%">
+							<img src="images/zimbra-mail-hosting-provider-india.jpg" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -117,7 +117,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/zi2.png" style="width: 100%">
+							<img src="images/zimbra-admin-console-support-services.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -134,7 +134,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/zi3.png" style="width: 100%">
+							<img src="images/zimbra-server-migration-and-deployment.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -151,7 +151,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/zi4.jpg" style="width: 100%">
+							<img src="images/zimbra-cloud-email-migration-services.jpg" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">

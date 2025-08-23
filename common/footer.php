@@ -10,7 +10,7 @@
 									<div class="footer-column col-lg-5 col-md-6 col-sm-12">
 										<div class="footer-widget logo-widget">
 											<div class="logo">
-												<a href="https://skynetiks.com/" target="_blank"><img src="images/skynetiks-logo-resized.webp" alt="Skynetiks logo"></a>
+												<a href="https://skynetiks.com/" target="_blank"><img src="images/google-workspace-admin-support-services.webp" alt="Skynetiks logo"></a>
 											</div>
 											<div class="text"><a href="https://skynetiks.com/" target="_blank">Skynetiks</a> A renowned Google Workspace reseller with over two decades of experience, serving more than 5000 clients. Skynetiks is a name synonymous with reliability and dependability. Our expertise lies in proficiently setting up, deploying, and seamlessly migrating<a href=""> Google Workspace</a> tailored to your requirements.
 

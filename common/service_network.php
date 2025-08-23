@@ -53,7 +53,7 @@
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-aurangabad-india.php">Aurangabad</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-azamgarh-india.php">Azamgarh</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bangalore-india.php">Bangalore</a> |
-          <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-banka-india.php">Bankura</a> |
+          <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bankura-india.php">Bankura</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bareilly-india.php">Bareilly</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bargarh-india.php">Bargarh</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bardhman-india.php">Bardhman</a> |
@@ -62,7 +62,6 @@
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhatinda-india.php">Bhatinda</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhagalpur-india.php">Bhagalpur</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhavnagar-india.php">Bhavnagar</a> |
-          <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhilai-india.php">Bhilai</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhiwani-india.php">Bhiwani</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhopal-india.php">Bhopal</a> |
           <a class="cities-anchor" href="google-reseller-workspace-technical-support-service-renewal-provider-business-partner-gsuite-bhubaneshwar-india.php">Bhubaneshwar</a> |

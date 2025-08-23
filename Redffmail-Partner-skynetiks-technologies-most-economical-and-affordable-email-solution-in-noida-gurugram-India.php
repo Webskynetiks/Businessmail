@@ -29,7 +29,7 @@ include_once "common/header.php";
 </style>
 
 
-<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/rediff-background.png.png);background-repeat: no-repeat;
+<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/rediffmail-business-email-migration.png);background-repeat: no-repeat;
     background-size: 100% 100%;">
     <div class="container">
         <div class="text-center city_banner">
@@ -76,7 +76,7 @@ include_once "common/header.php";
                 </div>
             </div>
             <div class="col-md-4">
-                <img src="images/how-do-I-setup-rediff-mail-pro-with-my-existing-domain-skynetiks-technologies-an-official-Google-Workspace-partner-in-Noida-India.png" title="Is domain registration included in the Rediffmail Pro email hosting package - Skynetiks Technologies is a complete solution." alt="How do I buy or renew a Rediffmail Pro subscription online with skynetiks technologies an official Google Workspace partner in Noida, India">
+                <img src="images/rediffmail-business-email-services-india.png" title="Is domain registration included in the Rediffmail Pro email hosting package - Skynetiks Technologies is a complete solution." alt="How do I buy or renew a Rediffmail Pro subscription online with skynetiks technologies an official Google Workspace partner in Noida, India">
             </div>
         </div>
     </div>

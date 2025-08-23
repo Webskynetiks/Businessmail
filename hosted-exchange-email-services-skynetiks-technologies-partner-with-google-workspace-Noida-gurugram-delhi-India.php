@@ -21,7 +21,7 @@ include_once "common/header.php";
 </style>
 
 
-<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/hosted-exchange.jpg);background-repeat: no-repeat;
+<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)),url(images/hosted-exchange-email-services-india.jpg);background-repeat: no-repeat;
     background-size: 100% 100%;">
 	<div class="container">
 		<div class="text-center city_banner">
@@ -68,7 +68,7 @@ include_once "common/header.php";
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/what-payment-options-are-available-for-hosted-exchange-services-by-skynetiks-technologies-an-official-Google-workspace-partner-in-Noida-India.png" title="How can I contact technical support for Hosted Exchange issues in Noida, India - Skynetiks Technologies." alt="What is the maximum email attachment size in Hosted Exchange - Skynetiks Technologies partner with Google Workspace in Noida">
+				<img src="images/microsoft-hosted-exchange-business-email.png" title="How can I contact technical support for Hosted Exchange issues in Noida, India - Skynetiks Technologies." alt="What is the maximum email attachment size in Hosted Exchange - Skynetiks Technologies partner with Google Workspace in Noida">
 			</div>
 		</div>
 	</div>

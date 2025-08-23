@@ -20,8 +20,10 @@ include_once "common/header.php";
   }
 </style>
 
+
+
 <!-- Hero Section -->
-<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)), url(images/faq.jpg); background-repeat: no-repeat; background-size: 100% 100%;">
+<section class="city" style="background:linear-gradient(rgb(33 109 161 / 81%), rgb(1 87 146 / 33%)), url(images/migrate-email-to-google-workspace-india.jpg); background-repeat: no-repeat; background-size: 100% 100%;">
   <div class="container">
     <div class="text-center city_banner">
       <h4>Frequently Asked Questions</h4>
@@ -35,7 +37,7 @@ include_once "common/header.php";
 </section>
 
 <!-- Intro Section -->
-<section class="about-page-section">
+<!-- <section class="about-page-section">
   <div class="sec-title centered">
     <h2>Frequently Asked <span>Questions</span></h2>
   </div>
@@ -48,7 +50,7 @@ For most of the users, the transition to Google workspace(formerly known as G Su
       Here, we gathered some of the most frequently asked questions on Google Workspace and answered them for you.
     </p>
   </div>
-</section>
+</section> -->
 
 <!-- FAQ Accordion Section -->
 <section class="faq">

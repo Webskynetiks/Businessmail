@@ -76,44 +76,45 @@
 
     <div class="col-md-3">
       <div class="text-center logo-image-slider">
-        <img src="images/skynetiks-logo-resized.webp" alt="sign up for google for workspace free trial" style="width: 100%; margin-bottom: 10px; background: #d2ecfa; padding: 22px;">
+        <img src="images/google-workspace-support-partner-india.webp" alt="sign up for google for workspace free trial" style="width: 100%; margin-bottom: 10px; background: #d2ecfa; padding: 22px;">
         <h5 style="color: red;font-weight: 700;">
-          <img src="images/Gsuite-logo.png" alt="Manage Free Account GSuite Google Workspace">
+          <img src="images/google-workspace-technical-support-india.png" alt="Manage Free Account GSuite Google Workspace">
         </h5>
         <h5>
           <marquee>Authorize Reseller partner</marquee>
         </h5>
         <div class="outer-container text-center">
-          <div class="carousel-outer">
-            <!--Sponsors Slider-->
-            <ul class="sponsor-carousel owl-carousel owl-theme">
-              <li>
-                <div class="text-center"><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php"><img src="images/googleworkspace.png" alt="Google Workspace, formerly known as G Suite"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="zoho-workplace-best-google-workspace-alternative-india.php"><img src="images/How-do-I-configure-zoho-mail-on-outlook-or-thunderbird-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Delhi-Noida-Gurgaon.png" alt="Zoho Mail is a secure and reliable business email solution"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="economical-business-email-solution-hosting-india.php"><img src="images/how-much-email-storage-does-reseller-club-business-email-provide-skynetiks-technologies-partner-company-with-google-workspace-in-India-serving-Delhi-Noida.png" alt="ResellerClub's Business Email Services"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><img src="images/zimbramail.png" alt="Zimbra Collaboration Suite (ZCS) is an enterprise-grade mailing solution"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="google-workspace-data-migration-microsoft365-india.php"><img src="images/how-do-I-migrate-emails-to-microsoft-365-from-gmail-or-cpanel-skynetiks-technologies-an-official-google-workspace-partner-in-India-serving-Noida-Delhi.png" alt="Microsoft 365 is our cloud-powered productivity platform"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><img src="images/hosted-exchange-login-errors-something-went-wrong-how-to-resolve-skynetiks-technologies-partner-with-google-workspace-in-India-serving-Noida-Delhi-Gurgaon.png" alt="Hosted Exchange is a version of Microsoft Exchange Server "></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><img src="images/rd1.png" alt="Rediffmail Pro is a comprehensive business email solution"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="custom-domain-based-email-for-organiztion-brand-identity.php"><img src="images/google-workspace-alternative-india.png" alt="Custom email domain is the name of your brand "></a></div>
-              </li>
-            </ul>
+         <div class="carousel-outer">
+              <!--Sponsors Slider-->
+              <ul class="sponsor-carousel owl-carousel owl-theme">
+                <li>
+                  <div class="text-center"><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php "><img src="images/google-workspace-data-migration-services.png" alt="Google Workspace, formerly known as G Suite"></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="zoho-workplace-best-google-workspace-alternative-india.php"><img src="images/zoho-workplace-secure-email-hosting.png" alt="Zoho Mail is a secure and reliable business email solution"></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="economical-business-email-solution-hosting-india.php"><img src="images/rcmail-domain-setup-and-configuration.png" alt="ResellerClub's Business Email Services"></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><img src="images/zimbra-mail-user-migration-services.png" alt="Zimbra Collaboration Suite (ZCS) is an enterprise-grade mailing solution"></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="google-workspace-data-migration-microsoft365-india.php"><img src="images/microsoft-365-to-zimbra-migration.png" alt="Microsoft 365 is our cloud-powered productivity platform"></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><img src="images/hosted-exchange-admin-support-services.png" alt="Hosted Exchange is a version of Microsoft Exchange Server "></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><img src="images/rediffmail-to-custom-mail-migration.png" alt="Rediffmail Pro is a comprehensive business email solution"></a></div>
+                </li>
+                <li>
+                  <div class="text-center"><a href="custom-domain-based-email-for-organiztion-brand-identity.php"><img src="images/google-workspace-alternative-india.png" alt="Custom email domain is the name of your brand "></a></div>
+                </li>
+              </ul>
+            </div>
+            <div class="phone"><a href="tel:+91-9212378780"> <i class="fa fa-phone"></i><span> +91-9212378780</span></a></div>
           </div>
-          <div class="phone"><a href="tel:+91-9212378780"> <i class="fa fa-phone"></i><span> +91 92 123 78780</span></a></div>
         </div>
       </div>
     </div>

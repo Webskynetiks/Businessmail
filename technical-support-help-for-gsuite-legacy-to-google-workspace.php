@@ -56,7 +56,7 @@ include_once "common/header.php";
       </div>
 
       <div class="col-md-4 pas">
-        <img src="images/Google-Workspace-Data-Migration-to-Zoho-Mail-Microsoft-365-and-Zimbra-Mail-Solution.jpg" title="Why is email migration important when switching platforms in India preserve business continuity with Skynetiks technologies" alt="Why we need to migrate data from Microsoft 365 to Google Workspace" style="width:100%;height: auto;" alt="Stop using Google Workspace
+        <img src="images/google-workspace-support-noida.jpg" title="Why is email migration important when switching platforms in India preserve business continuity with Skynetiks technologies" alt="Why we need to migrate data from Microsoft 365 to Google Workspace" style="width:100%;height: auto;" alt="Stop using Google Workspace
        Legacy Account">
       </div>
     </div>

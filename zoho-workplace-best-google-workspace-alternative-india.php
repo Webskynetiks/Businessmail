@@ -432,7 +432,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z1.png" style="width: 100%">
+							<img src="images/zoho-mail-migration-services-india.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -448,7 +448,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z2.png" style="width: 100%">
+							<img src="images/migrate-email-to-zoho-workplace.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -464,7 +464,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z3.jpg" style="width: 100%">
+							<img src="images/zoho-workplace-email-setup-support.jpg" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -480,7 +480,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z4.png" style="width: 100%">
+							<img src="images/zoho-mail-business-email-migration.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -496,7 +496,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z5.jpg" style="width: 100%">
+							<img src="images/zoho-mail-domain-setup-services.jpg" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -512,7 +512,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z6.png" style="width: 100%">
+							<img src="images/zoho-mail-admin-console-support.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -528,7 +528,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z7.png" style="width: 100%">
+							<img src="images/zoho-workplace-migration-from-gsuite.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -544,7 +544,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z8.png" style="width: 100%">
+							<img src="images/zoho-mail-migration-from-gmail.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
@@ -560,7 +560,7 @@ include_once "common/header.php";
 				<div class="benifit_list">
 					<div class="row">
 						<div class="col-md-2 col-3">
-							<img src="images/z9.png" style="width: 100%">
+							<img src="images/zoho-mail-imap-pop-migration-services.png" style="width: 100%">
 						</div>
 						<div class="col-md-10 col-9">
 							<div class="content-benifit">
