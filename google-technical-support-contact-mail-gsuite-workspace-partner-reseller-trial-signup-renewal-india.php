@@ -169,37 +169,6 @@ include_once "common/header.php";
 
 
 
-<script>
-  document.getElementById("callbackForm").addEventListener("submit", function(e) {
-    e.preventDefault();
 
-
-    const form = e.target;
-    const name = form.name.value;
-    const email = form.email.value;
-    const phone = form.phone.value;
-    const message = form.message.value;
-
-
-    Email.send({
-      SecureToken: "YOUR_SECURE_TOKEN_HERE",
-      To: "you@example.com", // Change to your receiving email
-      From: "you@example.com",
-      Subject: "New Callback Form Submission",
-      Body: `
-        <h3>Callback Request</h3>
-        <p><strong>Name:</strong> ${name}</p>
-        <p><strong>Email:</strong> ${email}</p>
-        <p><strong>Phone:</strong> ${phone}</p>
-        <p><strong>Message:</strong> ${message}</p>
-      `
-    }).then(function(response) {
-      alert("Mail sent successfully!");
-      form.reset();
-    }).catch(function(error) {
-      alert("Error sending mail: " + error);
-    });
-  });
-</script>
 
 <?php include_once "common/footer.php" ?>

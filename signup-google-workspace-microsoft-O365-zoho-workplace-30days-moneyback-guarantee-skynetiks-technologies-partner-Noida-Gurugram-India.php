@@ -134,51 +134,6 @@ include_once "common/header.php";
 </section>
   <?php include_once "common/contact-query-form.php" ?>
 
-<!-- SMTP.js Script -->
-<script src="https://smtpjs.com/v3/smtp.js"></script>
 
-<!-- Form Submission Script -->
-<script>
-  document.getElementById("enquiryForm").addEventListener("submit", function(e) {
-    e.preventDefault();
-
-    const formData = {
-      name: document.getElementById("name").value,
-      email: document.getElementById("email").value,
-      phone: document.getElementById("phone").value,
-      website: document.getElementById("website").value,
-      message: document.getElementById("message").value,
-      pageUrl: window.location.href
-    };
-
-    Email.send({
-      Host: "smtp.elasticemail.com",
-      Port: 2525,
-      Username: "sales@skynetiks.com",
-      Password: "A67B232604CAF3ECE4584F9DE30A17054104", // ⚠️ Public, not secure
-      To: "sales@skynetiks.com",
-      From: "sales@skynetiks.com",
-      Subject: `New Enquiry from ${formData.name}`,
-      Body: `
-                <b>Name:</b> ${formData.name}<br/>
-                <b>Email:</b> ${formData.email}<br/>
-                <b>Phone:</b> ${formData.phone}<br/>
-                <b>Website:</b> ${formData.website}<br/>
-                <b>Message:</b><br/>${formData.message}<br/><br/>
-                <h4>Page URL:</h4><a href="${formData.pageUrl}" target="_blank">${formData.pageUrl}</a>
-            `
-    }).then(message => {
-      if (message === "OK") {
-        alert("Your enquiry has been sent successfully!");
-        document.getElementById("enquiryForm").reset();
-      } else {
-        alert("Failed to send your enquiry. Please try again.");
-      }
-    }).catch(error => {
-      console.error("Email sending error:", error);
-      alert("Something went wrong while sending the email.");
-    });
-  });
-</script>
 
 <?php include_once "common/footer.php" ?>
