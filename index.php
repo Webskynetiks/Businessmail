@@ -263,7 +263,7 @@
 						<h2 style="font-weight: normal;">About Us</h2>
 					</div>
 					<p>
-						<strong>Skynetiks Technologies</strong> is a trusted <strong>Google Workspace reseller in India</strong>, delivering secure <strong>business email</strong> and <strong>cloud collaboration solutions</strong> for over 22 years.
+						<strong>Skynetiks Technologies</strong> is a trusted <strong>Google Workspace reseller in India</strong>, delivering secure <strong>business email services</strong> and <strong>cloud collaboration solutions</strong> for over 22 years.
 						With <strong>5,000+ satisfied clients</strong>, we are known for reliability, performance, and expert technical support.
 						Our services include <strong>Google Workspace</strong>, <strong>Microsoft 365</strong>, <strong>Zoho Mail</strong>, and <strong>custom domain-based email hosting</strong>.
 						We provide seamless setup, expert-led email migration, and <strong>24x7 technical assistance</strong> to ensure your business communication runs smoothly and securely.

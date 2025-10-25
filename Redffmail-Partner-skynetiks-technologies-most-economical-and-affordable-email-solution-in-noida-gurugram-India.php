@@ -66,10 +66,11 @@ include_once "common/header.php";
             <div class="col-md-8">
 
                 <div class="text-content">
-                    <p>Rediffmail Pro is a reliable and affordable business email hosting solution in India, tailored to meet the communication needs of startups and small to mid-sized enterprises. Each email account comes with 1GB of secure storage, ensuring smooth email communication across teams. Rediffmail Pro supports seamless collaboration through built-in features like real-time chat, webmail access, and multiple user management — making it a smart choice for businesses looking for secure, fast, and efficient email services.
+                    <p>Rediffmail Pro is a reliable and affordable business email hosting solution in India, tailored to meet the communication needs of startups and small to mid-sized enterprises. As an official Rediff email partner, Skynetiks Technologies helps businesses set up and manage their Rediffmail Pro accounts with ease and security. Each email account comes with 1GB of secure storage, ensuring smooth and uninterrupted communication across teams.
                     </p>
+                    <p>With Rediffmail Pro, organizations can enjoy seamless collaboration through advanced features like real-time chat, webmail access, and multi-user management — making it a smart choice for businesses seeking secure, fast, and efficient email services.</p>
                     <p>
-                        With Rediffmail’s professional email hosting, businesses can use their custom domain for email IDs, boosting credibility and brand visibility. The platform ensures secure access, fast delivery, and high uptime, backed by Rediff’s robust email infrastructure. Whether you’re sending internal updates, managing customer support, or sharing files, Rediffmail Pro offers a stable, cost-effective, and scalable solution for modern business communication.
+                        By choosing Rediffmail’s professional email hosting through a trusted Rediff email partner, businesses can create custom domain email IDs that boost brand credibility and online visibility. The platform offers high uptime, fast delivery, and secure access, backed by Rediff’s robust email infrastructure. Whether you’re handling customer support, sharing files, or coordinating internal updates, Rediffmail Pro delivers a scalable and cost-effective email solution designed for modern business communication.
                     </p>
 
                   

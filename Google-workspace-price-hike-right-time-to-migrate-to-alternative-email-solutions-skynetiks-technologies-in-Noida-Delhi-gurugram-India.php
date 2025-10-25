@@ -29,7 +29,7 @@ include_once "common/header.php";
     </p> -->
 
     <p>
-      Switching email providers? We offer secure, end-to-end mail migration services from any platform—Gmail, Rediffmail, cPanel, Zimbra, Yahoo, or others—to Google Workspace, Microsoft 365, Zoho Mail, and more. Our migration process ensures 100% data integrity, zero downtime, and full email, contact, and calendar backup.
+      Switching email providers? We offer secure, end-to-end email data migration services from any platform—Gmail, Rediffmail, cPanel, Zimbra, Yahoo, or others—to Google Workspace, Microsoft 365, Zoho Mail, and more. Our migration process ensures 100% data integrity, zero downtime, and full email, contact, and calendar backup.
     </p>
 
     <h2 style="font-size: 24px; font-weight: 600;  color:#243559">

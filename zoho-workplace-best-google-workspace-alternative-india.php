@@ -1,7 +1,7 @@
 <?php
-$meta_title = "Zoho Mail for Business | Best Google Workspace Alternative India";
+$meta_title = "Zoho Mail cheapest email hosting for Business | Best Google Workspace Alternative India";
 $meta_description = "Get Zoho Mail for business – a secure, ad-free alternative to Google Workspace. Expert setup, migration & support by Skynetiks Technologies India.";
-$meta_keywords = "Zoho Mail India, Zoho Business Email, Google Workspace Alternative, Email Hosting India, Zoho Mail Migration, Skynetiks Technologies";
+$meta_keywords = "Zoho Mail India, zoho workplace partner Zoho Business Email, zoho crm partner ,zoho authorized partner , Google Workspace Alternative, Email Hosting India, Zoho Mail Migration, Skynetiks Technologies";
 $meta_canonical = "https://businessmail.co.in/zoho-workplace-best-google-workspace-alternative-india.php";
 $meta_robots = "index, follow";
 include_once "common/header.php";
@@ -36,7 +36,6 @@ include_once "common/header.php";
 	<div class="container">
 		<div class="text-center city_banner">
 			<h4>Professional Business Email with Zoho Mail – Simple, Secure & Scalable</h4>
-			<!-- <p class="reasons">It's Affordable, Privacy focused, and Packed with Business-Friendly Features.</p> -->
 			<div class="btns-box">
         <a href="#" class="theme-btn btn-style-one">
           <span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span>
@@ -281,7 +280,7 @@ include_once "common/header.php";
 <section class="pricing_table">
 	<div class="container">
 		<div class="sec-title centered">
-			<h2>Zoho Mail <span>Pricing and Plans</span> </h2>
+			<h2>Zoho Workplace Pricing  and Plans </h2>
 		</div>
 		<div class="row">
 			<div class="col-md-6">

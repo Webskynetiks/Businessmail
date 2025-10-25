@@ -116,24 +116,29 @@
     <!-- Form Section -->
     <div class="col-lg-6 col-md-12 mb-4">
       <h2 class="section-title">Become a Partner</h2>
-<form id="enquiryForm">
-            <div class="form-group">
-          <label for="name"><i class="fas fa-user"></i> Full Name *</label>
-          <input type="text" class="form-control" id="name" placeholder="Enter your full name" required>
+      <form id="partnerForm">
+        <div class="form-group">
+          <label><i class="fas fa-user"></i> Full Name *</label>
+          <input type="text" class="form-control" name="name" placeholder="Enter your full name" required>
         </div>
         <div class="form-group">
-          <label for="email"><i class="fas fa-envelope"></i> Email Address *</label>
-          <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+          <label><i class="fas fa-envelope"></i> Email Address *</label>
+          <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
         </div>
         <div class="form-group">
-          <label for="phone"><i class="fas fa-phone"></i> Phone Number *</label>
-          <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number" required>
+          <label><i class="fas fa-phone"></i> Phone Number *</label>
+          <input type="tel" class="form-control" name="phone" placeholder="Enter your phone number" required>
         </div>
         <div class="form-group">
-          <label for="message"><i class="fas fa-comment-dots"></i> Your Message *</label>
-          <textarea class="form-control" id="message" rows="4" placeholder="Tell us more about your business" required></textarea>
+          <label><i class="fas fa-comment-dots"></i> Your Message *</label>
+          <textarea class="form-control" name="message" rows="4" placeholder="Tell us more about your business" required></textarea>
         </div>
         <button type="submit" class="btn submit-btn"><i class="fas fa-paper-plane"></i> Submit</button>
+
+        <!-- Success Alert -->
+        <div class="alert alert-success" role="alert" style="display:none; margin-top:15px;">
+          Thank you! Your request has been received.
+        </div>
       </form>
     </div>
 
@@ -160,50 +165,44 @@
 </div>
 
 
-<!-- SMTP.js Script -->
-<script src="https://smtpjs.com/v3/smtp.js"></script>
 
-<!-- Form Submission Script -->
 <script>
-  document.getElementById("enquiryForm").addEventListener("submit", function (e) {
-    e.preventDefault();
+document.getElementById('enquiryForm').addEventListener('submit', async function(e) {
+    e.preventDefault(); // prevent page reload
 
+    // Collect form data
     const formData = {
-      name: document.getElementById("name").value.trim(),
-      email: document.getElementById("email").value.trim(),
-      phone: document.getElementById("phone").value.trim(),
-      message: document.getElementById("message").value.trim(),
-      pageUrl: window.location.href
+        name: document.getElementById('name2').value,
+        email: document.getElementById('email2').value,
+        phone: document.getElementById('phone2').value,
+        package: document.getElementById('package').value,
+        message: document.getElementById('message2').value,
+		pageUrl: window.location.href // <-- captures full page URL
+	
     };
 
-    Email.send({
-      Host: "smtp.elasticemail.com",
-      Port: 2525,
-      Username: "sales@skynetiks.com",
-      Password: "A67B232604CAF3ECE4584F9DE30A17054104",
-      To: "sales@skynetiks.com",
-      From: "sales@skynetiks.com",
-      Subject: `New Partner Enquiry from ${formData.name}`,
-      Body: `
-        <h3>New Partner Request</h3>
-        <b>Name:</b> ${formData.name}<br/>
-        <b>Email:</b> ${formData.email}<br/>
-        <b>Phone:</b> ${formData.phone}<br/>
-        <b>Message:</b><br/>${formData.message}<br/><br/>
-        <b>Page URL:</b> <a href="${formData.pageUrl}" target="_blank">${formData.pageUrl}</a>
-      `
-    }).then(message => {
-      if (message === "OK") {
-        alert("✅ Your enquiry has been sent successfully!");
-        document.getElementById("enquiryForm").reset();
-      } else {
-        alert("❌ Failed to send your enquiry. Please try again.");
-      }
-    }).catch(error => {
-      console.error("SMTP.js error:", error);
-      alert("⚠️ Something went wrong while sending your message.");
-    });
-  });
+    try {
+        const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(formData)
+        });
+
+        const result = await response.json();
+
+        if(response.ok){
+            alert('Your message has been sent successfully!');
+            document.getElementById('enquiryForm').reset(); // clear form
+        } else {
+            alert('Error sending message: ' + result.error);
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Something went wrong. Please try again later.');
+    }
+});
 </script>
 
 <?php include_once "common/footer.php" ?>

@@ -133,5 +133,24 @@
       </div>
     </div>
 
+
+ 
+
+
+      <!-- FAQ 8 -->
+    <div class="card" style="border: none; border-top: 1px solid #ccc; border-radius: 0;">
+      <div class="card-header" style="background-color: white; padding: 0;">
+        <h5 class="mb-0">
+          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq9" style=" text-decoration: none; width: 100%; text-align: left; padding: 15px;">
+         Why did my Google payment credit card fail?
+          </button>
+        </h5>
+      </div>
+      <div id="faq9" class="collapse" data-parent="#faqAccordion">
+        <div class="card-body" style="padding: 15px; color: #444;">
+Google payment credit card failures can happen due to several reasons: expired card details, insufficient credit limit, incorrect CVV or billing address, international transaction restrictions by your bank, card issuer declining the payment, exceeding daily transaction limits, or security flags triggered by fraud detection systems. To resolve this, verify your card details in Google Admin Console > Billing > Payment Methods, ensure your card supports international payments (Google charges from outside India), contact your bank to authorize the transaction, or try an alternative payment method like net banking or another credit/debit card. Skynetiks Technologies can help you set up alternative billing methods and ensure uninterrupted Google Workspace services.        </div>
+      </div>
+    </div>
+
   </div>
 </div>
