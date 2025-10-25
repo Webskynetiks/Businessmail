@@ -2,6 +2,8 @@
 $meta_title = "Google Workspace Partner in Nagaur | Buy Gmail for Business India";
 $meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Nagaur, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
 $meta_keywords = "Google Workspace Nagaur, Gmail for Business Nagaur, Buy Google Workspace India, Google Workspace Reseller Nagaur, Business Email Hosting Nagaur, Certified Google Partner Nagaur";
+// Add canonical tag pointing to main page
+$canonical_url = "https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php";
 include_once "common/header.php";
 ?>
 

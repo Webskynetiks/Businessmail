@@ -5,6 +5,8 @@ $meta_keywords = "Ask for Email Support, Google Workspace Help, Zoho Mail Assist
 $meta_canonical = "https://businessmail.co.in/24X7-gsuite-google-workspace-renewal-customer-support-service-skynetiks-technologies-Noida-Delhi-India.php";
 $meta_robots = "index, follow";
 
+// Add canonical tag pointing to main page
+$canonical_url = "https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php";
 include_once "common/header.php";
 ?>
 <style type="text/css">

@@ -2,6 +2,8 @@
 $meta_title = "Google Workspace Partner in Kochi | Buy Gmail for Business India";
 $meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Kochi, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
 $meta_keywords = "Google Workspace Kochi, Gmail for Business Kochi, Buy Google Workspace India, Google Workspace Reseller Kochi, Business Email Hosting Kochi, Certified Google Partner Kochi";
+// Add canonical tag pointing to main page
+$canonical_url = "https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php";
 include_once "common/header.php";
 ?>
 

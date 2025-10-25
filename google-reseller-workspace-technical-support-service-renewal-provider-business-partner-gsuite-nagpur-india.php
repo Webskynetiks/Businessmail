@@ -2,6 +2,8 @@
 $meta_title = "Google Workspace Partner in Nagpur | Buy Gmail for Business India";
 $meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Nagpur, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
 $meta_keywords = "Google Workspace Nagpur, Gmail for Business Nagpur, Buy Google Workspace India, Google Workspace Reseller Nagpur, Business Email Hosting Nagpur, Certified Google Partner Nagpur";
+// Add canonical tag pointing to main page
+$canonical_url = "https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php";
 include_once "common/header.php";
 ?>
 

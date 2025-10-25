@@ -2,6 +2,8 @@
 $meta_title = "Google Workspace Partner in  Kapurthala | Buy Gmail for Business India";
 $meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in  Kapurthala, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
 $meta_keywords = "Google Workspace  Kapurthala, Gmail for Business  Kapurthala, Buy Google Workspace India, Google Workspace Reseller  Kapurthala, Business Email Hosting  Kapurthala, Certified Google Partner  Kapurthala";
+// Add canonical tag pointing to main page
+$canonical_url = "https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php";
 include_once "common/header.php";
 ?>
 

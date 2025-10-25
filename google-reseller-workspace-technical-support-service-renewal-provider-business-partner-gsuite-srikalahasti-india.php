@@ -2,6 +2,8 @@
 $meta_title = "Google Workspace Partner in Srikalahasti | Buy Gmail for Business India";
 $meta_description = "Skynetiks Technologies is a certified Google Workspace Partner in Srikalahasti, India. Buy Gmail for Business with expert setup, free migration & 24/7 support.";
 $meta_keywords = "Google Workspace Srikalahasti, Gmail for Business Srikalahasti, Buy Google Workspace India, Google Workspace Reseller Srikalahasti, Business Email Hosting Srikalahasti, Certified Google Partner Srikalahasti";
+// Add canonical tag pointing to main page
+$canonical_url = "https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php";
 include_once "common/header.php";
 ?>
 
