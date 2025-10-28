@@ -159,7 +159,7 @@ include_once "common/header.php";
 
 
 <section class="contact-form">
-  <div class="sec-title centered">
+  <div class="sec-title centered" id="contact-form">
     <h2  >Get a <span>Call Back</span></h2>
   </div>
 </section>

@@ -12,10 +12,7 @@
 }
 </style>
 <section>
-	<img src="images/about-shristi softech official google workspace partner.png" alt="Skynetiks Technologies is an authorized Google Workspace (formerly G Suite) Reseller and Partner, as well as a prominent website development company based in India, specifically operating in Delhi and NOIDA.
-
-
-" style="width:100%;height: auto;">
+	<img src="images/about-shristi softech official google workspace partner.png" alt="Skynetiks Technologies is an authorized Google Workspace (formerly G Suite) Reseller and Partner, as well as a prominent website development company based in India, specifically operating in Delhi and NOIDA." style="width:100%;height: auto;">
 </section>
 
 <section class="about-page-section">
@@ -84,11 +81,7 @@
 
                      </div>
 
-                     <!-- Button Box -->
-                     <div class="btn-box text-center">
-                        <a href="get-signup-free-trial-google-workspace-gsuite-shrishti-softech.php" class="theme-btn btn-style-three" data-toggle="modal" data-target="#myModal"><span class="txt">Get A Quote</span></a>
-                     </div>
-
+                    
                   </div>
                </div>
             </section>

@@ -38,7 +38,7 @@
 <section class="google_workspace_content">
 	<div class="container">
 		<div class="sec-title centered">
-			<h2>Business Mail Company <span>in Agra</span> </h2>
+			<h2>Business Mail Company   <span>in Agra</span> </h2>
 		</div>
 		<div class="row">
 			<div class="col-md-8">

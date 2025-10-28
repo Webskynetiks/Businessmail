@@ -133,6 +133,15 @@
           <label><i class="fas fa-comment-dots"></i> Your Message *</label>
           <textarea class="form-control" name="message" rows="4" placeholder="Tell us more about your business" required></textarea>
         </div>
+        <!-- ✅ Google reCAPTCHA -->
+          <div class="form-group row">
+            <div class="col-md-6">
+              <div class="g-recaptcha" data-sitekey="6Lca8t0rAAAAAGfVdWPGZee3EM3rIu1ZmRghw6Mw"></div>
+              <small id="captchaError" style="color:red; display:none;">Please verify the reCAPTCHA before submitting.</small>
+            </div>
+                        <div class="col-md-6"></div>
+
+          </div>
         <button type="submit" class="btn submit-btn"><i class="fas fa-paper-plane"></i> Submit</button>
 
         <!-- Success Alert -->
@@ -167,41 +176,52 @@
 
 
 <script>
-document.getElementById('enquiryForm').addEventListener('submit', async function(e) {
-    e.preventDefault(); // prevent page reload
+document.querySelectorAll('form').forEach(form => {
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
 
-    // Collect form data
-    const formData = {
-        name: document.getElementById('name2').value,
-        email: document.getElementById('email2').value,
-        phone: document.getElementById('phone2').value,
-        package: document.getElementById('package').value,
-        message: document.getElementById('message2').value,
-		pageUrl: window.location.href // <-- captures full page URL
-	
-    };
+    const captchaResponse = grecaptcha.getResponse();
+    const captchaError = form.querySelector('#captchaError') || document.getElementById('captchaError');
+
+    if (!captchaResponse) {
+      if (captchaError) captchaError.style.display = 'block';
+      return;
+    } else {
+      if (captchaError) captchaError.style.display = 'none';
+    }
+
+    // collect form data dynamically
+    const formData = {};
+    form.querySelectorAll('input, textarea, select').forEach(field => {
+      if (field.name) formData[field.name] = field.value;
+    });
+    formData["g-recaptcha-response"] = captchaResponse;
 
     try {
-        const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(formData)
-        });
+      const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(formData)
+      });
 
-        const result = await response.json();
+      const result = await response.json();
 
-        if(response.ok){
-            alert('Your message has been sent successfully!');
-            document.getElementById('enquiryForm').reset(); // clear form
-        } else {
-            alert('Error sending message: ' + result.error);
-        }
+      if (response.ok && result.success) {
+        alert("✅ Your message has been sent successfully!");
+        form.reset();
+        grecaptcha.reset();
+      } else {
+        alert("⚠️ Error: " + (result.message || "Something went wrong."));
+        grecaptcha.reset();
+      }
     } catch (error) {
-        console.error('Error:', error);
-        alert('Something went wrong. Please try again later.');
+      console.error('Error:', error);
+      alert("❌ Server error. Please try again later.");
+      grecaptcha.reset();
     }
+  });
 });
 </script>
 

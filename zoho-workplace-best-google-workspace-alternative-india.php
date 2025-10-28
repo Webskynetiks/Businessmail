@@ -311,7 +311,7 @@ include_once "common/header.php";
 									<li> IMAP/POP access in email</li>
 
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
@@ -335,7 +335,7 @@ include_once "common/header.php";
 									<strong>Zoho Calendar</strong>
 									<li>Resource Booking</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
@@ -384,7 +384,7 @@ include_once "common/header.php";
 									<strong>Zoho Meeting</strong>
 									<li>Video conferencing and screen share up to 10 participants</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
@@ -409,7 +409,7 @@ include_once "common/header.php";
 									<li> Reports</li>
 									<li> Guest Chat</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>

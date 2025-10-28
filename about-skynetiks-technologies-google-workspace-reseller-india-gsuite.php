@@ -89,10 +89,7 @@ include_once "common/header.php";
 
                      </div>
 
-                     <!-- Button Box -->
-                     <div class="btn-box text-center">
-                        <a href="#" class="theme-btn btn-style-three" data-toggle="modal" data-target="#myModal"><span class="txt">Get A Quote</span></a>
-                     </div>
+                    
 
                   </div>
                </div>

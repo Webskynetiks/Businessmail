@@ -127,9 +127,9 @@ include_once "common/header.php";
 
 
 <!-- Contact Form Section -->
-<section class="contact-form">
-  <div class="sec-title centered">
-    <h2 style="">Product <span>Sign Up</span></h2>
+<section class="contact-form" id="query-form-signup">
+  <div class="sec-title centered" >
+    <h2 style="" >Product <span>Sign Up</span></h2>
   </div>
 </section>
   <?php include_once "common/contact-query-form.php" ?>

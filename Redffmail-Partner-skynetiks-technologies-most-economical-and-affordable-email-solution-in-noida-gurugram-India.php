@@ -111,7 +111,7 @@ include_once "common/header.php";
                             <li>1Data Localization</li>
                             <li>1Common Login Page</li>
                         </ul>
-                        <span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+                        <span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@ include_once "common/header.php";
                             <li>Common Login Page</li>
                             -
                         </ul>
-                        <span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+                        <span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@ include_once "common/header.php";
                             <li>* Rcloud</li>
                             <li>* DMARC</li>
                         </ul>
-                        <span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+                        <span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
                     </div>
                 </div>
             </div>
@@ -163,14 +163,6 @@ include_once "common/header.php";
 
 
 
-<!-- <section class="city" style="background:url(images/gw1.jpeg);background-repeat: no-repeat;
-    background-size: 100% 100%;">
-	<div class="container">
-		<div class="text-center city_banner">
-		<a href="#" class="theme-btn btn-style-three" data-toggle="modal" data-target="#myModal"><span class="txt">Get A Quote</span></a>
-		</div>
-		
-	</div>
-</section> -->
+
 <?php include_once "common/service_network.php" ?>
 <?php include_once "common/footer.php" ?>

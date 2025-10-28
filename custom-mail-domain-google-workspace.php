@@ -60,14 +60,6 @@
 
 
 
-<!-- <section class="city" style="background:url(images/gw1.jpeg);background-repeat: no-repeat;
-    background-size: 100% 100%;">
-	<div class="container">
-		<div class="text-center city_banner">
-		<a href="#" class="theme-btn btn-style-three" data-toggle="modal" data-target="#myModal"><span class="txt">Get A Quote</span></a>
-		</div>
-		
-	</div>
-</section> -->
+
 <?php include_once "common/service_network.php"?>
 <?php include_once "common/footer.php"?>

@@ -185,9 +185,6 @@
 						<p>Business Mail E-Solutions is your trusted partner for secure, cloud-based communication. Trusted by over 5 million businesses, we offer email solutions like Google Workspace, Microsoft 365, Zoho Mail, Rediffmail, Zimbra, RC Mail, and Hosted Exchange. Boost productivity, streamline operations, and empower your team with reliable, scalable business email services.</p>
 					</div>
 				</div>
-
-
-
 			</div>
 		</div>
 	</div>
@@ -207,31 +204,35 @@
 					</div>
 
 					<!-- .contact-form-wrap -->
-					<div class="contact-form-wrap">
-						<form id="enquiryForm">
-							<div class="form-group">
-								<input name="name" type="text" id="name2" class="form-control" placeholder="Name" required>
-							</div>
-							<div class="form-group">
-								<input name="email" type="email" id="email2" class="form-control" placeholder="Email" required>
-							</div>
-							<div class="form-group">
-								<input type="text" id="phone2" name="phone" class="form-control" pattern="[0-9]{10}" placeholder="Phone" required>
-							</div>
-							<div class="form-group">
-								<select id="package" class="form-control" required>
-									<option value="" disabled selected>Select Package</option>
-									<option value="Basic">Basic</option>
-									<option value="Standard">Standard</option>
-									<option value="Premium">Premium</option>
-								</select>
-							</div>
-							<div class="form-group">
-								<textarea name="message" id="message2" class="form-control" rows="4" placeholder="Message" required></textarea>
-							</div>
-							<input type="submit" value="Submit" class="btn btn-warning" style="border:0;">
-						</form>
-					</div>
+				<div class="contact-form-wrap">
+    <form id="enquiryForm">
+        <div class="form-group">
+            <input name="name" type="text" id="name2" class="form-control" placeholder="Name" required>
+        </div>
+        <div class="form-group">
+            <input name="email" type="email" id="email2" class="form-control" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+            <input type="text" id="phone2" name="phone" class="form-control" pattern="[0-9]{10}" placeholder="Phone" required>
+        </div>
+        
+        <div class="form-group">
+            <textarea name="message" id="message2" class="form-control" rows="4" placeholder="Message" required></textarea>
+        </div>
+        
+        <!-- reCAPTCHA Widget -->
+        <div class="form-group">
+            <div class="g-recaptcha" 
+                 data-sitekey="6Lca8t0rAAAAAGfVdWPGZee3EM3rIu1ZmRghw6Mw"
+                 data-callback="onCaptchaSuccess"
+                 data-expired-callback="onCaptchaExpired"></div>
+            <span id="captcha-error" style="color: red; display: none; font-size: 14px;">Please verify that you are not a robot.</span>
+        </div>
+        
+        <input type="submit" id="submitBtn" value="Submit" class="btn btn-warning" style="border:0; opacity: 0.5; cursor: not-allowed;" disabled>
+    </form>
+</div>
+
 
 
 
@@ -356,7 +357,7 @@
 						<h4><a href="#">Google Workspace</a></h4>
 						<p><a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php"><strong>Google Workspace</strong> </a> is a complete solution for <strong>secure</strong>, <strong>scalable</strong>, and <strong>professional communication</strong>. Formerly <strong>G Suite</strong>, we help Indian businesses <strong>migrate to Google Workspace</strong> with zero downtime, full <strong>data security</strong>, advanced <strong>email features</strong>, and expert support. From startups to enterprises, we ensure a smooth <strong>cloud transition</strong> with dedicated setup and ongoing assistance.
 						</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -376,7 +377,7 @@
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">ZOHO Mail</a></h4>
 						<p><a href="zoho-workplace-best-google-workspace-alternative-india.php"><strong>Zoho Mail</strong> </a> is a powerful solution for <strong>secure</strong>, <strong>ad-free</strong>, and <strong>professional business email</strong>. With <strong>custom domain email</strong>, <strong>enterprise-grade security</strong>, <strong>encryption</strong>, and <strong>spam protection</strong>, it’s ideal for growing businesses. We offer smooth <strong>Zoho Mail setup</strong>, <strong>email migration</strong>, and expert support—ensuring reliable, controlled, and trusted email communication.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -396,7 +397,7 @@
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Reseller Club Mails</a></h4>
 						<p> <a href="economical-business-email-solution-hosting-india.php"><strong>Reseller Club Mail</strong> </a> is an <strong>affordable</strong>, <strong>reseller-friendly business email</strong> solution with <strong>custom domain email</strong> and full <strong>branding</strong>. It offers <strong>99.99% uptime</strong>, <strong>enterprise-grade reliability</strong>, <strong>spam filtering</strong>, and an intuitive control panel. Scalable and cost-effective, it's ideal for resellers and businesses seeking <strong>secure</strong>, <strong>branded email hosting</strong> with expert support.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -415,7 +416,7 @@
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Zimbra Mail</a></h4>
 						<p><a href="customized-businessmail-solution-zimbra-alternative-google-workspace-skynetiks-technologies-google-workspace-partner-in-Noida-Gurugram-Delhi.php"><strong>Zimbra Mail</strong> </a>is a powerful <strong>business email</strong> offering <strong>secure custom domain email</strong>, <strong>shared calendars</strong>, <strong>file sharing</strong>, and <strong>team messaging</strong>. Ideal for startups, SMEs, and enterprises, it ensures <strong>scalability</strong>, <strong>data security</strong>, and <strong>professional communication</strong>. we provide fully managed <strong>Zimbra email hosting</strong> in India with quick setup, smooth migration, and expert support.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -435,7 +436,7 @@
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Microsoft O365</a></h4>
 						<p> <a href="google-workspace-data-migration-microsoft365-india.php"><strong>Microsoft 365</strong> </a> is a complete <strong>cloud productivity suite</strong> featuring <strong>Office apps</strong> like Word, Excel, Outlook, PowerPoint, and Teams. It delivers <strong>real-time collaboration</strong>, <strong>secure remote access</strong>, and <strong>advanced security</strong> for businesses of all sizes. At Business Mail E-Solutions, we offer expert <strong>Microsoft 365 setup</strong>, <strong>email hosting</strong>, and smooth <strong>migration</strong> in India—ensuring reliable, scalable, and <strong>secure business communication</strong>.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -456,7 +457,7 @@
 						<!-- <div class="category">Profit Planning</div> -->
 						<h4><a href="#">Hosted Exchange</a></h4>
 						<p> <a href="hosted-exchange-email-services-skynetiks-technologies-partner-with-google-workspace-Noida-gurugram-delhi-India.php"><strong>Hosted Exchange</strong>  </a>is a <strong>secure</strong>, <strong>scalable email hosting</strong> solution. At Business Mail E-Solutions, we deliver the benefits of a dedicated <strong>Exchange Server</strong>—including <strong>custom domain email</strong>, <strong>shared calendars</strong>, <strong>advanced security</strong>, and <strong>real-time syncing</strong>—without the infrastructure cost. Ideal for startups, SMEs, and enterprises, our <strong>Hosted Exchange in India</strong> ensures reliable, feature-rich email with expert support to keep your team connected and productive.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -478,7 +479,7 @@
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Rediff Mail Pro</a></h4>
 						<p><a href="Redffmail-Partner-skynetiks-technologies-most-economical-and-affordable-email-solution-in-noida-gurugram-India.php"><strong>Rediffmail Pro</strong> </a> is a trusted, <strong>scalable business email hosting</strong> solution, used by thousands for <strong>secure</strong> and <strong>professional communication</strong>. It offers <strong>custom domain email</strong> without server management or complex IT infrastructure. Designed for simplicity and reliability, it includes <strong>domain setup</strong> <strong>email migration.</strong> At Business Mail E-Solutions, we provide seamless onboarding with zero downtime and personalized assistance.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -499,7 +500,7 @@
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Custom Mail</a></h4>
 						<p><a href="custom-domain-based-email-for-organiztion-brand-identity.php"><strong>Custom Mail</strong></a> is a personalized, <strong>domain-based email solution</strong> that enhances your <strong>brand identity</strong> and builds <strong>customer trust</strong>. Ideal for startups, professionals, and growing businesses, it helps you project <strong>professionalism</strong>, secure your brand, and improve communication with clients and teams. We manage everything from <strong>domain registration</strong> to full <strong>email hosting</strong>, ensuring a smooth, secure setup tailored to your business.</p>
-						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
+						<div ><a class="arrow" href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
 			</div>
@@ -572,10 +573,7 @@
 
 			</div>
 
-			<!-- Button Box -->
-			<div class="btn-box text-center">
-				<a href="#" class="theme-btn btn-style-three" data-toggle="modal" data-target="#myModal"><span class="txt">Get A Quote</span></a>
-			</div>
+		
 
 		</div>
 	</div>
@@ -648,9 +646,9 @@
 				<h5>Ready to power your business with Google Workspace today !</h5>
 			</div>
 
-			<div class="text-center" data-toggle="modal" data-target="#workspace_signup">
+			<div class="text-center" >
 				<div class="btns-box">
-					<a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
+					<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form" class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
 				</div>
 			</div>
 		</div>
@@ -662,9 +660,9 @@
 				<h5>Experience it yourself - Get a free demo account now !</h5>
 			</div>
 
-			<div class="text-center" data-toggle="modal" data-target="#free_demo">
+			<div class="text-center" >
 				<div class="btns-box">
-					<a class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
+					<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#contact-form" class="theme-btn btn-style-one"><span class="txt">Sign Up</span></a>
 				</div>
 			</div>
 		</div>
@@ -674,9 +672,53 @@
 
 
 
+<!-- Add reCAPTCHA Script -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <script>
+// Global variable to track captcha verification
+let isCaptchaVerified = false;
+
+// Callback when reCAPTCHA is successfully verified
+function onCaptchaSuccess() {
+    isCaptchaVerified = true;
+    const submitBtn = document.getElementById('submitBtn');
+    submitBtn.disabled = false;
+    submitBtn.style.opacity = '1';
+    submitBtn.style.cursor = 'pointer';
+    document.getElementById('captcha-error').style.display = 'none';
+}
+
+// Callback when reCAPTCHA expires
+function onCaptchaExpired() {
+    isCaptchaVerified = false;
+    const submitBtn = document.getElementById('submitBtn');
+    submitBtn.disabled = true;
+    submitBtn.style.opacity = '0.5';
+    submitBtn.style.cursor = 'not-allowed';
+}
+
 document.getElementById('enquiryForm').addEventListener('submit', async function(e) {
     e.preventDefault(); // prevent page reload
+
+    // Double-check reCAPTCHA verification
+    if (!isCaptchaVerified) {
+        document.getElementById('captcha-error').style.display = 'block';
+        return;
+    }
+
+    // Get reCAPTCHA response token
+    const captchaResponse = grecaptcha.getResponse();
+    
+    if (!captchaResponse || captchaResponse.length === 0) {
+        document.getElementById('captcha-error').style.display = 'block';
+        return;
+    }
+
+    // Disable submit button during processing
+    const submitBtn = document.getElementById('submitBtn');
+    submitBtn.disabled = true;
+    submitBtn.value = 'Sending...';
 
     // Collect form data
     const formData = {
@@ -685,8 +727,8 @@ document.getElementById('enquiryForm').addEventListener('submit', async function
         phone: document.getElementById('phone2').value,
         package: document.getElementById('package').value,
         message: document.getElementById('message2').value,
-		pageUrl: window.location.href // <-- captures full page URL
-	
+        pageUrl: window.location.href,
+        captchaToken: captchaResponse
     };
 
     try {
@@ -702,13 +744,31 @@ document.getElementById('enquiryForm').addEventListener('submit', async function
 
         if(response.ok){
             alert('Your message has been sent successfully!');
-            document.getElementById('enquiryForm').reset(); // clear form
+            document.getElementById('enquiryForm').reset();
+            grecaptcha.reset();
+            isCaptchaVerified = false;
+            submitBtn.disabled = true;
+            submitBtn.style.opacity = '0.5';
+            submitBtn.style.cursor = 'not-allowed';
+            submitBtn.value = 'Submit';
         } else {
             alert('Error sending message: ' + result.error);
+            grecaptcha.reset();
+            isCaptchaVerified = false;
+            submitBtn.disabled = true;
+            submitBtn.style.opacity = '0.5';
+            submitBtn.style.cursor = 'not-allowed';
+            submitBtn.value = 'Submit';
         }
     } catch (error) {
         console.error('Error:', error);
         alert('Something went wrong. Please try again later.');
+        grecaptcha.reset();
+        isCaptchaVerified = false;
+        submitBtn.disabled = true;
+        submitBtn.style.opacity = '0.5';
+        submitBtn.style.cursor = 'not-allowed';
+        submitBtn.value = 'Submit';
     }
 });
 </script>

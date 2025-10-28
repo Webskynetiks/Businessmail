@@ -8,11 +8,14 @@
 </style>
 
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <div class="container">
   <div class="row" style="padding-top:25px;">
     <div class="col-md-9">
       <form id="enquiryForm">
         <div class="form">
+
           <!-- Domain Name -->
           <div class="form-group row">
             <div class="col-md-3">
@@ -63,6 +66,15 @@
             </div>
           </div>
 
+          <!-- ✅ Google reCAPTCHA -->
+          <div class="form-group row">
+            <div class="col-md-3"></div>
+            <div class="col-md-9">
+              <div class="g-recaptcha" data-sitekey="6Lca8t0rAAAAAGfVdWPGZee3EM3rIu1ZmRghw6Mw"></div>
+              <small id="captchaError" style="color:red; display:none;">Please verify the reCAPTCHA before submitting.</small>
+            </div>
+          </div>
+
           <!-- Submit Button -->
           <div class="form-group row">
             <div class="col-md-3"></div>
@@ -71,98 +83,102 @@
             </div>
           </div>
 
-          <!-- Success Alert -->
-          <div class="alert alert-success" role="alert" style="display:none">Your request has been received.</div>
+          <!-- Success Message -->
+          <div class="alert alert-success" role="alert" id="enquirySuccess" style="display:none;">
+            ✅ Your request has been received. We’ll contact you soon.
+          </div>
+
         </div>
       </form>
     </div>
 
-    <!-- Right Column (Logos / Carousel) -->
+    <!-- Right Column -->
     <div class="col-md-3">
       <div class="text-center logo-image-slider">
-        <img src="images/google-workspace-support-partner-india.webp" alt="sign up for google for workspace free trial" style="width: 100%; margin-bottom: 10px; background: #d2ecfa; padding: 22px;">
+        <img src="images/google-workspace-support-partner-india.webp" alt="sign up for google for workspace free trial"
+          style="width: 100%; margin-bottom: 10px; background: #d2ecfa; padding: 22px;">
         <h5 style="color: red;font-weight: 700;">
           <img src="images/google-workspace-technical-support-india.png" alt="Manage Free Account GSuite Google Workspace">
         </h5>
-        <h5>
-          <marquee>Authorize Reseller partner</marquee>
-        </h5>
+        <h5><marquee>Authorize Reseller partner</marquee></h5>
         <div class="outer-container text-center">
           <div class="carousel-outer">
-            <!--Sponsors Slider-->
             <ul class="sponsor-carousel owl-carousel owl-theme">
-              <li>
-                <div class="text-center"><a href="#"><img src="images/google-workspace-data-migration-services.png" alt="Google Workspace, formerly known as G Suite"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/zoho-workplace-secure-email-hosting.png" alt="Zoho Mail is a secure and reliable business email solution"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/rcmail-domain-setup-and-configuration.png" alt="ResellerClub's Business Email Services"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/zimbra-mail-user-migration-services.png" alt="Zimbra Collaboration Suite (ZCS) is an enterprise-grade mailing solution"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/microsoft-365-to-zimbra-migration.png" alt="Microsoft 365 is our cloud-powered productivity platform"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/hosted-exchange-admin-support-services.png" alt="Hosted Exchange is a version of Microsoft Exchange Server "></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/rediffmail-to-custom-mail-migration.png" alt="Rediffmail Pro is a comprehensive business email solution"></a></div>
-              </li>
-              <li>
-                <div class="text-center"><a href="#"><img src="images/google-workspace-alternative-india.png" alt="Custom email domain is the name of your brand "></a></div>
-              </li>
+              <li><div class="text-center"><a href="#"><img src="images/google-workspace-data-migration-services.png" alt="Google Workspace"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/zoho-workplace-secure-email-hosting.png" alt="Zoho Mail"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/rcmail-domain-setup-and-configuration.png" alt="ResellerClub"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/zimbra-mail-user-migration-services.png" alt="Zimbra"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/microsoft-365-to-zimbra-migration.png" alt="Microsoft 365"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/hosted-exchange-admin-support-services.png" alt="Hosted Exchange"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/rediffmail-to-custom-mail-migration.png" alt="Rediffmail"></a></div></li>
+              <li><div class="text-center"><a href="#"><img src="images/google-workspace-alternative-india.png" alt="Custom email domain"></a></div></li>
             </ul>
           </div>
-          <div class="phone"><a href="tel:+91-9212378780"> <i class="fa fa-phone"></i><span> +91-9212378780</span></a></div>
+          <div class="phone">
+            <a href="tel:+91-9212378780"><i class="fa fa-phone"></i><span> +91-9212378780</span></a>
+          </div>
         </div>
       </div>
     </div>
-
   </div>
 </div>
 
 
 
 
-<script>
-document.getElementById('enquiryForm').addEventListener('submit', async function(e) {
-    e.preventDefault(); // prevent page reload
 
-    // Collect form data
-    const formData = {
-        name: document.getElementById('name2').value,
-        email: document.getElementById('email2').value,
-        phone: document.getElementById('phone2').value,
-        package: document.getElementById('package').value,
-        message: document.getElementById('message2').value,
-		pageUrl: window.location.href // <-- captures full page URL
-	
-    };
+<!-- ✅ Google reCAPTCHA -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<script>
+document.querySelectorAll('form').forEach(form => {
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+
+    const captchaResponse = grecaptcha.getResponse();
+    const captchaError = form.querySelector('#captchaError') || document.getElementById('captchaError');
+
+    if (!captchaResponse) {
+      if (captchaError) captchaError.style.display = 'block';
+      return;
+    } else {
+      if (captchaError) captchaError.style.display = 'none';
+    }
+
+    // collect form data dynamically
+    const formData = {};
+    form.querySelectorAll('input, textarea, select').forEach(field => {
+      if (field.name) formData[field.name] = field.value;
+    });
+    formData["g-recaptcha-response"] = captchaResponse;
 
     try {
-        const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(formData)
-        });
+      const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(formData)
+      });
 
-        const result = await response.json();
+      const result = await response.json();
 
-        if(response.ok){
-            alert('Your message has been sent successfully!');
-            document.getElementById('enquiryForm').reset(); // clear form
-        } else {
-            alert('Error sending message: ' + result.error);
-        }
+      if (response.ok && result.success) {
+        alert("✅ Your message has been sent successfully!");
+        form.reset();
+        grecaptcha.reset();
+      } else {
+        alert("⚠️ Error: " + (result.message || "Something went wrong."));
+        grecaptcha.reset();
+      }
     } catch (error) {
-        console.error('Error:', error);
-        alert('Something went wrong. Please try again later.');
+      console.error('Error:', error);
+      alert("❌ Server error. Please try again later.");
+      grecaptcha.reset();
     }
+  });
 });
 </script>
+
+
+

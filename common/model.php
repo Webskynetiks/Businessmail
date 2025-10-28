@@ -90,24 +90,18 @@
       <div class="modal-body">
         <div class="form">
           <form id="leadForm">
-            <div class="form-group row">
+            
+          
+
+<div class="form-group row">
               <div class="col-md-3">
-                <label>Domain Name:</label>
+                <label>Name:</label>
               </div>
               <div class="col-md-9">
-                <input type="text" class="form-control" name="website" id="website"
-                  placeholder="Domain name is an internet identity of your organization i.e www.tatamotors.com" required>
+                <input type="text" class="form-control" name="name" id="name"
+                  placeholder="How would you want us to call you?" required>
               </div>
             </div>
-            <div class="form-group row">
-  <div class="col-md-3">
-    <label>Message:</label>
-  </div>
-  <div class="col-md-9">
-    <textarea class="form-control" id="message" name="message" placeholder="Optional message"></textarea>
-  </div>
-</div>
-
 
             <div class="form-group row">
               <div class="col-md-3">
@@ -131,23 +125,27 @@
             </div>
 
 
-            <div class="form-group row">
-              <div class="col-md-3">
-                <label>Name:</label>
-              </div>
-              <div class="col-md-9">
-                <input type="text" class="form-control" name="name" id="name"
-                  placeholder="How would you want us to call you?" required>
-              </div>
+              <div class="form-group row">
+  <div class="col-md-3">
+    <label>Message:</label>
+  </div>
+  <div class="col-md-9">
+    <textarea class="form-control" id="message" name="message" placeholder="Optional message"></textarea>
+  </div>
+</div>
+
+            
+
+
+           
+<!-- ✅ Google reCAPTCHA -->
+          <div class="form-group row">
+            <div class="col-md-3"></div>
+            <div class="col-md-9">
+              <div class="g-recaptcha" data-sitekey="6Lca8t0rAAAAAGfVdWPGZee3EM3rIu1ZmRghw6Mw"></div>
+              <small id="captchaError" style="color:red; display:none;">Please verify the reCAPTCHA before submitting.</small>
             </div>
-
-
-            <!--<div class="form-group row">-->
-            <!--  <div class="col-md-10">-->
-            <!--    <div class="g-recaptcha brochure__form__captcha recap" data-sitekey="6LdT_JgcAAAAAHXnZ9-hnbyoMgiWLuvOS0-zv9hS"></div>-->
-            <!--  </div>-->
-            <!--</div>-->
-
+          </div>
 
             <div class="form-group row">
               <button class="btn btn-primary hgh" type="submit">Submit</button>
@@ -246,87 +244,7 @@
 
 
 
-<!-- Free Consultation Modal -->
-<div class="modal fade" id="myModal">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Get A Free Consultation</h4>
-        <button type="button" class="close btn-danger" data-dismiss="modal">&times;</button>
-      </div>
-      <div class="modal-body">
-        <div class="form">
-          <form id="consultationForm">
-            <div class="col-md-12">
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Your Name:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="text" class="form-control" name="name" placeholder="How would you want us to call you?" required>
-                </div>
-              </div>
 
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Your Phone No:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="tel" class="form-control" name="phone" placeholder="Thanks for sharing your direct number or mobile number." required>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Your Email Address:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="email" class="form-control" name="email" placeholder="Please fill in your direct email you always access" required>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Company:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="text" class="form-control" name="company" placeholder="Your Company Name" required>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Website:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="text" class="form-control" name="website" placeholder="Domain name is an internet identity of your organization i.e www.domain.com" required>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Message:</label>
-                </div>
-                <div class="col-md-9">
-                  <textarea maxlength="5000" rows="3" class="form-control" name="message" placeholder="Please enter your message." required></textarea>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <button class="btn btn-primary hgh" type="submit">Submit</button>
-              </div>
-            </div>
-          </form>
-
-          <div class="alert alert-success" role="alert" style="display:none">Your request has been received.</div>
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
 
 
 
@@ -341,12 +259,12 @@
         </div>
         <div class="modal-subcontent">
           <h4 class="mt-2">Thank you for your interest in our services.</h4>
-          <p id="callback_heading" class="mt-2">Skynetiks Technologies, a trusted Google Workspace Partner in India, will support you with a full range of Google Workspace services, including:</p>
+          <p id="callback_heading" class="mt-2">Skynetiks Technologies, a trusted Zoho Workplace,Google Workspace and Microsoft 365 Partner in India, will support you with a full range of Google Workspace services, including:</p>
           <div class="modal-support mt-1">
-            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Google Workspace Technical Support,</span></div>
-            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Google Workspace Renewal Assistance/Support,</span></div>
-            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Google Workspace Trial Sign Up - Setup,</span></div>
-            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Google Workspace Billing and Subscription Help,</span></div>
+            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Zoho Workplace,Google Workspace and Microsoft 365 Technical Support,</span></div>
+            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Zoho Workplace,Google Workspace and Microsoft 365 Renewal Assistance/Support,</span></div>
+            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Zoho Workplace,Google Workspace and Microsoft 365 Trial Sign Up - Setup,</span></div>
+            <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Zoho Workplace,Google Workspace and Microsoft 365 Billing and Subscription Help,</span></div>
             <div class="modal-gw"><i class="fas fa-check-circle"></i><span class="modal-inner">Any other technical or product-related queries.</span></div>
           </div>
           <p class="modal-fill">Please fill out the form below, and a member of our team will get back to you as soon as possible.</p>
@@ -393,6 +311,9 @@
                   <textarea maxlength="5000" rows="3" class="form-control" name="message" placeholder="Please enter your message." required></textarea>
                 </div>
               </div>
+              <div class="form-group row">
+  <div class="g-recaptcha" data-sitekey="6Lca8t0rAAAAAGfVdWPGZee3EM3rIu1ZmRghw6Mw"></div>
+</div>
 
               <div class="form-group row">
                 <button class="btn btn-primary hgh" type="submit">Submit</button>
@@ -419,204 +340,70 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ✅ Google reCAPTCHA -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <script>
-  document.getElementById('callbackForm').addEventListener('submit', function(event) {
-    event.preventDefault();
-    const name = document.getElementById('callback_name').value.trim();
-    document.getElementById('submitterName').textContent = name;
-    document.getElementById('callbackSuccess').style.display = 'block';
-    document.getElementById('hide_cd').style.display = 'none';
-  });
-</script>
+document.querySelectorAll('form').forEach(form => {
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
 
+    const captchaResponse = grecaptcha.getResponse();
+    const captchaError = form.querySelector('#captchaError') || document.getElementById('captchaError');
 
-<!-- Pricing Signup Modal -->
-<div class="modal fade" id="signup_pricing">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Sign Up</h4>
-        <button type="button" class="close btn-danger" data-dismiss="modal">&times;</button>
-      </div>
-      <div class="modal-body">
-        <div class="form">
-          <form id="signupForm">
-            <div class="col-md-12">
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Name:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="text" class="form-control" name="name" placeholder="How would you want us to call you?" required>
-                </div>
-              </div>
+    if (!captchaResponse) {
+      if (captchaError) captchaError.style.display = 'block';
+      return;
+    } else {
+      if (captchaError) captchaError.style.display = 'none';
+    }
 
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Phone No:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="tel" class="form-control" name="phone" placeholder="Thanks for sharing your direct number or mobile number." required>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>Email Address:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="email" class="form-control" name="email" placeholder="Please fill in your direct email address" required>
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-3">
-                  <label>message:</label>
-                </div>
-                <div class="col-md-9">
-                  <input type="message" class="form-control" name="message" placeholder="message" required>
-                </div>
-              </div>
-
-       
-
-              <div class="form-group row">
-                <button class="btn btn-primary hgh" type="submit">Submit</button>
-              </div>
-            </div>
-          </form>
-          <div class="alert alert-success" role="alert" style="display:none">Your request has been received.</div>
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-<!-- <script>
-document.getElementById('leadForm').addEventListener('submit', async function(e) {
-    e.preventDefault(); // prevent page reload
-
-    // Collect form data from the modal
-   const formData = {
-    name: document.getElementById('name').value,
-    email: document.getElementById('email').value,
-    phone: document.getElementById('phone').value,
-    website: document.getElementById('website').value,
-    message: `Free demo request for ${document.getElementById('website').value}`,
-    pageUrl: window.location.href
-};
+    // collect form data dynamically
+    const formData = {};
+    form.querySelectorAll('input, textarea, select').forEach(field => {
+      if (field.name) formData[field.name] = field.value;
+    });
+    formData["g-recaptcha-response"] = captchaResponse;
 
     try {
-        const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(formData)
-        });
-
-        const result = await response.json();
-
-        if(response.ok){
-            // Show success message
-            document.getElementById('leadSuccess').style.display = 'block';
-            document.getElementById('leadForm').reset(); // clear form
-
-            // Optional: close modal after 2 seconds
-            setTimeout(() => {
-                $('#free_demo').modal('hide');
-                document.getElementById('leadSuccess').style.display = 'none';
-            }, 2000);
-
-        } else {
-            alert('Error sending message: ' + result.error);
-        }
-    } catch (error) {
-        console.error('Error:', error);
-        alert('Something went wrong. Please try again later.');
-    }
-});
-</script> -->
-
-
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  // Select all forms you want to handle
-  const forms = document.querySelectorAll('form');
-
-  forms.forEach(form => {
-    form.addEventListener('submit', async function(e) {
-      e.preventDefault();
-
-      // Collect all input/textarea/select values dynamically
-      const formData = {};
-      const inputs = form.querySelectorAll('input, textarea, select');
-
-      inputs.forEach(input => {
-        if(input.name) {
-          formData[input.name] = input.value.trim();
-        }
+      const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(formData)
       });
 
-      // Ensure required fields for endpoint
-      if (!formData.name || !formData.email || !formData.message) {
-        alert('Name, email, and message are required');
-        return;
+      const result = await response.json();
+
+      if (response.ok && result.success) {
+        alert("✅ Your message has been sent successfully!");
+        form.reset();
+        grecaptcha.reset();
+      } else {
+        alert("⚠️ Error: " + (result.message || "Something went wrong."));
+        grecaptcha.reset();
       }
-
-      // Add current page URL
-      formData.pageUrl = window.location.href;
-
-      try {
-        const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(formData)
-        });
-
-        const result = await response.json();
-
-        if (response.ok) {
-          // Show success alert if exists
-          const successAlert = form.querySelector('.alert-success');
-          if (successAlert) {
-            successAlert.style.display = 'block';
-            form.reset();
-
-            // Optional: hide modal if exists after 2 sec
-            const modal = form.closest('.modal');
-            if (modal) {
-              setTimeout(() => {
-                $(modal).modal('hide');
-                successAlert.style.display = 'none';
-              }, 2000);
-            }
-          } else {
-            alert('Your message has been sent successfully!');
-            form.reset();
-          }
-        } else {
-          alert('Error sending message: ' + result.error);
-        }
-
-      } catch (error) {
-        console.error('Error:', error);
-        alert('Something went wrong. Please try again later.');
-      }
-    });
+    } catch (error) {
+      console.error('Error:', error);
+      alert("❌ Server error. Please try again later.");
+      grecaptcha.reset();
+    }
   });
 });
 </script>
-

@@ -140,7 +140,8 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 									<li>Security and management controls</li>
 									<li>Standard Support</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<!-- <span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span> -->
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
@@ -170,7 +171,7 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 									<li>Security and management controls</li>
 									<li>Standard Support (paid upgrade to Enhanced Support)</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
@@ -200,7 +201,7 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 									<li>Enhanced security and management controls, including Vault and advanced endpoint management</li>
 									<li>Standard Support (paid upgrade to Enhanced Support)</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
@@ -221,7 +222,7 @@ As a certified Google Workspace partner in India, Skynetiks Technologies offers 
 									<li>Advanced security, management, and compliance controls, including Vault, DLP, data regions, and enterprise endpoint management</li>
 									<li>Enhanced Support (paid upgrade to Premium Support)</li>
 								</ul>
-								<span data-toggle="modal" data-target="#signup_pricing"><a href="#" class="read">sign up</a></span>
+								<span ><a href="signup-google-workspace-microsoft-O365-zoho-workplace-30days-moneyback-guarantee-skynetiks-technologies-partner-Noida-Gurugram-India.php#query-form-signup" class="read">sign up</a></span>
 							</div>
 						</div>
 					</div>
