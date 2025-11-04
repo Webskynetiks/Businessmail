@@ -37,14 +37,27 @@ include_once "common/header.php";
     </h2>
 
     <ul style="font-size: 17px; line-height: 1.8rem;">
-      <li>● Gmail to Google Workspace or Microsoft 365 Migration</li>
-      <li>● Rediffmail to Zoho Mail/Outlook</li>
+      <a href='microsoft-O365-to-google-workspace-gsuite-migration.php'><li>● Microsoft O365 to Google Workspace (GSuite) Migration</li></a>
+      <a href='google-workspace-gsuite-to-microsoft-o365-migration.php'><li>● Google Workspace (GSuite) to Microsoft O365 Migration</li></a>
+      <a href='godaddy-to-google-workspace-gsuite-migration.php'><li>● GoDaddy to Google Workspace (GSuite) Migration</li></a>
+      <a href='godaddy-to-microsoft-o365-migration.php'><li>●  GoDaddy to Microsoft O365 Migration</li></a>
+      <a href='godaddy-to-zoho-mail-migration.php'><li>●  GoDaddy to Zoho Mail Migration</li></a>
+      <a href='microsoft-o365-to-zoho-mail-migration.php'><li>●  Microsoft O365 to Zoho Mail Migration</li></a>
+      <a href='google-workspace-gsuite-to-zoho-mail-migration.php'><li>●  Google Workspace (GSuite) to Zoho Mail Migration</li></a>
+      <a href='yahoo-mail-to-zoho-workplace-mail-migration.php'><li>●  Yahoo to zoho mail migration</li></a>
+      <a href='yahoo-mail-to-google-workspace-gsuite-migration.php'><li>●  Yahoo to google workspace migration</li></a>
+      <a href='yahoo-to-office365-migration.php'><li>●  Yahoo to office 365 migration
+
+
+
+</li></a>
+      <!-- <li>● Rediffmail to Zoho Mail/Outlook</li>
       <li>● Yahoo or Zimbra to Google Workspace</li>
       <li>● cPanel Email to Microsoft 365 or Zoho Mail</li>
       <li>● IMAP to IMAP/POP3 Transfers</li>
       <li>● Full backup of emails, folders, contacts & calendar</li>
       <li>● Zero Downtime with Parallel Migration</li>
-      <li>● Post-Migration Testing & Support</li>
+      <li>● Post-Migration Testing & Support</li> -->
     </ul>
 
   </div>
