@@ -253,17 +253,21 @@ body {
       <input type="email" name="email" placeholder="Email Address *" required />
         </div>
         <div class='d-flex gap-2'>
-           <input type="tel" name="phone" placeholder="Phone Number" />
-      <input type="text" name="company" placeholder="Company Name *" required />
+  <input
+      type="tel"
+      name="phone"
+      placeholder="Phone Number *"
+   
+      minlength="10"
+      maxlength="10"
+      title="Enter a valid 10-digit Indian mobile number starting with 6, 7, 8, or 9"
+      required
+    />      <input type="text" name="company" placeholder="Company Name *" required />
         </div>
         <div class='d-flex '>
-           <select name="users" required>
-        <option value="">Number of Users *</option>
-        <option value="1-50">1–50 users</option>
-        <option value="51-250">51–250 users</option>
-        <option value="251-1000">251–1000 users</option>
-        <option value="1000+">1000+ users</option>
-      </select>
+          
+          <input  type="number" name=" users" placeholder="Numbers of Users *" required />
+
 
       <select name="services" required>
         <option value="">Services *</option>
@@ -303,18 +307,37 @@ body {
     const form = document.getElementById("quoteForm");
     const submitBtn = document.getElementById("submitBtn");
 
+    // Prevent double submissions
+    let isSubmitting = false;
+
     form.addEventListener("submit", async (e) => {
       e.preventDefault();
 
-      if (!captchaToken) {
-        alert("Please complete the reCAPTCHA verification.");
+      if (isSubmitting) return; // already sending
+
+      // Prefer checking grecaptcha.getResponse() to ensure widget completed
+      if (window.grecaptcha) {
+        const token = grecaptcha.getResponse();
+        if (!token) {
+          alert("Please complete the reCAPTCHA verification.");
+          return;
+        }
+      } else {
+        alert("reCAPTCHA is not loaded. Please refresh the page and try again.");
         return;
       }
 
+      isSubmitting = true;
       submitBtn.disabled = true;
       submitBtn.textContent = "Sending...";
 
-      const formData = Object.fromEntries(new FormData(form).entries());
+      // Remove any DOM input/textarea that may carry the recaptcha response
+      const recaptchaFields = form.querySelectorAll("[name='g-recaptcha-response']");
+      recaptchaFields.forEach(el => el.parentNode && el.parentNode.removeChild(el));
+
+      // Build payload from form (now without g-recaptcha-response) and send
+      const entries = new FormData(form);
+      const formData = Object.fromEntries(entries.entries());
       formData.pageUrl = window.location.href;
 
       try {
@@ -329,7 +352,6 @@ body {
         if (response.ok && data.success !== false) {
           alert("Request sent successfully!");
           form.reset();
-          captchaToken = "";
           if (window.grecaptcha) window.grecaptcha.reset();
         } else {
           alert(data.message || "Failed to send message. Please try again.");
@@ -339,6 +361,7 @@ body {
         alert("Something went wrong. Please try again.");
       }
 
+      isSubmitting = false;
       submitBtn.disabled = false;
       submitBtn.textContent = "🚀 Get Your Custom Quote";
     });
