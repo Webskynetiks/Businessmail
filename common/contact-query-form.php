@@ -131,54 +131,89 @@
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <script>
-document.querySelectorAll('form').forEach(form => {
-  form.addEventListener('submit', async function(e) {
+  let captchaToken = "";
+
+  function onCaptchaChange(token) {
+    console.log("Captcha verified:", token);
+    captchaToken = token;
+  }
+
+  const form = document.getElementById("enquiryForm");
+  const submitBtn = form.querySelector('button[type="submit"]');
+
+  // Prevent double submissions
+  let isSubmitting = false;
+
+  form.addEventListener("submit", async (e) => {
     e.preventDefault();
 
-    const captchaResponse = grecaptcha.getResponse();
-    const captchaError = form.querySelector('#captchaError') || document.getElementById('captchaError');
+    if (isSubmitting) return; // already sending
 
-    if (!captchaResponse) {
-      if (captchaError) captchaError.style.display = 'block';
-      return;
+    // Prefer checking grecaptcha.getResponse() to ensure widget completed
+    if (window.grecaptcha) {
+      const token = grecaptcha.getResponse();
+      if (!token) {
+        const captchaError = document.getElementById('captchaError');
+        if (captchaError) captchaError.style.display = 'block';
+        return;
+      } else {
+        const captchaError = document.getElementById('captchaError');
+        if (captchaError) captchaError.style.display = 'none';
+      }
     } else {
-      if (captchaError) captchaError.style.display = 'none';
+      alert("reCAPTCHA is not loaded. Please refresh the page and try again.");
+      return;
     }
 
-    // collect form data dynamically
-    const formData = {};
-    form.querySelectorAll('input, textarea, select').forEach(field => {
-      if (field.name) formData[field.name] = field.value;
-    });
-    formData["g-recaptcha-response"] = captchaResponse;
+    isSubmitting = true;
+    submitBtn.disabled = true;
+    submitBtn.textContent = "Sending...";
+
+    // Remove any DOM input/textarea that may carry the recaptcha response
+    const recaptchaFields = form.querySelectorAll("[name='g-recaptcha-response']");
+    recaptchaFields.forEach(el => el.parentNode && el.parentNode.removeChild(el));
+
+    // Build payload from form (now without g-recaptcha-response) and send
+    const entries = new FormData(form);
+    const formData = Object.fromEntries(entries.entries());
+    formData.page_url = window.location.href;
 
     try {
-      const response = await fetch('https://nextjs-queryform-ri3l.vercel.app/api/sendEmail', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(formData)
+      const response = await fetch("https://nextjs-queryform-ri3l.vercel.app/api/sendEmail", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
       });
 
-      const result = await response.json();
+      const data = await response.json();
 
-      if (response.ok && result.success) {
+      if (response.ok && data.success !== false) {
         alert("✅ Your message has been sent successfully!");
         form.reset();
-        grecaptcha.reset();
+        if (window.grecaptcha) window.grecaptcha.reset();
+        
+        // Show success message
+        const successMsg = document.getElementById('enquirySuccess');
+        if (successMsg) {
+          successMsg.style.display = 'block';
+          setTimeout(() => {
+            successMsg.style.display = 'none';
+          }, 5000);
+        }
       } else {
-        alert("⚠️ Error: " + (result.message || "Something went wrong."));
-        grecaptcha.reset();
+        alert("⚠️ Error: " + (data.message || "Failed to send message. Please try again."));
+        if (window.grecaptcha) window.grecaptcha.reset();
       }
     } catch (error) {
-      console.error('Error:', error);
-      alert("❌ Server error. Please try again later.");
-      grecaptcha.reset();
+      console.error("Error sending request:", error);
+      alert("❌ Something went wrong. Please try again.");
+      if (window.grecaptcha) window.grecaptcha.reset();
     }
-  });
-});
-</script>
 
+    isSubmitting = false;
+    submitBtn.disabled = false;
+    submitBtn.textContent = "Submit";
+  });
+</script>
 
 

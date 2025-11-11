@@ -12,7 +12,8 @@
 		<div class="text-center city_banner">
 			<h4>Know Why India's Fastest-Growing Businesses Trust Us for Google Workspace in Jabalpur.</h4>
 			<div class="btns-box">
-		<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
+		<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#callback_heading" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="">Get a Call Back</span></a>
+
 		</div>
 		</div>
 		

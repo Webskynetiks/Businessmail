@@ -25,7 +25,8 @@
 							</div>
 
 							<div class="btns-box">
-								<a href="#" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="#callback">Get a Call Back</span></a>
+								<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#callback_heading" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="">Get a Call Back</span></a>
+
 							</div>
 						</div>
 					</div>
@@ -61,7 +62,8 @@
 							<div class="title">for Modern Enterprises</div>
 							<!-- <div class="text"> “Technology from Google  that inspires the dynamics of business culture, increase efficiency, decrease direct expenses and <br><b style="color:red">"GROW PROFITS"!</b></div> -->
 							<div class="btns-box">
-								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
+<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#callback_heading" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="">Get a Call Back</span></a>
+
 								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
 							</div>
 						</div>
@@ -96,7 +98,8 @@
 
 							<!-- <div class="text"> “Technology from Google  that inspires the dynamics of business culture, increase efficiency, decrease direct expenses and <br><b style="color:red">"GROW PROFITS"!</b></div> -->
 							<div class="btns-box">
-								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
+								<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#callback_heading" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="">Get a Call Back</span></a>
+
 								<!-- <a href="#" class="theme-btn btn-style-two"><span class="txt">Explore More</span></a> -->
 							</div>
 						</div>
@@ -128,7 +131,8 @@
 							</h1>
 							<div class="title">for Businesses of All Sizes</div>
 							<div class="btns-box">
-								<a href="#" class="theme-btn btn-style-one" data-toggle="modal" data-target="#callback"><span class="txt">Get a Call Back</span></a>
+								<a href="google-technical-support-contact-mail-gsuite-workspace-partner-reseller-trial-signup-renewal-india.php#callback_heading" class="theme-btn btn-style-one"><span class="txt" data-toggle="modal" data-target="">Get a Call Back</span></a>
+
 							</div>
 						</div>
 					</div>
